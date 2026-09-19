@@ -116,8 +116,7 @@ Rules for copying: [`eval/transcription_rules.md`](eval/transcription_rules.md).
 
 ## "How sure" scores
 
-The guide asks for "confidence scores on extracted fields" without defining them. Here, each value gets a score from
-0 to 1 made of four simple checks ([`confidence.py`](hardware_sets/confidence.py)):
+Each value gets a score from 0 to 1 made of four simple checks ([`confidence.py`](hardware_sets/confidence.py)):
 1. Does the value start where its column starts?
 2. Does it look like what belongs in that column (a maker code in the maker column, and so on)?
 3. Was the row a plain single line, or pieced together from split lines?
@@ -139,7 +138,7 @@ Values below 0.7 are marked "needs checking" (orange in the review screen, liste
 
 ## What the output contains
 
-The guide's four fields:
+The four required fields:
 
 | Field | Meaning |
 |---|---|
@@ -161,7 +160,7 @@ Extras:
 | `confidence` | The "how sure" scores |
 | `set_notes`, `warnings` | Notes for the whole set, and anything that needs a look |
 
-## The guide's tricky cases
+## Tricky cases
 
 | Case | Example | What the program does |
 |---|---|---|

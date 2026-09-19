@@ -1,7 +1,6 @@
 """Confidence scores: how likely each extracted value is to be right (0-1).
 
-The brief asks for "confidence scores on extracted fields" without defining them. Here a score is the
-product of four simple checks, each one tied to a way values actually went wrong in testing
+A score is the product of four simple checks, each one tied to a way values actually went wrong in testing
 (see eval/report_confidence_*.txt):
 
   column fit   Does the value start where its column starts? A value sitting off its column edge is

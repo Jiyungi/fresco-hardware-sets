@@ -1,6 +1,6 @@
 """The output format: hardware sets and their components.
 
-Fields required by the brief: set_number, description, location, components
+Required fields: set_number, description, location, components
 (qty, description, catalog_number, mfr, finish, notes). Everything else is an
 agreed extra that helps accuracy or review (unit, not_used, doors, set_notes,
 full maker/finish names from the PDF's own code tables, electrified flag,
