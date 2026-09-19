@@ -41,7 +41,7 @@ python3 -m venv .venv
 source .venv/bin/activate            # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
-python -m hardware_sets .            # read every PDF under this folder (about 2.5 minutes for all 43)
+python -m hardware_sets .            # read every PDF under this folder (3-5 minutes for all 43)
 streamlit run review_app.py          # the review screen
 pytest                               # the 62 automatic tests
 ```
@@ -66,8 +66,9 @@ To read one book: `python -m hardware_sets "HFH DG - HOSPITAL/08 71 00 - DOOR HA
 
 ## How well it works
 
-All 43 PDFs (21 projects): **1,307 sets and 11,519 parts** found in about 2.5 minutes. The 22 files that contain no
-hardware sets (glass, wood doors, mirrors, ...) correctly return nothing.
+All 43 PDFs (21 projects): **1,307 sets and 11,519 parts**, in 3-5 minutes on a laptop. 22 files contain sets. The
+other 21 (glass, wood doors, mirrors, ...) return nothing, which is correct: searching them finds no set titles, only
+lines like "see the Door Hardware Schedule".
 
 No answer sheet came with the challenge, so we made our own (see [How we checked](#how-we-checked)). The fair tests
 use sets the program was **never tuned on**, scored **once**, on a saved copy of the program, before any fixes:
@@ -83,7 +84,7 @@ spaces). A whole set is right only if every part in it is right and none is miss
 
 - **Improving across rounds:** each test round found mistakes, which were then fixed, and the next round used new sets. The latest round, on the most recent version of the program, is the best measure.
 - **After fixing what each round found:** the program now scores 197/197, 370/372 and 332/332 on those sets. These numbers are no longer independent. The 2 remaining differences are judgment calls: whether an unlabelled line like "Shared with D14B" is a note or part of the name.
-- **Found outside the tests:** while preparing the demo, Livelle set 45.0 showed a model number split between two parts. It was printed half a line above and half a line below its own row, and the top half went to the part above. The same layout (also in the finish column, "Dark" / "Bronze") affected 82 parts in 39 sets (Livelle and JC Ryan). It is fixed, and no answer-sheet score changed, because no answer sheet happened to include that layout. The answer sheets sample the books; they don't cover every set.
+- **Found outside the tests:** values printed half a line above and half a line below their row (Livelle set 45.0) were split between two parts. This affected 82 parts in 39 sets (Livelle, JC Ryan) and is fixed. No answer sheet included this layout, a reminder that the answer sheets sample the books rather than cover every set.
 - **Finding the sets:** every set title was found in all 20 books that have sets (1,182 titles, none invented).
 - **Reports:** [`eval/report_new_frozen.md`](eval/report_new_frozen.md), [`eval/report_fresh_frozen.md`](eval/report_fresh_frozen.md), [`eval/report_holdout_frozen.md`](eval/report_holdout_frozen.md).
 
