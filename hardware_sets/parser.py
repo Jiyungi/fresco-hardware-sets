@@ -529,11 +529,19 @@ class Segmenter:
             # The row's own cells are empty where the line half a line above has text: that text is the top
             # half of this row's centred cells ("Fail Safe Rim Exit Device with | [12] 55 PE8875 ETMI" above
             # "1 ... Sargent", JC Ryan). A line a full row above belongs to the previous row.
+            # Same when another cell is centred: "K1050 F =34" high BEV CSK (F @" half a line above
+            # "1 Armor Plate", "rated)" half a line below (Livelle set 45.0); finish "Dark" / "Bronze" around
+            # "1 Seal Kit" (set 106.0). The line must sit nearer this row than the line above it, and fill
+            # only cells this row leaves empty.
             mine, theirs = self._roles(start.line, start), self._roles(last.line, last)
+            gap_above = last.line.yc - prev.lines[-2].line.yc if len(prev.lines) >= 2 else 0.0
             if (last.kind == "cont" and last.line.page == start.line.page
                     and start.line.yc - last.line.yc < 0.75 * start.line.height
-                    and "description" not in mine and "description" in theirs
-                    and theirs <= {"description", "catalog", "notes"}):
+                    and (("description" not in mine and "description" in theirs
+                          and theirs <= {"description", "catalog", "notes"})
+                         or (theirs and "description" not in theirs and not theirs & mine
+                             and prev.lines[-2].line.page == last.line.page
+                             and gap_above > 2 * (start.line.yc - last.line.yc)))):
                 prev.lines.pop()
                 comp.lines.insert(0, RawLine(last.line, "cont"))
         cur.components.append(comp)

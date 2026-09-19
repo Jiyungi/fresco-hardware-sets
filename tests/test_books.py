@@ -128,6 +128,26 @@ def test_centred_row_with_quantity_between_its_text_lines():
     assert comps["Door Closer x Regular Arm mounted on pull side of door"].qty == 1
 
 
+def test_centred_catalog_cell_split_above_and_below_its_row():
+    # Livelle p.655: the Armor Plate's model number is printed half a line above its row ("K1050 F =34" ...
+    # (F @") and half a line below ("rated)"); the top half is not the Surface Closer's.
+    sets, _ = book("Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+                   (655, 655))
+    comps = {c.description: c for c in sets["45.0"].components}
+    assert comps["Surface Closer"].catalog_number == "DA 351 O"
+    assert comps["Armor Plate"].catalog_number == 'K1050 F =34" high BEV CSK (F @ rated)'
+    # p.681: the same in the finish column, "Dark" above and "Bronze" below "1 Seal Kit".
+    sets, _ = book("Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+                   (681, 681))
+    comps = {c.description: c for c in sets["106.0"].components}
+    assert (comps["Edge Seal"].finish, comps["Seal Kit"].finish) == ("Clear", "Dark Bronze")
+    # JC Ryan p.28: the same with the maker in the row ("1 Stop ... Rockwood").
+    sets, _ = book("JC Ryan 2/087100 - Door Hardware-6.pdf", (28, 28))
+    comps = {c.description: c for c in sets["2.0"].components}
+    assert comps["Kick Plate"].catalog_number == 'K1050 x 10" High x CSK x 4BE'
+    assert comps["Stop"].catalog_number == "RM860 / 446 / 9-ADJ Series Per Conditions"
+
+
 def test_door_lines_and_door_lists_are_not_components():
     sets, _ = book("Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.pdf",
                    (260, 264))

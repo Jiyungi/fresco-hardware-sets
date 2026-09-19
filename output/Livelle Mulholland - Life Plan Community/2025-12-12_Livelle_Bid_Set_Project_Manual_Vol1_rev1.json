@@ -8035,7 +8035,7 @@
           "qty": 3,
           "unit": null,
           "description": "Hinge, Full Mortise, Hvy Wt",
-          "catalog_number": "T4A3786 RM5270-12 Mtg-Type 8HD no clear",
+          "catalog_number": "T4A3786",
           "mfr": "MK",
           "finish": "US15",
           "notes": null,
@@ -8050,23 +8050,23 @@
                 74.3,
                 470.2,
                 508.6,
-                498.1
+                482.5
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.9,
+            "finish": 0.9
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Pull",
-          "catalog_number": "coat",
+          "catalog_number": "RM5270-12 Mtg-Type 8HD no clear coat",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -8079,7 +8079,7 @@
               "page": 653,
               "bbox": [
                 74.3,
-                492.2,
+                485.8,
                 506.1,
                 510.8
               ]
@@ -8087,10 +8087,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.72,
+            "finish": 0.72
           }
         },
         {
@@ -8770,7 +8770,7 @@
           "qty": 1,
           "unit": null,
           "description": "Push Plate",
-          "catalog_number": "RM5598B RM5270-12 Mtg-Type 8HD no clear",
+          "catalog_number": "RM5598B",
           "mfr": "RO",
           "finish": "US15",
           "notes": null,
@@ -8785,23 +8785,23 @@
                 74.3,
                 401.2,
                 506.1,
-                429.2
+                413.4
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.9,
+            "finish": 0.9
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Pull",
-          "catalog_number": "coat",
+          "catalog_number": "RM5270-12 Mtg-Type 8HD no clear coat",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -8814,7 +8814,7 @@
               "page": 654,
               "bbox": [
                 74.3,
-                423.3,
+                417.0,
                 506.1,
                 441.8
               ]
@@ -8822,10 +8822,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.72,
+            "finish": 0.72
           }
         },
         {
@@ -8984,7 +8984,7 @@
           }
         }
       ],
-      "confidence": 0.91,
+      "confidence": 0.9,
       "warnings": []
     },
     {
@@ -9580,7 +9580,7 @@
           "qty": 1,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 O K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 O",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -9595,23 +9595,23 @@
                 74.3,
                 378.1,
                 504.9,
-                405.9
+                390.3
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.9,
+            "finish": 0.72
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -9624,7 +9624,7 @@
               "page": 655,
               "bbox": [
                 74.3,
-                400.0,
+                393.7,
                 506.1,
                 418.5
               ]
@@ -9632,10 +9632,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.86
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.72,
+            "finish": 0.72
           }
         },
         {
@@ -9701,7 +9701,7 @@
           }
         }
       ],
-      "confidence": 0.91,
+      "confidence": 0.9,
       "warnings": []
     },
     {
@@ -10182,7 +10182,7 @@
           "qty": 1,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 O K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 O",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -10197,23 +10197,23 @@
                 74.3,
                 286.1,
                 504.9,
-                314.1
+                298.4
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.91,
+            "finish": 0.73
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -10226,7 +10226,7 @@
               "page": 656,
               "bbox": [
                 74.3,
-                308.1,
+                301.9,
                 506.1,
                 326.7
               ]
@@ -10234,10 +10234,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.86
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -10365,7 +10365,7 @@
           }
         }
       ],
-      "confidence": 0.92,
+      "confidence": 0.91,
       "warnings": []
     },
     {
@@ -11957,7 +11957,7 @@
           "qty": 1,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 O K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 O",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -11972,23 +11972,23 @@
                 74.3,
                 552.2,
                 504.9,
-                580.0
+                564.4
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.9,
+            "finish": 0.72
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -12001,7 +12001,7 @@
               "page": 658,
               "bbox": [
                 74.3,
-                574.2,
+                567.8,
                 506.1,
                 592.6
               ]
@@ -12009,10 +12009,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.86
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.72,
+            "finish": 0.72
           }
         },
         {
@@ -12047,7 +12047,7 @@
           }
         }
       ],
-      "confidence": 0.91,
+      "confidence": 0.9,
       "warnings": []
     },
     {
@@ -13874,7 +13874,7 @@
           "qty": 1,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 O K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 O",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -13889,23 +13889,23 @@
                 74.3,
                 222.5,
                 504.9,
-                250.4
+                234.7
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.91,
+            "finish": 0.73
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -13918,7 +13918,7 @@
               "page": 661,
               "bbox": [
                 74.3,
-                244.5,
+                238.1,
                 506.1,
                 263.1
               ]
@@ -13926,10 +13926,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -14026,7 +14026,7 @@
           }
         }
       ],
-      "confidence": 0.92,
+      "confidence": 0.91,
       "warnings": []
     },
     {
@@ -18801,7 +18801,7 @@
           "qty": 1,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 O K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 O",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -18816,23 +18816,23 @@
                 74.3,
                 180.5,
                 504.9,
-                208.4
+                192.7
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.91,
+            "finish": 0.73
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -18845,7 +18845,7 @@
               "page": 667,
               "bbox": [
                 74.3,
-                202.5,
+                196.2,
                 506.1,
                 221.0
               ]
@@ -18853,10 +18853,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.86,
-            "finish": 0.86
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -29287,7 +29287,7 @@
           "description": "Edge Seal",
           "catalog_number": "D-SS-STK-CLR",
           "mfr": "RI",
-          "finish": "Clear Dark",
+          "finish": "Clear",
           "notes": null,
           "mfr_name": null,
           "finish_name": null,
@@ -29300,16 +29300,16 @@
                 74.3,
                 206.9,
                 501.8,
-                234.7
+                219.1
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.73,
-            "finish": 0.51
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.76,
+            "finish": 0.72
           }
         },
         {
@@ -29318,7 +29318,7 @@
           "description": "Seal Kit",
           "catalog_number": "D-SS44-STK-DBZ",
           "mfr": "RI",
-          "finish": "Bronze",
+          "finish": "Dark Bronze",
           "notes": null,
           "mfr_name": null,
           "finish_name": null,
@@ -29329,7 +29329,7 @@
               "page": 681,
               "bbox": [
                 74.3,
-                228.9,
+                222.5,
                 501.8,
                 247.3
               ]
@@ -29337,10 +29337,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.73,
-            "finish": 0.77
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.61,
+            "finish": 0.65
           }
         },
         {
@@ -30591,7 +30591,7 @@
           "qty": 2,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "351 PH10 K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "351 PH10",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -30606,23 +30606,23 @@
                 74.3,
                 509.2,
                 504.9,
-                537.1
+                521.5
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.88,
-            "finish": 0.7
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.92,
+            "finish": 0.74
           }
         },
         {
           "qty": 2,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -30635,7 +30635,7 @@
               "page": 682,
               "bbox": [
                 74.3,
-                531.2,
+                524.8,
                 506.1,
                 549.8
               ]
@@ -30643,10 +30643,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.88,
-            "finish": 0.88
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.74,
+            "finish": 0.74
           }
         },
         {
@@ -30743,7 +30743,7 @@
           }
         }
       ],
-      "confidence": 0.93,
+      "confidence": 0.92,
       "warnings": []
     },
     {
@@ -31596,7 +31596,7 @@
           "qty": 2,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 P10 K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 P10",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -31611,23 +31611,23 @@
                 74.3,
                 51.4,
                 504.9,
-                79.2
+                63.6
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.91,
+            "finish": 0.73
           }
         },
         {
           "qty": 2,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -31640,7 +31640,7 @@
               "page": 684,
               "bbox": [
                 74.3,
-                73.3,
+                67.0,
                 506.1,
                 91.9
               ]
@@ -31648,10 +31648,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -31686,7 +31686,7 @@
           }
         }
       ],
-      "confidence": 0.9,
+      "confidence": 0.89,
       "warnings": []
     },
     {
@@ -31897,7 +31897,7 @@
           "qty": 2,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "DA 351 O K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "DA 351 O",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -31912,23 +31912,23 @@
                 74.3,
                 300.8,
                 504.9,
-                328.6
+                313.0
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.7
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.92,
+            "finish": 0.74
           }
         },
         {
           "qty": 2,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -31941,7 +31941,7 @@
               "page": 684,
               "bbox": [
                 74.3,
-                322.7,
+                316.4,
                 506.1,
                 341.3
               ]
@@ -31949,10 +31949,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.74,
+            "finish": 0.74
           }
         },
         {
@@ -33296,7 +33296,7 @@
           "qty": 2,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "351 CPS K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "351 CPS",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -33311,23 +33311,23 @@
                 74.3,
                 665.7,
                 504.9,
-                693.6
+                678.0
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.68
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.9,
+            "finish": 0.72
           }
         },
         {
           "qty": 2,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -33340,7 +33340,7 @@
               "page": 685,
               "bbox": [
                 74.3,
-                687.7,
+                681.3,
                 506.1,
                 706.3
               ]
@@ -33348,10 +33348,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.72,
+            "finish": 0.72
           }
         },
         {
@@ -34031,7 +34031,7 @@
           "qty": 1,
           "unit": null,
           "description": "Dust Proof Strike",
-          "catalog_number": "570 RX 7/8\" Lip Length 70 8271-24V",
+          "catalog_number": "570",
           "mfr": "RO",
           "finish": "BSP",
           "notes": null,
@@ -34046,23 +34046,23 @@
                 74.3,
                 554.2,
                 506.1,
-                582.1
+                566.5
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.91,
+            "finish": 0.91
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Fail Secure Elec Lock",
-          "catalog_number": "LNMW",
+          "catalog_number": "RX 7/8\" Lip Length 70 8271-24V LNMW",
           "mfr": "SA",
           "finish": "BSP",
           "notes": null,
@@ -34075,7 +34075,7 @@
               "page": 686,
               "bbox": [
                 74.3,
-                576.2,
+                569.8,
                 504.9,
                 594.7
               ]
@@ -34083,10 +34083,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -34186,7 +34186,7 @@
           "qty": 2,
           "unit": null,
           "description": "Surface Closer",
-          "catalog_number": "351 CPSH K1050 F =34\" high BEV CSK (F @",
+          "catalog_number": "351 CPSH",
           "mfr": "SA",
           "finish": "EN",
           "notes": null,
@@ -34201,23 +34201,23 @@
                 74.3,
                 645.1,
                 504.9,
-                672.9
+                657.3
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.69
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.91,
+            "finish": 0.73
           }
         },
         {
           "qty": 2,
           "unit": null,
           "description": "Armor Plate",
-          "catalog_number": "rated)",
+          "catalog_number": "K1050 F =34\" high BEV CSK (F @ rated)",
           "mfr": "RO",
           "finish": "US32D",
           "notes": null,
@@ -34230,7 +34230,7 @@
               "page": 686,
               "bbox": [
                 74.3,
-                667.1,
+                660.7,
                 506.1,
                 685.6
               ]
@@ -34238,10 +34238,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -36289,7 +36289,7 @@
           "qty": 1,
           "unit": null,
           "description": "Door Top Rail",
-          "catalog_number": "DRT-275BD-T DR- OtherAAPrep_FinSet1 DRT-275BD-B DR-",
+          "catalog_number": "DRT-275BD-T DR- OtherAAPrep_FinSet1",
           "mfr": "GS",
           "finish": "US32D",
           "notes": null,
@@ -36304,7 +36304,7 @@
                 74.3,
                 517.9,
                 504.8,
-                558.4
+                542.8
               ]
             }
           ],
@@ -36320,7 +36320,7 @@
           "qty": 1,
           "unit": null,
           "description": "Door Bottom Rail",
-          "catalog_number": "OtherAAPrep_FinSet1",
+          "catalog_number": "DRT-275BD-B DR- OtherAAPrep_FinSet1",
           "mfr": "GS",
           "finish": "US32D",
           "notes": null,
@@ -36333,7 +36333,7 @@
               "page": 689,
               "bbox": [
                 74.3,
-                552.6,
+                546.2,
                 504.8,
                 571.0
               ]
@@ -36341,10 +36341,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.73,
-            "finish": 0.85
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.61,
+            "finish": 0.72
           }
         },
         {
@@ -36441,7 +36441,7 @@
           }
         }
       ],
-      "confidence": 0.86,
+      "confidence": 0.84,
       "warnings": []
     },
     {
@@ -38100,7 +38100,7 @@
           "qty": 1,
           "unit": null,
           "description": "Continuous Hinge",
-          "catalog_number": "BSPFM95HD1 PT Cut to net LD WR 5CH 55 56 72 PE8504 Less",
+          "catalog_number": "BSPFM95HD1 PT Cut to net",
           "mfr": "PE",
           "finish": null,
           "notes": null,
@@ -38115,15 +38115,15 @@
                 74.3,
                 145.2,
                 503.6,
-                173.2
+                157.4
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.77,
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.81,
             "finish": 0.81
           }
         },
@@ -38131,7 +38131,7 @@
           "qty": 1,
           "unit": null,
           "description": "Rim Elec Exit Device, Key Trim",
-          "catalog_number": "Pull",
+          "catalog_number": "LD WR 5CH 55 56 72 PE8504 Less Pull",
           "mfr": "SA",
           "finish": "BSP",
           "notes": null,
@@ -38144,7 +38144,7 @@
               "page": 692,
               "bbox": [
                 74.3,
-                167.3,
+                160.9,
                 504.9,
                 185.8
               ]
@@ -38152,10 +38152,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.72,
+            "finish": 0.72
           }
         },
         {
@@ -38469,7 +38469,7 @@
           }
         }
       ],
-      "confidence": 0.91,
+      "confidence": 0.9,
       "warnings": []
     },
     {
@@ -39707,7 +39707,7 @@
           "qty": 1,
           "unit": null,
           "description": "Electrified Inter Pivot",
-          "catalog_number": "EM19 QC-8 LD WR 5CH 55 56 72 PE8504 Less",
+          "catalog_number": "EM19 QC-8",
           "mfr": "RF",
           "finish": "622",
           "notes": null,
@@ -39722,23 +39722,23 @@
                 74.3,
                 255.9,
                 504.2,
-                284.7
+                268.1
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.92,
+            "finish": 0.92
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Rim Elec Exit Device, Key Trim",
-          "catalog_number": "Pull",
+          "catalog_number": "LD WR 5CH 55 56 72 PE8504 Less Pull",
           "mfr": "SA",
           "finish": "BSP",
           "notes": null,
@@ -39751,7 +39751,7 @@
               "page": 694,
               "bbox": [
                 74.3,
-                278.8,
+                272.5,
                 504.9,
                 297.4
               ]
@@ -39759,10 +39759,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.87,
-            "finish": 0.87
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.73,
+            "finish": 0.73
           }
         },
         {
@@ -40076,7 +40076,7 @@
           }
         }
       ],
-      "confidence": 0.92,
+      "confidence": 0.91,
       "warnings": []
     },
     {
@@ -42355,7 +42355,7 @@
           "qty": 1,
           "unit": null,
           "description": "Automatic Opener HD Stop Arm",
-          "catalog_number": "D6061-36 120V (dual-push) BPS-IG-xx\"-CRD RDR & IC",
+          "catalog_number": "D6061-36 120V (dual-push)",
           "mfr": "NO",
           "finish": "BSP",
           "notes": null,
@@ -42370,23 +42370,23 @@
                 74.3,
                 446.8,
                 506.7,
-                475.7
+                459.1
               ]
             }
           ],
           "confidence": {
-            "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.85,
-            "finish": 0.85
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.9,
+            "finish": 0.9
           }
         },
         {
           "qty": 1,
           "unit": null,
           "description": "Bollard (exterior)",
-          "catalog_number": "PCBLACK (custom height)",
+          "catalog_number": "BPS-IG-xx\"-CRD RDR & IC PCBLACK (custom height)",
           "mfr": "WK",
           "finish": "BLK",
           "notes": null,
@@ -42399,7 +42399,7 @@
               "page": 697,
               "bbox": [
                 74.3,
-                469.9,
+                463.5,
                 509.2,
                 488.3
               ]
@@ -42407,10 +42407,10 @@
           ],
           "confidence": {
             "qty": 0.92,
-            "description": 0.9,
-            "catalog_number": 0.9,
-            "mfr": 0.73,
-            "finish": 0.85
+            "description": 0.76,
+            "catalog_number": 0.76,
+            "mfr": 0.61,
+            "finish": 0.72
           }
         },
         {
@@ -42724,7 +42724,7 @@
           }
         }
       ],
-      "confidence": 0.91,
+      "confidence": 0.9,
       "warnings": []
     },
     {
