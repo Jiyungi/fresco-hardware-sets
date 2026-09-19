@@ -1,0 +1,252 @@
+{
+  "source_pdf": "2353 Gerrard Street Shelter/Hdw Spec & Sch-IFT_5.pdf",
+  "all_set_numbers": [
+    "AL 01",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "U-01",
+    "U-02",
+    "U-03"
+  ],
+  "labeler_notes": "Set titles printed 'Set #AL 01', 'Set #01' -> 'AL 01', '01'. No set descriptions are printed (only 'Doors:' lines, excluded) -> description null. Columns: qty / description / catalog / finish / mfr. Rows with 'By Frame Mfr./Supplier' / 'By Security Provider' / 'Wiring Diagrams' in the catalog column have blank finish and mfr; Door Position Switch(es) has mfr HA but blank finish. 'Operational Description:' block excluded. No struck-out text on p.19. all_set_numbers: 35 titles on pp.19-36; there is no Set #15 anywhere in the PDF (p.27 goes #14 -> #16), and the U-01..U-03 sets follow #32.",
+  "sets": [
+    {
+      "set_number": "AL 01",
+      "pages": [
+        19
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Continuous Hinge(s)",
+          "catalog_number": "780-112HD x LAR EPT Prep",
+          "finish": "CLR",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Power Transfer(s)",
+          "catalog_number": "2-679-0623",
+          "finish": "ALM",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Exit Device",
+          "catalog_number": "40-CBK ER EX EC2",
+          "finish": "630",
+          "mfr": "DE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder(s)",
+          "catalog_number": "3902 x LAR",
+          "finish": "US26D",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Construction Core(s)",
+          "catalog_number": "3982-BLU",
+          "finish": "BLU",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "SFIC Core(s)",
+          "catalog_number": "3969-C",
+          "finish": "US26D",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Offset Door Pull(s)",
+          "catalog_number": "910P 36",
+          "finish": "US10B",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Overhead Stop(s)",
+          "catalog_number": "7016 SRF",
+          "finish": "US32D",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Single Operator",
+          "catalog_number": "8318 Push",
+          "finish": "ALM",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Thermally Broken Threshold",
+          "catalog_number": "420S x LAR",
+          "finish": "MIL",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Weatherstrip",
+          "catalog_number": "By Frame Mfr./Supplier",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Sweep(s)",
+          "catalog_number": "750S N x LAR",
+          "finish": "CLR",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Rain Drip",
+          "catalog_number": "810S x LAR",
+          "finish": "MIL",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Door Position Switch(es)",
+          "catalog_number": "2-679-0626",
+          "finish": null,
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Actuator(s)",
+          "catalog_number": "8228-02H/00",
+          "finish": "US32D",
+          "mfr": "HA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Reader/Keypad",
+          "catalog_number": "By Security Provider",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Intercom",
+          "catalog_number": "By Security Provider",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Remote Exit Button",
+          "catalog_number": "By Security Provider",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Power Supply",
+          "catalog_number": "By Security Provider",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Wiring Diagrams",
+          "catalog_number": "Wiring Diagrams",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "01",
+      "pages": [
+        19
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Hardware",
+          "catalog_number": "by Door Mfr./Supplier",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

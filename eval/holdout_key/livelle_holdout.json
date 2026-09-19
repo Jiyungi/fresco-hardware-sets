@@ -1,0 +1,236 @@
+{
+  "source_pdf": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Transcribed from text + page images; no strikeouts. Set 73.0 runs pp.664-665 (only the hinge row is on 664); set 102.0 runs pp.678-679. No unit column in this book, so unit is null. Descriptions come from the 'Description:' line, copied with their parentheses. Orange lightning icons after the MFR column are ignored. 'Notes:' / 'Operational Narrative' blocks are set-level and excluded.",
+  "sets": [
+    {
+      "set_number": "73.0",
+      "pages": [
+        664,
+        665
+      ],
+      "description": "BOH Pool Chem Storage (WDL)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2314 NRP",
+          "finish": "US32D",
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Access Control Cyl Lock",
+          "catalog_number": "70 IN100-10XG77-BIPS B LP",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Closer",
+          "catalog_number": "351 P9",
+          "finish": "EN",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Kick Plate",
+          "catalog_number": "K1050=10\" high CSK BEV",
+          "finish": "US32D",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Door Stop",
+          "catalog_number": "406",
+          "finish": "US32D",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Gasketing",
+          "catalog_number": "S88BL",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Sweep",
+          "catalog_number": "18062CNB",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "270A MSES25 or Per Detail",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "102.0",
+      "pages": [
+        678,
+        679
+      ],
+      "description": "Exterior Staff Entry Storefront (CR EL)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Continuous Hinge",
+          "catalog_number": "BSPFM95HD1 PT Cut to net",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Fail Secure Elec Lock",
+          "catalog_number": "RX 72 8271-24V LNP",
+          "finish": "BSP",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "finish": "US4",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Closer",
+          "catalog_number": "351 P9",
+          "finish": "BSP",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Drop Plate (if required)",
+          "catalog_number": "351D",
+          "finish": "BSP",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Door Stop",
+          "catalog_number": "471",
+          "finish": "BSP",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Sweep",
+          "catalog_number": "18062BSPNB",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold (verify per detail)",
+          "catalog_number": "176BSP / 2727BSP MSES25",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Electric Power Transfer",
+          "catalog_number": "EL-CEPT",
+          "finish": "BSP",
+          "mfr": "SU",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "ElectroLynx Door Harness",
+          "catalog_number": "QC-C300",
+          "finish": null,
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "ElectroLynx Frame Harness",
+          "catalog_number": "QC-C1500P",
+          "finish": null,
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Position Switch",
+          "catalog_number": "DPS-M-BK",
+          "finish": null,
+          "mfr": "SU",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Card Reader",
+          "catalog_number": "Furnished by Security Contractor",
+          "finish": null,
+          "mfr": "HD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Latch Protector",
+          "catalog_number": "325",
+          "finish": "BSP",
+          "mfr": "RO",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

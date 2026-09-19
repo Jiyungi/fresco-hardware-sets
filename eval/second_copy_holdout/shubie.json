@@ -1,0 +1,11 @@
+{"source_pdf": "Shubie Center/e2231795-IFT_Specs.pdf", "all_set_numbers": [], "labeler_notes": "Set 02 table has no column header row; columns read as QTY, UNIT, DESCRIPTION, CATALOG NUMBER, FINISH, MFR by position. Operation text below the list excluded as set-level notes.",
+ "sets": [
+  {"set_number": "02", "pages": [175], "description": null, "not_used": false,
+   "components": [
+    {"qty": 1, "unit": "EA", "description": "CONT. HINGE", "catalog_number": "112XY", "finish": "711", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "PANIC HARDWARE", "catalog_number": "33A-NL-OP-388", "finish": "315", "mfr": "VON", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "RIM CYLINDER", "catalog_number": "80-329", "finish": "622", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "LONG DOOR PULL", "catalog_number": "9264 48\" 20\" O", "finish": "BLK", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "OH STOP", "catalog_number": "100S", "finish": "BLK", "mfr": "GLY", "notes": null}
+   ]}
+ ]}

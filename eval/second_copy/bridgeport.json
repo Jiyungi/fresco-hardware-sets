@@ -1,0 +1,270 @@
+{
+ "source_pdf": "81-85 Bridgeport/08-70-00-Hardware-Schedule.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Columns: qty | description | catalog | finish; no unit and no mfr column (unit/mfr null). 'Heading #N' title has no description. Door lines ('Item #1 1 Single door ...' with handing RHR/LHRA), size lines, and set-level note lines ('Card Access Not Shown...', '1 Door Opens Automatically...') excluded. Set 2 first Continuous Hinge: second line '@ 42\" Top Down' sits in the catalog column under the row and was joined into catalog_number (could arguably be notes). Set 2 last row has qty 1 and blank description; catalog 'Power Supply - By Security Contractor'.",
+ "sets": [
+  {
+   "set_number": "1",
+   "pages": [
+    3
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "Standard Hinge",
+     "catalog_number": "T4A3386 5\" x 4 1/2\" C32D NRP",
+     "finish": "C32D",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Exit Device",
+     "catalog_number": "25-R-L-NL 622 510L-NL LAT 626 RHR 965 x 2134 Door",
+     "finish": "626/622",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "finish": "626",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "finish": "689",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstripping",
+     "catalog_number": "W-50S-CA x 38\"x84\" Opening",
+     "finish": "CA",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstripping",
+     "catalog_number": "W-38S-CA x 38\"",
+     "finish": "CA",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Threshold",
+     "catalog_number": "CT-45 x 38\"",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "2",
+   "pages": [
+    4
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Continuous Hinge",
+     "catalog_number": "112XY-83\" C28 EPT @ 42\" Top Down",
+     "finish": "C28",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Continuous Hinge",
+     "catalog_number": "112XY-83\" C28",
+     "finish": "C28",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Accessory",
+     "catalog_number": "EPT-10-689",
+     "finish": "689",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Electrified Exit Device",
+     "catalog_number": "RX-MEL-24-R-C 630 718C 626 LHR 4' LENGTH CON 965 x 2147 Door",
+     "finish": "626/630",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Exit Device",
+     "catalog_number": "24-R L 630 RHR 4' LENGTH 965 x 2147 Door",
+     "finish": "630",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Cylinder",
+     "catalog_number": "951 626 1 1/4\" G 6-Pin Open",
+     "finish": "626",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Removable Mullion",
+     "catalog_number": "KR-4023 689 84 17/32\"",
+     "finish": "689",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "finish": "626",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Door Pull",
+     "catalog_number": "8145EZHD-18 C32D-316",
+     "finish": "C32D-316",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "finish": "C26D",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689 SC70A-18",
+     "finish": "689",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 LHR Push Series",
+     "finish": "US28",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "finish": "628",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstripping",
+     "catalog_number": "Weatherstrip Set By Door Supplier",
+     "finish": "CA",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Threshold",
+     "catalog_number": "CT-65(Stock Size) x 76\"",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Door Postion Switch",
+     "catalog_number": "679-05HM",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Schematic",
+     "catalog_number": "Opening Schematic By Others",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": null,
+     "catalog_number": "Power Supply - By Security Contractor",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

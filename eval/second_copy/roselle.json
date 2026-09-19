@@ -1,0 +1,218 @@
+{
+ "source_pdf": "Roselle Public Library/087100_FL_-_Door_Hardware_IFB_REVISED.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Grid with stacked SET column: description = all words stacked in the SET cell joined (incl. 'CARD READER' printed at bottom of SET cell beside DOOR ACCESS CONTROL DEVICES row for 1.2/2.1). Rows holding only a NOTES entry ('COORDINATE W/ ... ENTRANCE MFR.') excluded. Qty '--' -> null. 'CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)' has no ' - ' separator: mfr null, whole text as catalog_number. 'DOOR ACCESS' / 'CONTROL DEVICES' two-line hardware type joined.",
+ "sets": [
+  {
+   "set_number": "1.1",
+   "pages": [
+    15
+   ],
+   "description": "SLIDING AUTO EXTR ENTR",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "CYLINDER / CORE",
+     "catalog_number": "FSIC PRIMUS",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "SCHLAGE",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "1.2",
+   "pages": [
+    15
+   ],
+   "description": "CURTAINWALL EXTR ENTR SINGLE DOOR CARD READER",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "MORTISE HINGE",
+     "catalog_number": "5BB1 4.5\" x 4.5\"",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "IVES",
+     "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "MORTISE LOCKSET",
+     "catalog_number": "L9077, 18 LEVEL, L ESCUTCHEON - FSIC PRIMUS",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "SCHLAGE",
+     "notes": "CLASSROOM SECURITY W/ HOLDBACK FUNCTION"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "ELECTRIC STRIKE",
+     "catalog_number": "6200 SERIES",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "VON DUPRIN",
+     "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP - EDA ARM - METAL COVER",
+     "finish": "691 (LIGHT BRONZE)",
+     "mfr": "LCN",
+     "notes": "EXTRA DUTY ARM, METAL COVER"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "description": "GASKETING / SWEEP",
+     "catalog_number": "WEATHER GASKETING & SWEEP",
+     "finish": "BLACK",
+     "mfr": "PEMKO / NGP / ZERO",
+     "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR."
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "description": "DOOR ACCESS CONTROL DEVICES",
+     "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+     "finish": null,
+     "mfr": null,
+     "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR"
+    }
+   ]
+  },
+  {
+   "set_number": "1.3",
+   "pages": [
+    15
+   ],
+   "description": "CURTAINWALL EXTR EGRESS SINGLE DOOR",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "MORTISE HINGE",
+     "catalog_number": "5BB1 4.5\" x 4.5\"",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "IVES",
+     "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "HW MORTISE HINGE",
+     "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "IVES",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "PANIC HARDWARE",
+     "catalog_number": "35A MORTISE DEVICE, CONCEALED VERTICAL RODS, 18 LEVER, L ESCUTCHEON, HARDWIRED ALARM KIT W/ POWER SUPPLY - FSIC PRIMUS",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "VON DUPRIN",
+     "notes": "PANIC / CLASSROOM FUNCTION"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP - EDA ARM - METAL COVER",
+     "finish": "691 (LIGHT BRONZE)",
+     "mfr": "LCN",
+     "notes": "EXTRA DUTY ARM, METAL COVER"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "description": "GASKETING / SWEEP",
+     "catalog_number": "WEATHER GASKETING & SWEEP",
+     "finish": "BLACK",
+     "mfr": "PEMKO / NGP / ZERO",
+     "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR."
+    }
+   ]
+  },
+  {
+   "set_number": "2.1",
+   "pages": [
+    15
+   ],
+   "description": "HM DOOR/FRM EXTR ENTR SINGLE DOOR CARD READER",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "MORTISE HINGE",
+     "catalog_number": "5BB1 4.5\" x 4.5\"",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "IVES",
+     "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "MORTISE LOCKSET",
+     "catalog_number": "L9070, 18 LEVEL, L ESCUTCHEON - FSIC PRIMUS",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "SCHLAGE",
+     "notes": "CLASSROOM FUNCTION"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "ELECTRIC STRIKE",
+     "catalog_number": "6200 SERIES",
+     "finish": "613 (OIL RUBBED BRONZE)",
+     "mfr": "VON DUPRIN",
+     "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP - EDA ARM - METAL COVER",
+     "finish": "691 (LIGHT BRONZE)",
+     "mfr": "LCN",
+     "notes": "EXTRA DUTY ARM, METAL COVER"
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "description": "GASKETING / SWEEP",
+     "catalog_number": "WEATHER GASKETING & SWEEP",
+     "finish": "BLACK",
+     "mfr": "PEMKO / NGP / ZERO",
+     "notes": null
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "description": "THRESHOLD",
+     "catalog_number": "EXTR. THRESHOLD",
+     "finish": null,
+     "mfr": "PEMKO / NGP / ZERO",
+     "notes": null
+    },
+    {
+     "qty": null,
+     "unit": null,
+     "description": "DOOR ACCESS CONTROL DEVICES",
+     "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+     "finish": null,
+     "mfr": null,
+     "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR"
+    }
+   ]
+  }
+ ]
+}

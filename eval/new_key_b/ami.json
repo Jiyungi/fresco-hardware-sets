@@ -1,0 +1,243 @@
+{
+ "source_pdf": "AMI _Copy_/c43c36d9-000_Full_Volume_ATC_Renovation_Bid_Specs_Volume_1__1_.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Titles 'Hardware Group No. 11E' / '18B', no description. Small icons between catalog and finish columns ignored. 11E description 'FIRE RATED' + 'REMOVABLE MULLION' joined (wrapped cell). Both sets fit on one page each; each set number occurs only once in the book. No struck-out rows.",
+ "sets": [
+  {
+   "set_number": "11E",
+   "pages": [
+    413
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "CONT. HINGE",
+     "catalog_number": "112XY",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FIRE RATED REMOVABLE MULLION",
+     "catalog_number": "KR9954",
+     "finish": "689",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FIRE EXIT HARDWARE",
+     "catalog_number": "98-EO-F-499F",
+     "finish": "626",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FIRE EXIT HARDWARE",
+     "catalog_number": "98-L-BE-F-17-499F",
+     "finish": "626",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "MORTISE CYLINDER",
+     "catalog_number": "20-061 ICX 36-083",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FSIC CORE",
+     "catalog_number": "23-030 CKC EV29 T",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 8\" X 1\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "MAGNET",
+     "catalog_number": "SEM7820 12V/24V/120V",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "488FSBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WEATHERSTRIPPING",
+     "catalog_number": "8217SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "MULLION SEAL",
+     "catalog_number": "8780NBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "8192AA",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "18B",
+   "pages": [
+    414
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 6,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5 NRP",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONST LATCHING BOLT",
+     "catalog_number": "FB51P",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DUST PROOF STRIKE",
+     "catalog_number": "DP2",
+     "finish": "626",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "STOREROOM LOCK",
+     "catalog_number": "L9080T 17A",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FSIC CORE",
+     "catalog_number": "23-030 CKC EV29 T",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP EDA",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 8\" X 1\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS406/407CCV",
+     "finish": "626",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "488FSBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WEATHERSTRIPPING",
+     "catalog_number": "8217SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "source_pdf": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Title parentheses hold door numbers only, so description null. Table has columns Qty | unit | Description | (unlabeled finish column: BBLK/BLK/622/693/GRY); values of the unlabeled 4th column put in finish; no catalog or mfr column (null). Set 16: struck-out word 'ENTRY' removed from 'ENTRY STOREROOM LEVER SET'. Set 28 title is at the bottom of p.15, rows on p.16. Curly apostrophe in OWNER’S kept as printed.",
+ "sets": [
+  {
+   "set_number": "16",
+   "pages": [
+    11
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 4,
+     "unit": "EA",
+     "description": "BB HINGE",
+     "catalog_number": null,
+     "finish": "BBLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ELECT STRIKE",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "STOREROOM LEVER SET",
+     "catalog_number": null,
+     "finish": "622",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CORE",
+     "catalog_number": null,
+     "finish": "622",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": null,
+     "finish": "693",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "POWER SUPPLY",
+     "catalog_number": null,
+     "finish": "GRY",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CARD READER (BY OWNER’S SECURITY CONTRACTOR)",
+     "catalog_number": null,
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "28",
+   "pages": [
+    15,
+    16
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 4,
+     "unit": "EA",
+     "description": "BB HINGE",
+     "catalog_number": null,
+     "finish": "BBLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "B/B DUMMY LEVERS",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": null,
+     "finish": "693",
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

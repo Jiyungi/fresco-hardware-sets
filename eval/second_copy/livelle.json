@@ -1,0 +1,336 @@
+{
+  "source_pdf": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Columns: qty, description, catalog, finish, mfr; no unit column so unit is null everywhere. 'Notes:' blocks under each set are set-level and excluded. Lightning-bolt icons after the mfr column ignored. 145.0: single 'Specialty Door' row with blank qty; '00' sits in the mfr column (x=491), finish blank; not marked not-used. MISC: '*' qty -> null; Knox Box finish printed as '-' -> null.",
+  "sets": [
+    {
+      "set_number": "1.0",
+      "pages": [
+        643
+      ],
+      "description": "Unit Entry Door (WDL)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "finish": "US15",
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Access Control Cyl Lock",
+          "catalog_number": "70 IN100-10XG77-BIPS B LMW",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Closer Cush Stop",
+          "catalog_number": "CA1601 P",
+          "finish": "689",
+          "mfr": "NO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Wall Stop",
+          "catalog_number": "430-RKW",
+          "finish": "US15",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Viewer",
+          "catalog_number": "626",
+          "finish": "DCRM",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Sound Gasketing",
+          "catalog_number": "S773BL",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Door Bottom",
+          "catalog_number": "2113AV",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "2.0",
+      "pages": [
+        644
+      ],
+      "description": "Unit Entry Fire Glazed Storefront Door (WDL)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 4,
+          "unit": null,
+          "description": "Hinge, Full Mortise, Hvy Wt",
+          "catalog_number": "T4A3786",
+          "finish": "US15",
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Access Control Cyl Lock",
+          "catalog_number": "70 IN100-10XG77-BIPS B LMW",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Closer Cush Stop",
+          "catalog_number": "CA1601 P",
+          "finish": "689",
+          "mfr": "NO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Viewer",
+          "catalog_number": "626",
+          "finish": "DCRM",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Sound Gasketing",
+          "catalog_number": "S773BL",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Door Bottom",
+          "catalog_number": "2113AV",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "3.0",
+      "pages": [
+        644
+      ],
+      "description": "Villa Custom Door (WDL)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Pivot Set",
+          "catalog_number": "195",
+          "finish": "622",
+          "mfr": "RF",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Intermediate Pivot",
+          "catalog_number": "M19",
+          "finish": "622",
+          "mfr": "RF",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Access Control Mort Lock",
+          "catalog_number": "IN100-82277-BIPS LNMW LC",
+          "finish": "BSP",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder",
+          "catalog_number": "72 43 verify cam",
+          "finish": "BSP",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "finish": "US4",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Door Stop",
+          "catalog_number": "RM850",
+          "finish": "BSP",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Sweep",
+          "catalog_number": "18062BSPNB",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Viewer",
+          "catalog_number": "627",
+          "finish": "BLK",
+          "mfr": "RO",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "145.0",
+      "pages": [
+        699
+      ],
+      "description": "WI Gate",
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": null,
+          "description": "Specialty Door",
+          "catalog_number": "Hardware is furnished complete by Vendor",
+          "finish": null,
+          "mfr": "00",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "MISC",
+      "pages": [
+        700
+      ],
+      "description": "Misc to furnish",
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": null,
+          "description": "Hub (type & number as required)",
+          "catalog_number": "AH20W14 by Security Contractor",
+          "finish": null,
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 10,
+          "unit": null,
+          "description": "Power Supply",
+          "catalog_number": "AQL104-E1",
+          "finish": null,
+          "mfr": "SU",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Key Cabinet",
+          "catalog_number": "AWC450-S",
+          "finish": "GRY",
+          "mfr": "TK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Knox Box",
+          "catalog_number": "3200R (quantity per drawings)",
+          "finish": null,
+          "mfr": "KN",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

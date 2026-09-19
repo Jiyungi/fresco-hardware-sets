@@ -1,0 +1,22 @@
+{"source_pdf": "National Doors and Hardware/15e2b8ac-FS17_Specs_V1.pdf", "all_set_numbers": [], "labeler_notes": "Set 07: trailing line 'CARD READER BY SECURITY SUB DIV.28 TO RELEASE LOCK FOR ACCESS' excluded as a set-level note.",
+ "sets": [
+  {"set_number": "07", "pages": [409], "description": null, "not_used": false,
+   "components": [
+    {"qty": 2, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ELECTRIC HINGE", "catalog_number": "5BB1 4.5 X 4.5 CON TW8", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "STOREROOM LOCK", "catalog_number": "ND80PDEU RHO RX 12V/24V DC", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP RW/PA", "finish": "689", "mfr": "LCN", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 10\" X 2\" LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "WALL STOP", "catalog_number": "WS406/407CCV", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "188SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null}
+   ]},
+  {"set_number": "10", "pages": [410], "description": null, "not_used": false,
+   "components": [
+    {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "PRIVACY LOCK", "catalog_number": "ND40S RHO", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP RW/PA", "finish": "689", "mfr": "LCN", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 10\" X 2\" LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "WALL STOP", "catalog_number": "WS406/407CCV", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "188SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null}
+   ]}
+ ]}

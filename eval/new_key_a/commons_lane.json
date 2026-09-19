@@ -1,0 +1,254 @@
+{
+ "source_pdf": "StarHardware/9839d1a1-Division_8_Specs_-_Commons_Lane.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Tables with columns qty | unit | description | catalog | finish | mfr. Text inside embedded pictures (product photos, cut sheets, e.g. the struck '788-12' line and 'Certification UL 10C' in set 09) is image content, not printed text, and was ignored. Set 09 continues from p.78 to p.79 (Bottom Rail row catalog continues at top of p.79). Rows on p.79 and the Strikes row have no finish/mfr cells -> null. Wrapped hyphenated words joined with one space per rule 1 ('no- designer', 'non- Division 08'). Set 16 title 'Hardware Group/Set #16 - Western series 600 multi-slide' -> description 'Western series 600 multi-slide'; Notes 1-4 are set-level and excluded. Set 110 hinge row qty printed '__' -> null. 'Note:' rows at the end of each set excluded.",
+ "sets": [
+  {
+   "set_number": "09",
+   "pages": [
+    78,
+    79
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Hydraulic Closers / Hinges Sets",
+     "catalog_number": "Locinox manufacturing #Mammoth 180 Hydraulic Closers / Hinges Set: Heavy duty 180° hydraulic gate closer and hinge for gates up to 330 lbs. x Black Finish. At gates weighing over 330 pounds, provide Ultra heavy duty 180° hydraulic gate closer and hinge for gates up to 440 lbs.",
+     "finish": null,
+     "mfr": "LO",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Electrified Power Transfer (for use with QELX and WP-RX)",
+     "catalog_number": "Schlage manufacturing UL10C compliant #788C-12 power transfer loop",
+     "finish": null,
+     "mfr": "SC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Exterior Weatherproof, Electrified Latch Retraction Rim Exit/Panic Device x Key Override",
+     "catalog_number": "Von Duprin manufacturing # WP-RX WH OUT QELX-99L-NL x 110NL-MD in flat black finish x prepared and coordinated with pull. Mount with Weldable Box as required for panic device and strike template requirements – see below.",
+     "finish": "622",
+     "mfr": "VO",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Strikes and Weldable Boxes (template as required by all furnished hardware, see Section 08 71 00, Part 1 for templating requirements and full specs which call for fully welded, no seams, ground smooth, prime and finishes per architectural drawings and welding/paint specifications)",
+     "catalog_number": "Furnish and install: #1) Welded, templated areas for devices (requires 1-3/4” thick gate stile and/or boxes as required where device is installed (templates to have custom welded areas preferred yet contact technicians at www.keedex.com for alternate weldable boxes if necessary - means and methods no-designer, show detailed templating in submittals and shop drawings). #2) Provide welded areas and brackets as required for condition for either special strike #1609 or combo devices #050996 strike bracket with 299F (means and methods no- designer, show detailed templating in submittals and shop drawings).",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Offset Pull",
+     "catalog_number": "AP423-J-60” (do not block emergency key override)",
+     "finish": "622",
+     "mfr": "TR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Bar Guard (inside)",
+     "catalog_number": "TORXUN Guard (inside) Part #9912.002R",
+     "finish": "622",
+     "mfr": "TO",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "I/C Cylinders (Rim or Mortise)",
+     "catalog_number": "20-057 or 20-061 (Rim or Mortise type & quantity as required by locking device x appropriate cam x blocking rings) as required per specifications",
+     "finish": "622",
+     "mfr": "SC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Permanent Core",
+     "catalog_number": "23-030",
+     "finish": "622",
+     "mfr": "SC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Stop",
+     "catalog_number": "7281 (installed per 08 71 00.Part 3), verify undercut before ordering",
+     "finish": "622",
+     "mfr": "TR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Bottom Rail (kickplate)",
+     "catalog_number": "Gates to have greater than 10” clear, unobstructed and smooth surface per above specifications and by gate manufacturer (push-side, ground smooth, primed and painted to match gate).",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Painted Full Height Astragal",
+     "catalog_number": "Per above specifications and by gate manufacturer and per specifications (utilized as a positive stop – when gate closes against the astragals the opening cannot swing back in toward the egress side)",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "QEL Power Supply",
+     "catalog_number": "Furnish and install #1) single gang power drop located above or near door (not in corridor or public view, but above celling line where possible); #2) provide power supply #PS904 4 RL with 900-BB (battery backup for additional auto operator opening cycles when there is power loss); #3) run conduit from hinge through frame and complete wiring as required to meet manufacturer warranties",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Surface Door Position Switch (also known as Alarm Contacts)",
+     "catalog_number": "#7766 single pole, double throw x by Schlage manufacturing (coordinate with Divisions 25-28 and applicable drawings)",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Coordination task for security and/or electrical design and additional non- Division 08 Section scope (including but not limited to wire / connectivity from ground through framing to electrified hardware",
+     "catalog_number": "By security or electrical as required per Contract Documents: The electrified hardware specified above can be utilized for #1) non-card reader, remote access control applications (unlocked / locked remotely for open during business hours / locked after-hours) and #2) local card readers at openings as directed by architectural drawings, security or electrical. Coordinate with security or electrical Divisions 25-28 and applicable drawings as hardware does not include card reader locations.",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "16",
+   "pages": [
+    89
+   ],
+   "description": "Western series 600 multi-slide",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "Back-to-Back Pulls",
+     "catalog_number": "AP753 x 54” in concealed fasteners x 622 by Trimco manufacturing",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "I/C Cylinders (Rim or Mortise)",
+     "catalog_number": "20-057 or 20-061 (Rim or Mortise type & quantity as required by locking device x appropriate cam x blocking rings) as required per specifications",
+     "finish": "622",
+     "mfr": "SC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Permanent Core",
+     "catalog_number": "23-030",
+     "finish": "622",
+     "mfr": "SC",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "110",
+   "pages": [
+    112
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": null,
+     "unit": "EA",
+     "description": "Hinges",
+     "catalog_number": "5BB1HW (size & quantity per 08 71 00)",
+     "finish": "622",
+     "mfr": "IV",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Privacy Latch Body with Lever (privacy x occupancy indicator - exterior side lever left unlocked when room is vacant)",
+     "catalog_number": "BASE Lever #6210SM x PVD #IXBSB satin black finish x M523 x ADA thumbturn H41 (manufacturer has two #s, but furnish/install the decorative thumbturn pictured to right) x EMTI emergency cointurn/slot override and occupancy indicator in 622 Matte Black Power Coat (picture example of Stefano lever only in different finish)",
+     "finish": null,
+     "mfr": "FR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "I/C Cylinders (Rim or Mortise)",
+     "catalog_number": "20-057 or 20-061 (Rim or Mortise type & quantity as required by locking device x appropriate cam x blocking rings) as required per specifications",
+     "finish": "622",
+     "mfr": "SC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Permanent Core",
+     "catalog_number": "23-030",
+     "finish": "622",
+     "mfr": "SC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Surface Closer",
+     "catalog_number": "4050A x REG (installed pull-side)",
+     "finish": "693",
+     "mfr": "LC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Wall Stop",
+     "catalog_number": "1270CV",
+     "finish": "622",
+     "mfr": "TR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "Seals",
+     "catalog_number": "If frame is wood or hollow metal, 5050B seals (head & jambs) by NGP. If frame is aluminum, then seals are to be furnished by aluminum frame manufacturer",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

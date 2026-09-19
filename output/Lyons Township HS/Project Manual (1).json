@@ -1,0 +1,5152 @@
+{
+  "source_file": "Lyons Township HS/Project Manual (1).pdf",
+  "page_count": 309,
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "222A-1",
+        "223",
+        "224",
+        "323",
+        "324",
+        "325",
+        "326",
+        "327",
+        "330",
+        "334",
+        "337B",
+        "144A-1"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 285,
+          "bbox": [
+            72.0,
+            123.3,
+            534.9,
+            238.1
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 285,
+              "bbox": [
+                76.0,
+                228.1,
+                534.9,
+                238.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "not_used": false,
+      "doors": [],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 285,
+          "bbox": [
+            72.0,
+            266.3,
+            534.9,
+            369.0
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4041 DEL EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 285,
+              "bbox": [
+                76.0,
+                344.8,
+                534.9,
+                354.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 285,
+              "bbox": [
+                76.0,
+                359.1,
+                529.4,
+                369.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "44K",
+        "114"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 285,
+          "bbox": [
+            72.0,
+            397.2,
+            534.9,
+            499.8
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 285,
+              "bbox": [
+                76.0,
+                475.7,
+                534.9,
+                485.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 285,
+              "bbox": [
+                76.0,
+                489.9,
+                529.4,
+                499.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "04",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "026A"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 285,
+          "bbox": [
+            72.0,
+            528.2,
+            534.9,
+            616.4
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP REG",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 285,
+              "bbox": [
+                76.0,
+                606.5,
+                534.9,
+                616.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "05",
+      "description": null,
+      "not_used": true,
+      "doors": [],
+      "set_notes": null,
+      "location": [
+        {
+          "page": 285,
+          "bbox": [
+            72.0,
+            644.7,
+            239.2,
+            654.6
+          ]
+        }
+      ],
+      "components": [],
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "06",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "230",
+        "220A-1"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 286,
+          "bbox": [
+            72.0,
+            74.2,
+            534.9,
+            203.3
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+          "catalog_number": "ND78BD TLR IS-CRS",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                152.7,
+                534.7,
+                174.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                179.2,
+                531.6,
+                189.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                193.3,
+                534.9,
+                203.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.96,
+      "warnings": []
+    },
+    {
+      "set_number": "07",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "140A-1"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 286,
+          "bbox": [
+            72.0,
+            231.6,
+            537.9,
+            405.5
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                310.0,
+                529.4,
+                319.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-L-F-2SI-03",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                324.3,
+                537.9,
+                334.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                338.5,
+                534.7,
+                348.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                352.8,
+                531.6,
+                362.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4041 DEL SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                367.0,
+                534.9,
+                376.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                381.3,
+                529.4,
+                391.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                395.5,
+                531.0,
+                405.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "08",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "140-1",
+        "140-2"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 286,
+          "bbox": [
+            72.0,
+            433.7,
+            537.9,
+            622.0
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                512.2,
+                529.4,
+                522.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9947WDC-L-F-2SI-LBR-03-SNB",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                526.5,
+                537.9,
+                536.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9947WDC-L-F-2SI-LBRAFL-03-SNB",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                540.7,
+                537.9,
+                550.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 4,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                554.9,
+                534.7,
+                564.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 4,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                569.2,
+                531.6,
+                579.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                583.5,
+                534.9,
+                593.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                597.7,
+                529.4,
+                607.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 286,
+              "bbox": [
+                76.0,
+                612.0,
+                531.0,
+                622.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "09",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "144-1",
+        "144-2"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 287,
+          "bbox": [
+            72.0,
+            74.2,
+            537.9,
+            276.6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                152.7,
+                529.4,
+                162.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "REMOVABLE MULLION",
+          "catalog_number": "KR4954 STAB",
+          "mfr": "VON",
+          "finish": "695",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Dark bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                166.8,
+                537.9,
+                176.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-EO-F",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                181.1,
+                537.9,
+                191.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-L-F-2SI-03",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                195.4,
+                537.9,
+                205.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                209.7,
+                534.7,
+                219.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                223.9,
+                531.6,
+                233.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                238.2,
+                534.9,
+                248.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                252.4,
+                529.4,
+                262.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                266.7,
+                531.0,
+                276.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "10",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "112A-2"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 287,
+          "bbox": [
+            72.0,
+            304.8,
+            537.9,
+            507.4
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                383.3,
+                529.4,
+                393.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-L-F-03",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                397.6,
+                537.9,
+                407.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                411.9,
+                534.7,
+                421.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                426.0,
+                531.6,
+                436.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100SE",
+          "mfr": "GLY",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                440.3,
+                533.9,
+                450.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE/LIFE CLOSER",
+          "catalog_number": "4040SE",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                451.6,
+                534.9,
+                464.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                468.9,
+                529.4,
+                478.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                483.1,
+                529.4,
+                493.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 287,
+              "bbox": [
+                76.0,
+                497.4,
+                531.0,
+                507.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "11",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "112A-1",
+        "112A-3"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 288,
+          "bbox": [
+            72.0,
+            74.2,
+            537.9,
+            276.6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                152.7,
+                529.4,
+                162.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-L-F-03",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                166.8,
+                537.9,
+                176.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                181.1,
+                534.7,
+                191.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                195.4,
+                531.6,
+                205.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                209.7,
+                534.9,
+                219.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                223.9,
+                529.4,
+                233.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                238.2,
+                529.4,
+                248.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE/LIFE WALL MAG",
+          "catalog_number": "SEM7800 SERIES AS REQ",
+          "mfr": "LCN",
+          "finish": "695",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dark bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                249.4,
+                534.9,
+                262.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                266.7,
+                531.0,
+                276.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "12",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "33-1",
+        "33-2",
+        "123A-1",
+        "132A-1",
+        "A526-1",
+        "223A-1",
+        "S42-2",
+        "S42-1",
+        "323A-1",
+        "351A-2",
+        "S3A-1",
+        "S3A-2",
+        "S4A-1"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 288,
+          "bbox": [
+            72.0,
+            304.8,
+            537.9,
+            550.1
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                411.9,
+                529.4,
+                421.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                426.0,
+                537.9,
+                436.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBS-LBLAFL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                440.3,
+                537.9,
+                450.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                454.6,
+                534.7,
+                464.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                468.9,
+                531.6,
+                478.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100SE",
+          "mfr": "GLY",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                483.1,
+                533.9,
+                493.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "FIRE/LIFE CLOSER",
+          "catalog_number": "4040SE",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                494.4,
+                534.9,
+                507.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                511.7,
+                529.4,
+                521.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                525.9,
+                529.4,
+                535.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 288,
+              "bbox": [
+                76.0,
+                540.1,
+                531.0,
+                550.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "13",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "7A-1",
+        "A525-1",
+        "C101-1",
+        "S32-2",
+        "S32-1",
+        "S8-2",
+        "S1-1",
+        "3-1",
+        "3-3",
+        "31",
+        "S7-1"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 289,
+          "bbox": [
+            72.0,
+            74.2,
+            537.9,
+            305.2
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                166.8,
+                529.4,
+                176.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                181.1,
+                537.9,
+                191.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBS-LBLAFL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                195.4,
+                537.9,
+                205.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                209.7,
+                534.7,
+                219.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                223.9,
+                531.6,
+                233.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                238.2,
+                534.9,
+                248.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                252.4,
+                529.4,
+                262.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                266.7,
+                529.4,
+                276.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "FIRE/LIFE WALL MAG",
+          "catalog_number": "SEM7800 SERIES AS REQ",
+          "mfr": "LCN",
+          "finish": "695",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dark bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                277.9,
+                534.9,
+                290.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                295.2,
+                531.0,
+                305.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "14",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "S92-2",
+        "S92-1",
+        "229A-1",
+        "S93-1",
+        "351A-1"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 289,
+          "bbox": [
+            72.0,
+            333.4,
+            537.9,
+            578.6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                411.9,
+                529.4,
+                421.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                426.0,
+                537.9,
+                436.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBS-LBLAFL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                440.3,
+                537.9,
+                450.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                454.6,
+                534.7,
+                464.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                468.9,
+                531.6,
+                478.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100SE",
+          "mfr": "GLY",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                483.1,
+                533.9,
+                493.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE/LIFE CLOSER",
+          "catalog_number": "4040SE",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                494.4,
+                534.9,
+                507.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                511.7,
+                534.9,
+                521.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                525.9,
+                529.4,
+                535.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                540.1,
+                529.4,
+                550.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE/LIFE WALL MAG",
+          "catalog_number": "SEM7800 SERIES AS REQ",
+          "mfr": "LCN",
+          "finish": "695",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dark bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                551.4,
+                534.9,
+                564.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 289,
+              "bbox": [
+                76.0,
+                568.7,
+                531.0,
+                578.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "15",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "101D-1",
+        "145-1",
+        "145-2",
+        "108"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 290,
+          "bbox": [
+            72.0,
+            74.2,
+            534.9,
+            282.8
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 (NRP AT OUTSWING LOCKING DOORS)",
+          "mfr": "IVE",
+          "finish": "639",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin brass, stainless",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                177.1,
+                529.4,
+                199.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+          "catalog_number": "L9071BD 03A IS-LOC",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                203.7,
+                534.7,
+                225.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                230.2,
+                531.6,
+                240.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                244.5,
+                534.9,
+                254.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                258.7,
+                529.4,
+                268.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                272.9,
+                531.0,
+                282.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.96,
+      "warnings": []
+    },
+    {
+      "set_number": "16",
+      "description": null,
+      "not_used": true,
+      "doors": [],
+      "set_notes": null,
+      "location": [
+        {
+          "page": 290,
+          "bbox": [
+            72.0,
+            311.2,
+            239.2,
+            321.2
+          ]
+        }
+      ],
+      "components": [],
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "17",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "12A",
+        "015-1"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 290,
+          "bbox": [
+            72.0,
+            354.4,
+            534.9,
+            542.6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "AUTO FLUSH BOLT",
+          "catalog_number": "FB31T/FB41T AS REQ",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                432.9,
+                529.4,
+                442.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DUST PROOF STRIKE",
+          "catalog_number": "DP1/DP2 AS REQ",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                447.1,
+                529.4,
+                457.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "STOREROOM LOCK",
+          "catalog_number": "L9080BD 03A 10-072 7/8\" LIP",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                461.4,
+                534.7,
+                471.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                475.7,
+                531.6,
+                485.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "COORDINATOR",
+          "catalog_number": "COR X FL X MB - AS REQUIRED",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                489.9,
+                529.4,
+                499.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                504.1,
+                534.9,
+                514.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                518.4,
+                529.4,
+                528.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 290,
+              "bbox": [
+                76.0,
+                532.7,
+                531.0,
+                542.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "18",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "119",
+        "116",
+        "117",
+        "L15",
+        "121",
+        "120",
+        "122",
+        "118"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 291,
+          "bbox": [
+            72.0,
+            74.2,
+            535.3,
+            266.6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+          "catalog_number": "L9071BD 03A IS-LOC",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                215.9,
+                534.7,
+                238.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                242.4,
+                531.6,
+                252.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                256.7,
+                534.9,
+                266.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.96,
+      "warnings": []
+    },
+    {
+      "set_number": "19",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "44G"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 291,
+          "bbox": [
+            72.0,
+            294.9,
+            534.9,
+            438.2
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+          "catalog_number": "L9071BD 03A IS-LOC",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                373.3,
+                534.7,
+                395.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                399.9,
+                531.6,
+                409.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                414.0,
+                534.9,
+                424.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                428.3,
+                529.4,
+                438.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.96,
+      "warnings": []
+    },
+    {
+      "set_number": "20",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "013",
+        "014",
+        "021A"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 291,
+          "bbox": [
+            72.0,
+            466.6,
+            534.9,
+            595.7
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+          "catalog_number": "L9071BD 03A IS-LOC",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                544.9,
+                534.7,
+                567.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                571.5,
+                531.6,
+                581.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP REG",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 291,
+              "bbox": [
+                76.0,
+                585.7,
+                534.9,
+                595.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.96,
+      "warnings": []
+    },
+    {
+      "set_number": "21",
+      "description": null,
+      "not_used": true,
+      "doors": [],
+      "set_notes": null,
+      "location": [
+        {
+          "page": 291,
+          "bbox": [
+            72.0,
+            623.9,
+            239.2,
+            633.9
+          ]
+        }
+      ],
+      "components": [],
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "22",
+      "description": null,
+      "not_used": true,
+      "doors": [],
+      "set_notes": null,
+      "location": [
+        {
+          "page": 291,
+          "bbox": [
+            72.0,
+            667.2,
+            239.2,
+            677.2
+          ]
+        }
+      ],
+      "components": [],
+      "confidence": 0.9,
+      "warnings": []
+    },
+    {
+      "set_number": "23",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "015C"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 292,
+          "bbox": [
+            72.0,
+            74.2,
+            534.9,
+            191.0
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "STOREROOM LOCK",
+          "catalog_number": "L9080BD 03A",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                152.7,
+                534.7,
+                162.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                166.8,
+                531.6,
+                176.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4041 DEL SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                181.1,
+                534.9,
+                191.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "24",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "C-019"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 292,
+          "bbox": [
+            72.0,
+            219.3,
+            534.9,
+            350.4
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "STOREROOM LOCK",
+          "catalog_number": "L9080BD 03A",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                297.7,
+                534.7,
+                307.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                312.0,
+                531.6,
+                322.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP REG",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                326.3,
+                534.9,
+                336.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                340.5,
+                529.4,
+                350.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "25",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "115",
+        "113"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 292,
+          "bbox": [
+            72.0,
+            378.8,
+            534.9,
+            544.7
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "INSTITUTION LOCK",
+          "catalog_number": "L9082BD 03A",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                506.2,
+                534.7,
+                516.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                520.5,
+                531.6,
+                530.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                534.7,
+                534.9,
+                544.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "26",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "251"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 292,
+          "bbox": [
+            72.0,
+            572.9,
+            534.9,
+            661.2
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SPRING CUSH ARM",
+          "catalog_number": "4040XP-3077SCNS",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 292,
+              "bbox": [
+                76.0,
+                651.3,
+                534.9,
+                661.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "27",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "024-1"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 293,
+          "bbox": [
+            72.0,
+            74.2,
+            534.9,
+            260.4
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5 (NRP AT OUTSWING LOCKING DOORS)",
+          "mfr": "IVE",
+          "finish": "639",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin brass, stainless",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                152.7,
+                529.4,
+                174.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.92,
+            "description": 0.9,
+            "catalog_number": 0.9,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "STOREROOM LOCK",
+          "catalog_number": "L9080BD 03A",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                179.2,
+                534.7,
+                189.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                193.3,
+                531.6,
+                203.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                207.6,
+                534.9,
+                217.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                221.9,
+                529.4,
+                231.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                236.2,
+                529.4,
+                246.1
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                250.5,
+                531.0,
+                260.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "28",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "3-2"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following:",
+      "location": [
+        {
+          "page": 293,
+          "bbox": [
+            72.0,
+            288.6,
+            537.9,
+            476.8
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                367.0,
+                529.4,
+                376.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "99-L-F-03",
+          "mfr": "VON",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                381.3,
+                537.9,
+                391.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                395.5,
+                534.7,
+                405.5
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                409.8,
+                531.6,
+                419.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP EDA",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                424.1,
+                534.9,
+                434.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                438.4,
+                529.4,
+                448.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE/LIFE WALL MAG",
+          "catalog_number": "SEM7800 SERIES AS REQ",
+          "mfr": "LCN",
+          "finish": "695",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dark bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                449.7,
+                534.9,
+                462.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 293,
+              "bbox": [
+                76.0,
+                466.8,
+                531.0,
+                476.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    },
+    {
+      "set_number": "29",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "S8-1"
+      ],
+      "set_notes": "Provide each PR door(s) with the following:",
+      "location": [
+        {
+          "page": 294,
+          "bbox": [
+            72.0,
+            74.2,
+            537.9,
+            276.6
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                152.7,
+                529.4,
+                162.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                166.8,
+                537.9,
+                176.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "9950WDC-L-F-03-LBS-LBLAFL-SNB",
+          "mfr": "VON",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin chrome",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                181.1,
+                537.9,
+                191.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC RIM HOUSING",
+          "catalog_number": "80-129",
+          "mfr": "SCH",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                195.4,
+                534.7,
+                205.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SFIC CORE",
+          "catalog_number": "C607",
+          "mfr": "FAL",
+          "finish": "606",
+          "notes": null,
+          "mfr_name": "Falcon",
+          "finish_name": "Satin brass",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                209.7,
+                531.6,
+                219.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "90SE J",
+          "mfr": "GLY",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                223.9,
+                533.9,
+                233.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "FIRE/LIFE CLOSER",
+          "catalog_number": "4040SE",
+          "mfr": "LCN",
+          "finish": "691",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Dull bronze painted",
+          "electrified": true,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                235.2,
+                534.9,
+                248.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "mfr": "IVE",
+          "finish": "612",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Satin bronze",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                252.4,
+                529.4,
+                262.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "mfr": "ZER",
+          "finish": "BK",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Black",
+          "electrified": false,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 294,
+              "bbox": [
+                76.0,
+                266.7,
+                531.0,
+                276.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 1.0,
+            "finish": 1.0
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    }
+  ],
+  "code_tables": {},
+  "layout_notes": [
+    "hardware pages: 285-294",
+    "columns learned from rows: description@140, catalog@274, finish@473, mfr@515",
+    "columns from header row: qty@76, description@140, catalog@274, finish@473, mfr@515"
+  ]
+}

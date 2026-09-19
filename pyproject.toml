@@ -1,0 +1,14 @@
+[project]
+name = "hardware-sets"
+version = "0.1.0"
+description = "Extract door hardware sets (with page locations) from construction spec book PDFs"
+requires-python = ">=3.10"
+dependencies = ["pymupdf>=1.24"]
+
+[project.optional-dependencies]
+review = ["streamlit>=1.35", "pandas>=2.0", "pillow>=10.0"]
+dev = ["pytest>=8.0", "flake8>=7.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

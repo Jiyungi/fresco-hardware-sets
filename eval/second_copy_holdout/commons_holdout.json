@@ -1,0 +1,24 @@
+{"source_pdf": "StarHardware/9839d1a1-Division_8_Specs_-_Commons_Lane.pdf", "all_set_numbers": [], "labeler_notes": "Grid tables with qty | unit | description | catalog | finish | mfr; for long rows the catalog cell spans the finish/mfr columns, which are then null. Set 05.2 description taken from the title line after the number with the surrounding parentheses dropped. Hyphen wrap 'provide Ultra heavy duty 180-' / 'degree hydraulic...' joined with one space per rule 1 ('180- degree'). Curly quotes (”) and en dash (–) copied as printed. Set 13 Hinge qty printed as '_' -> null. Trailing 'Furnish all devices...'/'Note: Furnish...' rows excluded as set-level notes. Images (lever picture, threshold drawing, lock-guard diagram) ignored.",
+ "sets": [
+  {"set_number": "05.2", "pages": [72], "description": "see gate details on architectural drawings", "not_used": false,
+   "components": [
+    {"qty": 1, "unit": "EA", "description": "Hydraulic Closers / Hinges Set", "catalog_number": "Locinox #Mammoth 180 Hydraulic Closers/Hinges Set: Heavy duty 180-degree hydraulic gate closer and hinge for gates up to 330 pounds x Black Finish (note: if round post similar to chain-link, provide additional Locinox brackets part #CLB Mammoth). At gates weighing over 330 pounds, provide Ultra heavy duty 180- degree hydraulic gate closer and hinge for gates up to 440 pound gate leafs", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ANSI Grade 1 Mortise Body Passage Latchset x Lever", "catalog_number": "Frascio #BASE Lever #6210SM x PVD #IXBSB satin black finish x M501 x L/C in PVD #IXBSB satin black", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Floor Stop", "catalog_number": "1214-5 (5” high)", "finish": "622", "mfr": "TR", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Bottom of doors 10” Clear, Unobstructed and Smooth Surface", "catalog_number": "Per above specifications and by gate manufacturer (push-side, ground smooth, primed, and painted to match gate).", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Painted Full Height Astragal", "catalog_number": "Per above specifications and by gate manufacturer and per specifications (utilized as a positive stop – when gate closes against the astragals the opening cannot swing back in toward the egress side)", "finish": null, "mfr": null, "notes": null}
+   ]},
+  {"set_number": "13", "pages": [84], "description": null, "not_used": false,
+   "components": [
+    {"qty": null, "unit": "EA", "description": "Hinge", "catalog_number": "5BB1HW (size & quantity per 08 71 00)", "finish": "622", "mfr": "IV", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ANSI Grade 1 Mortise Body Classroom-Type Lockset with Lever", "catalog_number": "BASE Lever #6210SM x M505 x L/C in PVD #IXBSB satin black finish (picture example of lever is in a different finish)", "finish": null, "mfr": "FR", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "I/C Cylinders (Rim or Mortise)", "catalog_number": "20-057 or 20-061 x appropriate cam x blocking rings as required (rim or mortise type and quantity as required by locking device)", "finish": "622", "mfr": "SC", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Permanent Core", "catalog_number": "20-030", "finish": "622", "mfr": "SC", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Closer", "catalog_number": "4050A x REG (installed pull-side of door)", "finish": "693", "mfr": "LC", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Kick Plate", "catalog_number": "KO050 10\" tall x 2\" LDW (less door width) x B4E (beveled edges) x counter sunk or approved adhesive per 08 71 00.Part 2 (no raised fasteners)", "finish": "622", "mfr": "TR", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Wall Stop", "catalog_number": "1270CV", "finish": "622", "mfr": "TR", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Seals", "catalog_number": "5050B (head & jambs) by NGP", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Door Bottom Sweep", "catalog_number": "202NDKB by NGP or approved equal", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Threshold", "catalog_number": "Custom fully factory welded 2727Ax270A 10” wide offset or 2550A 10” flush condition (or per detail for flat of quarter inch offset sill detail) x wrap frame stops x beveled miter ends x mastic per specifications x by Pemko approved equal", "finish": null, "mfr": null, "notes": null}
+   ]}
+ ]}

@@ -1,0 +1,23 @@
+== ami.json: 172/172 values agree
+== bridgeport.json: 126/130 values agree
+    set 19 p[13]: catalog_number of 'Dead Lock': first '4531-35-101-628 - LH *Confirm Door Thickness' / second '4531-35-101-628 - LH'
+    set 19 p[13]: notes of 'Dead Lock': first None / second '*Confirm Door Thickness'
+    set 19 p[13]: catalog_number of 'Push Paddle Trim': first '4590-02-00-628 *Confirm Door Thickness' / second '4590-02-00-628'
+    set 19 p[13]: notes of 'Push Paddle Trim': first None / second '*Confirm Door Thickness'
+== commons_lane.json: 174/174 values agree
+== door_company.json: 249/249 values agree
+== gerrard.json: 179/179 values agree
+== hospital.json: 188/188 values agree
+== jc_ryan.json: 81/81 values agree
+== livelle.json: 167/167 values agree
+== lyons.json: 32/32 values agree
+== market_view.json: 116/116 values agree
+== morris.json: 116/116 values agree
+== national.json: 95/95 values agree
+== oswego.json: 130/130 values agree
+== roselle.json: 109/109 values agree
+== sat.json: 216/216 values agree
+== sjc.json: 167/167 values agree
+== valor.json: 81/81 values agree
+
+OVERALL: 2398/2402 values agree between the two copies

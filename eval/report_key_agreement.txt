@@ -1,0 +1,33 @@
+== bridgeport.json: 193/193 values agree
+== commons_lane.json: 118/118 values agree
+== door_company.json: 74/74 values agree
+== forest_park.json: 37/37 values agree
+== gerrard.json: 151/151 values agree
+== hospital.json: 551/551 values agree
+== jc_ryan.json: 130/130 values agree
+== livelle.json: 227/227 values agree
+== lyons.json: 34/34 values agree
+== morris.json: 242/244 values agree
+    set 101 p[233]: notes of 'Pull': first 'Push bar dimensions shall be coordinated with Aluminum Door provider & approved by the deisgn team during submittal phase CTC = =33, Overall Length=35' / second 'Push bar dimensions shall be coordinated with Aluminum Door provider & approved by the deisgn team during submittal phase; CTC = =33, Overall Length=35'
+    set 103 p[235]: notes of 'Pull': first 'Push bar dimensions shall be coordinated with Aluminum Door provider & approved by the design team during submittal phase CTC = =33, Overall Length=35' / second 'Push bar dimensions shall be coordinated with Aluminum Door provider & approved by the design team during submittal phase; CTC = =33, Overall Length=35'
+== roselle.json: 141/141 values agree
+== sat_tdp.json: 88/88 values agree
+== sjc.json: 243/243 values agree
+== valor.json: 123/123 values agree
+
+OVERALL: 2352/2354 values agree between the two copies
+== ami.json: 109/109 values agree
+== commons_holdout.json: 109/109 values agree
+== door_company_holdout.json: 79/79 values agree
+== hospital_holdout.json: 151/151 values agree
+== livelle_holdout.json: 165/165 values agree
+== market_view.json: 172/172 values agree
+== morris_holdout.json: 44/44 values agree
+== national.json: 95/95 values agree
+== oswego.json: 172/172 values agree
+== radnet.json: 72/72 values agree
+== sat_holdout.json: 144/144 values agree
+== shubie.json: 37/37 values agree
+== sjc_holdout.json: 74/74 values agree
+
+OVERALL: 1423/1423 values agree between the two copies

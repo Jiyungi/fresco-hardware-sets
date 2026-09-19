@@ -1,0 +1,12 @@
+{"source_pdf": "Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.pdf", "all_set_numbers": [], "labeler_notes": "No units printed, so unit null. 'NOTE: - ...' lines under a row go to that row's notes with the 'NOTE:' label and leading '- ' dropped; the SFIC note's second line starts with '- ' and is joined with one space, keeping its dash.",
+ "sets": [
+  {"set_number": "CR38", "pages": [286], "description": null, "not_used": false,
+   "components": [
+    {"qty": 4, "unit": null, "description": "Hinges", "catalog_number": "MPB79 4 1/2 x 4 1/2 NRP", "finish": "10BE", "mfr": "MC", "notes": null},
+    {"qty": 1, "unit": null, "description": "Lockset", "catalog_number": "70 10XG37 LL 2 3/4\" BS", "finish": "10BE", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Construction Core", "catalog_number": "7190224", "finish": null, "mfr": "BE", "notes": "SFIC Construction core"},
+    {"qty": 1, "unit": null, "description": "Wall Stop", "catalog_number": "409", "finish": "10BE", "mfr": "RO", "notes": null},
+    {"qty": 1, "unit": null, "description": "SFIC", "catalog_number": "33700006 N 26 DAKM", "finish": null, "mfr": "MED1", "notes": "Product shall be US10B (or 10BE if available) finish per catalog selections - End user needs to confirm master key system & keyway prior procurement"},
+    {"qty": 3, "unit": null, "description": "Door Silencer", "catalog_number": "608-RKW", "finish": "BLK", "mfr": "RO", "notes": null}
+   ]}
+ ]}

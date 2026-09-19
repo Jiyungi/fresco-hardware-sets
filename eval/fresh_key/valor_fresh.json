@@ -1,0 +1,109 @@
+{
+  "source_pdf": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Table has Qty, unit, Description and an unlabeled third column of finish codes (BBLK/BLK/622/693/AL/GRY); treated as finish. No catalog or manufacturer column (null). '---' finish -> null. Title parentheses '(Door 114)', '(Gates 139 & 140)' are door numbers, so description null. Set 35 continues from p.17 to p.18. Pages 16-18 carry no strike-through lines (strikeouts in this revision are on pp.13-15 only).",
+  "sets": [
+    {
+      "set_number": "29",
+      "pages": [
+        16
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "DOOR SLIDE TRACK W/ STOP",
+          "catalog_number": null,
+          "finish": "BBLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "B/B PULLS",
+          "catalog_number": null,
+          "finish": "BLK",
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "35",
+      "pages": [
+        17,
+        18
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "GATE SPRING HINGE",
+          "catalog_number": null,
+          "finish": "BBLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "TRANSFER WIRE",
+          "catalog_number": null,
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GATE MOUNTED ELECT EXIT DEVICE WITH MOUNTING PLATE, LEVER AND STRIKE PLATE",
+          "catalog_number": null,
+          "finish": "BLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CYLINDER",
+          "catalog_number": null,
+          "finish": "622",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CORE",
+          "catalog_number": null,
+          "finish": "622",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY",
+          "catalog_number": null,
+          "finish": "GRY",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CARD READER (BY OWNER’S SECURITY CONTRACTOR)",
+          "catalog_number": null,
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

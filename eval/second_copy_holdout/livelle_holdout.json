@@ -1,0 +1,32 @@
+{"source_pdf": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf", "all_set_numbers": [], "labeler_notes": "No units printed, so unit null. Set 73.0 starts at the bottom of p.664 and continues on p.665; set 102.0 continues from p.678 onto p.679. 'Notes:' blocks excluded. Orange lightning icons next to MFR ignored. Descriptions keep the trailing parenthesised qualifier since it is not a surrounding parenthesis.",
+ "sets": [
+  {"set_number": "73.0", "pages": [664, 665], "description": "BOH Pool Chem Storage (WDL)", "not_used": false,
+   "components": [
+    {"qty": 3, "unit": null, "description": "Hinge, Full Mortise", "catalog_number": "TA2314 NRP", "finish": "US32D", "mfr": "MK", "notes": null},
+    {"qty": 1, "unit": null, "description": "Access Control Cyl Lock", "catalog_number": "70 IN100-10XG77-BIPS B LP", "finish": "US15", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Small Format Inter Core", "catalog_number": "7300B CKC GMK", "finish": "US15", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Surface Closer", "catalog_number": "351 P9", "finish": "EN", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Kick Plate", "catalog_number": "K1050=10\" high CSK BEV", "finish": "US32D", "mfr": "RO", "notes": null},
+    {"qty": 1, "unit": null, "description": "Door Stop", "catalog_number": "406", "finish": "US32D", "mfr": "RO", "notes": null},
+    {"qty": 1, "unit": null, "description": "Gasketing", "catalog_number": "S88BL", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Sweep", "catalog_number": "18062CNB", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Threshold", "catalog_number": "270A MSES25 or Per Detail", "finish": null, "mfr": "PE", "notes": null}
+   ]},
+  {"set_number": "102.0", "pages": [678, 679], "description": "Exterior Staff Entry Storefront (CR EL)", "not_used": false,
+   "components": [
+    {"qty": 1, "unit": null, "description": "Continuous Hinge", "catalog_number": "BSPFM95HD1 PT Cut to net", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Fail Secure Elec Lock", "catalog_number": "RX 72 8271-24V LNP", "finish": "BSP", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Small Format Inter Core", "catalog_number": "7300B CKC GMK", "finish": "US4", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Surface Closer", "catalog_number": "351 P9", "finish": "BSP", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Drop Plate (if required)", "catalog_number": "351D", "finish": "BSP", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Door Stop", "catalog_number": "471", "finish": "BSP", "mfr": "RO", "notes": null},
+    {"qty": 1, "unit": null, "description": "Sweep", "catalog_number": "18062BSPNB", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Threshold (verify per detail)", "catalog_number": "176BSP / 2727BSP MSES25", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Electric Power Transfer", "catalog_number": "EL-CEPT", "finish": "BSP", "mfr": "SU", "notes": null},
+    {"qty": 1, "unit": null, "description": "ElectroLynx Door Harness", "catalog_number": "QC-C300", "finish": null, "mfr": "MK", "notes": null},
+    {"qty": 1, "unit": null, "description": "ElectroLynx Frame Harness", "catalog_number": "QC-C1500P", "finish": null, "mfr": "MK", "notes": null},
+    {"qty": 1, "unit": null, "description": "Position Switch", "catalog_number": "DPS-M-BK", "finish": null, "mfr": "SU", "notes": null},
+    {"qty": 1, "unit": null, "description": "Card Reader", "catalog_number": "Furnished by Security Contractor", "finish": null, "mfr": "HD", "notes": null},
+    {"qty": 1, "unit": null, "description": "Latch Protector", "catalog_number": "325", "finish": "BSP", "mfr": "RO", "notes": null}
+   ]}
+ ]}

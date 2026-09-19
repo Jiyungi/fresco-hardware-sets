@@ -1,0 +1,2 @@
+sets: 1307; set number printed inside the set's box: 1307
+parts: 11519; part box inside its set's box: 11519; part's text printed inside its box: 11519

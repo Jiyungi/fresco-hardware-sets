@@ -1,0 +1,162 @@
+{
+  "source_pdf": "Roselle Public Library/087100_FL_-_Door_Hardware_IFB_REVISED.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Grid SET | HARDWARE TYPE | MANUFACTURER - PRODUCT | QTY. | FINISH | NOTES. Description = stacked SET-column words joined with spaces, including the 'CARD READER' label printed at the bottom of the SET column beside the DOOR ACCESS row. 'MANUFACTURER - PRODUCT' split at first ' - '. The DOOR ACCESS row product 'CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)' has no ' - ' separator, so it was put entirely in catalog_number with mfr null. QTY '--' -> null. No unit column. Set 5.1's final grid row holding only the NOTES entry 'PROVIDE FLOOR STOP @ DOOR 223' is excluded as a notes-only row. 'SECUIRTY' typo kept as printed.",
+  "sets": [
+    {
+      "set_number": "4.5",
+      "pages": [
+        16
+      ],
+      "description": "SINGLE DOOR DBL DOORS CARD READER",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 5,
+          "unit": null,
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "SCHLAGE",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "finish": "691 (LIGHT BRONZE)",
+          "mfr": "LCN",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "FLUSH BOLT",
+          "catalog_number": "FB45X",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": "TOP & BOTTOM"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "ROCKWOOD",
+          "notes": null
+        },
+        {
+          "qty": 4,
+          "unit": null,
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK PLATE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": null
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "finish": "BLACK",
+          "mfr": "IVES",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "finish": null,
+          "mfr": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR"
+        }
+      ]
+    },
+    {
+      "set_number": "5.1",
+      "pages": [
+        17
+      ],
+      "description": "STUDY ROOM SINGLE DOOR CARD READER",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "SCHLAGE",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "mfr": "IVES",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "finish": "BLACK",
+          "mfr": "IVES",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES"
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "finish": null,
+          "mfr": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR"
+        }
+      ]
+    }
+  ]
+}

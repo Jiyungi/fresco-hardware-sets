@@ -1,0 +1,189 @@
+{
+ "source_pdf": "Village of Oswego New Public Works Facility  _Copy_/SPECIFICATIONS VOLUME 1.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Door numbers under the title (e.g. '136A') are not descriptions -> null. 'NOTE: FURNISH ADDITIONAL HINGES AS REQUIRED FOR DOORS 7'6\" AND OVER' table row is a set-level note -> excluded. OPERATIONAL DESCRIPTION blocks excluded. Wrapped hyphenated text joined with one space per rule 1 ('NON- RATED').",
+ "sets": [
+  {
+   "set_number": "05",
+   "pages": [
+    420
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1HW 4.5 X 4.5 NRP",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "POWER TRANSFER",
+     "catalog_number": "EPT10 CON",
+     "finish": "689",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "STOREROOM LOCK",
+     "catalog_number": "L9080T.03.626.A.626.03.626.A.626 RX",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FSIC PRIMUS PERMANENT CORE",
+     "catalog_number": "20-740-XP CKC - MATCH EXISTING KEYWAY SYSTEM",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH SRI TBSRT",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 10\" X AS REQ B-CS TKTX",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "RAIN DRIP - AS REQUIRED",
+     "catalog_number": "142AA",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING SET",
+     "catalog_number": "188SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "39A",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "HD THRESHOLD",
+     "catalog_number": "655A-V3-226",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WIRE HARNESS - IN DOOR",
+     "catalog_number": "CON - LENGTH AS REQUIRED - FROM LOCK TO EPT",
+     "finish": null,
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WIRE HARNESS CONNECTOR - IN FRAME",
+     "catalog_number": "CON - 6W - FROM CON TO POWER SUPPLY",
+     "finish": null,
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR CONTACT - BY DIVISION 28",
+     "catalog_number": "679-05 WD/HM - AS REQUIRED",
+     "finish": "BLK",
+     "mfr": "SCE",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "21",
+   "pages": [
+    428
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "OFFICE/ENTRY LOCK",
+     "catalog_number": "L9050T.03.626.A.626.03.626.A.626 09-544",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FSIC PRIMUS PERMANENT CORE",
+     "catalog_number": "20-740-XP CKC - MATCH EXISTING KEYWAY SYSTEM",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS401/402CCV",
+     "finish": "626",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "188S-BK PSA (OMIT @ NON- RATED DOORS, USE SILENCERS)",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

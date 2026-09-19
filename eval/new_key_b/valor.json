@@ -1,0 +1,127 @@
+{
+  "source_pdf": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Title parentheses hold only door numbers for sets 16 and 28, so description null. Header prints only 'Qty Description'; the unlabeled right-hand column holds finish codes (BBLK, 622, 693, BLK, GRY) and was recorded as finish. No catalog or mfr column (null). Set 16: the word 'ENTRY' in 'ENTRY STOREROOM LEVER SET' is struck out (drawn line) and was left out. Set 28 title is at the bottom of p.15; its rows are on p.16.",
+  "sets": [
+    {
+      "set_number": "16",
+      "pages": [
+        11
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 4,
+          "unit": "EA",
+          "description": "BB HINGE",
+          "catalog_number": null,
+          "finish": "BBLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ELECT STRIKE",
+          "catalog_number": null,
+          "finish": "BLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "STOREROOM LEVER SET",
+          "catalog_number": null,
+          "finish": "622",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CORE",
+          "catalog_number": null,
+          "finish": "622",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": null,
+          "finish": "693",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": null,
+          "finish": "BLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY",
+          "catalog_number": null,
+          "finish": "GRY",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CARD READER (BY OWNER’S SECURITY CONTRACTOR)",
+          "catalog_number": null,
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "28",
+      "pages": [
+        15,
+        16
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 4,
+          "unit": "EA",
+          "description": "BB HINGE",
+          "catalog_number": null,
+          "finish": "BBLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "B/B DUMMY LEVERS",
+          "catalog_number": null,
+          "finish": "BLK",
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": null,
+          "finish": "693",
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

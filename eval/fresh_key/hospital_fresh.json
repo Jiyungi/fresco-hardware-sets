@@ -1,0 +1,43 @@
+{"source_pdf": "HFH DG - HOSPITAL/08 71 00 - DOOR HARDWARE.pdf", "all_set_numbers": [],
+ "labeler_notes": "Set 016: the MULTITECH CREDENTIAL READER row (1 EA, PROVIDED BY DIV 28 - MTB15 OR MTB11 AS REQUIRED, BLK, SCE) is struck through on p.31 (confirmed in the image and by strike-line drawings) with a bold '[BULLETIN 023, 251218]' marker under it; the row is excluded. 'NOTE:' table rows (FURNISH ... HINGES / SEALS ...) are set-level notes and excluded, as are the REFER TO DIV 28 line and operational text. Set 125 continues onto p.118, but p.118 only holds its NOTE rows and operational text, so no components come from p.118. Wrapped catalog/description lines joined with single spaces. Small icons between catalog and finish columns ignored.",
+ "sets": [
+  {"set_number": "016", "pages": [31], "description": null, "not_used": false, "components": [
+   {"qty": 6, "unit": "EA", "description": "HEAVYWEIGHT HINGE", "catalog_number": "5BB1HW 4.5 X 4.5 NRP", "finish": "630", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "CONST LATCHING BOLT", "catalog_number": "FB51T/FB61T - AS REQUIRED", "finish": "630", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "INTEGRATED LOCK", "catalog_number": "AD-300-CY-70-MT-RHO-B 12/24 VDC", "finish": "626", "mfr": "SCE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "SFIC CONST. CORE - CONSTRUCTION PHASE", "catalog_number": "80-035 GRN", "finish": null, "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "PERMANENT CORE - COMBINATED", "catalog_number": "1C72", "finish": "626", "mfr": "BES", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "COORDINATOR", "catalog_number": "COR X FL X MB - AS REQUIRED", "finish": "713", "mfr": "IVE", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "OH STOP & HOLDER", "catalog_number": "100H", "finish": "630", "mfr": "GLY", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4041 DEL H SRI ST-2468 TBSRT - HEX KEYED", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "ARMOR PLATE - AS REQUIRED", "catalog_number": "8400/8402 34\" HIGH LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "SET", "description": "GASKETING", "catalog_number": "429AA-S", "finish": "AA", "mfr": "ZER", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "DOOR SWEEP", "catalog_number": "39A", "finish": "A", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "ASTRAGAL - LENGTH AS REQUIRED", "catalog_number": "41AA", "finish": "AA", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "THRESHOLD", "catalog_number": "655A-E-V3-226", "finish": "A", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "WIRE HARNESS - IN DOOR", "catalog_number": "CON - LENGTH AS REQUIRED - FROM LOCK TO EPT", "finish": null, "mfr": "SCH", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "DOOR POSITION SWITCH - AS REQUIRED", "catalog_number": "BY DIVISION 28", "finish": null, "mfr": "B/O", "notes": null}
+  ]},
+  {"set_number": "125", "pages": [117, 118], "description": null, "not_used": false, "components": [
+   {"qty": 3, "unit": "EA", "description": "HEAVYWEIGHT HINGE", "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING LOCKING DOORS", "finish": "652", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "DOUBLE CYLINDER FAIL SECURE LOCK", "catalog_number": "45HW7WEU15S", "finish": "626", "mfr": "BES", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "PERMANENT CORE - COMBINATED", "catalog_number": "1C72", "finish": "626", "mfr": "BES", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "ELECTRIC STRIKE", "catalog_number": "6400 FSE 12/24 VAC/VDC", "finish": "630", "mfr": "VON", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "AUTOMATIC OPERATOR", "catalog_number": "BY RELATED SECTION 08 71 13", "finish": null, "mfr": "B/O", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "GASKETING SET", "catalog_number": "188SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "WIRE HARNESS - IN DOOR", "catalog_number": "CON - LENGTH AS REQUIRED - FROM LOCK TO EPT", "finish": null, "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "WIRE HARNESS CONNECTOR - IN FRAME", "catalog_number": "CON - 6W - FROM CON TO POWER SUPPLY", "finish": null, "mfr": "SCH", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "MULTITECH CREDENTIAL READER", "catalog_number": "PROVIDED BY DIV 28 - MTB15 OR MTB11 AS REQUIRED", "finish": "BLK", "mfr": "SCE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "DOOR POSITION SWITCH - AS REQUIRED", "catalog_number": "BY DIVISION 28", "finish": null, "mfr": "B/O", "notes": null}
+  ]},
+  {"set_number": "174", "pages": [152], "description": null, "not_used": false, "components": [
+   {"qty": 3, "unit": "EA", "description": "HEAVYWEIGHT HINGE", "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING LOCKING DOORS", "finish": "652", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "STOREROOM LOCK", "catalog_number": "9K37D 15D", "finish": "626", "mfr": "BES", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "PERMANENT CORE - COMBINATED", "catalog_number": "1C72", "finish": "626", "mfr": "BES", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "OH STOP", "catalog_number": "90S X J BKT - AS REQUIRED - STOP TO BE MOUNTED ON ROOM SIDE", "finish": "630", "mfr": "GLY", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP REG TBSRT/ 4040XP EDA TBSRT - AS REQUIRED", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 10\" HIGH LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null}
+  ]}
+ ]}

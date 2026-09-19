@@ -1,0 +1,236 @@
+{
+ "source_pdf": "Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "The PDF contains two complete copies of Section 087100: a by-door schedule (pp.233-263, titles like 'Set #212' followed by a '1 Single Door #212' door line) and a by-set schedule (pp.283-290, titles like 'Set #119.38' with 'Doors: 119'). 'Set #MISC' appears in both (p.263 and p.287) with identical content; per the duplicate rule both live entries are included in page order. Door lines ('1 Single Door #212 ...', '1 Other Door #MISC NH', 'Doors: ...') and 'Opening Description:' size lines excluded. No unit column; unit null. 'Note:'/'NOTE:' lines under a row go to notes with the label and leading '- ' dropped; the two-line SFIC note is joined with one space, keeping the second line's leading '- '. No struck-out text on pp.257, 263, 285, 287.",
+ "sets": [
+  {
+   "set_number": "212",
+   "pages": [
+    257
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 4,
+     "unit": null,
+     "description": "Hinges",
+     "catalog_number": "MPB79 4 1/2 x 4 1/2 NRP",
+     "finish": "10BE",
+     "mfr": "MC",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Passage Set",
+     "catalog_number": "10XU15 LMD 2 3/4\" BS",
+     "finish": "10BE",
+     "mfr": "SA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Closer",
+     "catalog_number": "351 CPS TB",
+     "finish": "10BE",
+     "mfr": "SA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Wall Stop",
+     "catalog_number": "409",
+     "finish": "10BE",
+     "mfr": "RO",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Smoke Seal",
+     "catalog_number": "S88 BL 21'",
+     "finish": null,
+     "mfr": "PE",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "MISC",
+   "pages": [
+    263
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Key Cabinet",
+     "catalog_number": "KEYCAB",
+     "finish": null,
+     "mfr": "VA01",
+     "notes": "Capacity of key cabinet shall be 150% of permanent cores supplied"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Control Key",
+     "catalog_number": "7147449",
+     "finish": null,
+     "mfr": "BE",
+     "notes": "Construction core control key"
+    },
+    {
+     "qty": 10,
+     "unit": null,
+     "description": "Operating Key",
+     "catalog_number": "7148872",
+     "finish": null,
+     "mfr": "BE",
+     "notes": "Construction core operating key"
+    }
+   ]
+  },
+  {
+   "set_number": "119.38",
+   "pages": [
+    285
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Continuous Hinge",
+     "catalog_number": "10BEFM95HD1",
+     "finish": null,
+     "mfr": "PE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Exit Device",
+     "catalog_number": "LC PE8806 F WEMD",
+     "finish": "10BE",
+     "mfr": "SA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Rim Cylinder",
+     "catalog_number": "70 7P 34",
+     "finish": "10BE",
+     "mfr": "SA",
+     "notes": "SFIC Cylinder housing with disposable core"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Construction Core",
+     "catalog_number": "7190224",
+     "finish": null,
+     "mfr": "BE",
+     "notes": "SFIC Construction core"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Closer",
+     "catalog_number": "351 CPS",
+     "finish": "10BE",
+     "mfr": "SA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "SFIC",
+     "catalog_number": "33700006 N 26 DAKM",
+     "finish": null,
+     "mfr": "MED1",
+     "notes": "Product shall be US10B (or 10BE if available) finish per catalog selections - End user needs to confirm master key system & keyway prior procurement"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstrip",
+     "catalog_number": "290-10BE-PK 1 x 36\" 2 x 96\"",
+     "finish": null,
+     "mfr": "PE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Raindrip",
+     "catalog_number": "346-10BE 40\"",
+     "finish": null,
+     "mfr": "PE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstrip",
+     "catalog_number": "18061-10BE-NB 36\"",
+     "finish": null,
+     "mfr": "PE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Threshold",
+     "catalog_number": "2008-10BE-PK 36\" MSES25SS",
+     "finish": null,
+     "mfr": "PE",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "MISC",
+   "pages": [
+    287
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Key Cabinet",
+     "catalog_number": "KEYCAB",
+     "finish": null,
+     "mfr": "VA01",
+     "notes": "Capacity of key cabinet shall be 150% of permanent cores supplied"
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Control Key",
+     "catalog_number": "7147449",
+     "finish": null,
+     "mfr": "BE",
+     "notes": "Construction core control key"
+    },
+    {
+     "qty": 10,
+     "unit": null,
+     "description": "Operating Key",
+     "catalog_number": "7148872",
+     "finish": null,
+     "mfr": "BE",
+     "notes": "Construction core operating key"
+    }
+   ]
+  }
+ ]
+}

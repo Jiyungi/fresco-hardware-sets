@@ -1,0 +1,189 @@
+{
+ "source_pdf": "81-85 Bridgeport/08-70-00-Hardware-Schedule.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Book has qty/description/catalog/finish columns only: unit and mfr null. 'Item #..' door lines and size lines excluded. Set 19: the separate line '*Confirm Door Thickness' printed under the short catalog numbers of the Dead Lock (4531-35-101-628 - LH) and Push Paddle Trim rows was treated as a row remark (notes), not joined to catalog_number (not a wrap). 'Adams Rite' inside the Cylinder catalog kept in catalog_number (no mfr column). No struck-out rows.",
+ "sets": [
+  {
+   "set_number": "19",
+   "pages": [
+    13
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Continuous Hinge",
+     "catalog_number": "112XY-83\" C28",
+     "finish": "C28",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Dead Lock",
+     "catalog_number": "4531-35-101-628 - LH",
+     "finish": "628",
+     "mfr": null,
+     "notes": "*Confirm Door Thickness"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Push Paddle Trim",
+     "catalog_number": "4590-02-00-628",
+     "finish": "628",
+     "mfr": null,
+     "notes": "*Confirm Door Thickness"
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Cylinder",
+     "catalog_number": "985 630 1 1/8\" G - Adams Rite MS CAM 6-Pin Open",
+     "finish": "630",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Dead Lock",
+     "catalog_number": "4600-MD-612-32D",
+     "finish": "32D",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Electric Strike",
+     "catalog_number": "7100-510-628-00",
+     "finish": "628",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 LH Pull Series",
+     "finish": "US28",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "finish": "628",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstripping",
+     "catalog_number": "Weatherstrip Set By Door Supplier",
+     "finish": "CA",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Weatherstripping",
+     "catalog_number": "W-24S-CA x 38\"",
+     "finish": "CA",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "39",
+   "pages": [
+    22
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "finish": "C26D",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "finish": "626/626",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "finish": "689",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "finish": "C26D",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "finish": "C32D",
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

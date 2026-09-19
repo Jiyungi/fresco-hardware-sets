@@ -1,0 +1,244 @@
+{
+  "source_pdf": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Set header 'Set: N' followed by 'Description:' line; components are qty + description + catalog + finish + mfr with no unit column (unit null). Small lightning icons after mfr ignored. 'Notes:' blocks after a set are set-level and excluded (none of the three target sets has one).",
+  "sets": [
+    {
+      "set_number": "36.0",
+      "pages": [
+        652
+      ],
+      "description": "Sng Occupant Restroom (ADO-PP Pulls)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "finish": "US15",
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Indicator Bolt",
+          "catalog_number": "D292 V21",
+          "finish": "626",
+          "mfr": "YA",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Pull",
+          "catalog_number": "RM5270-12 Mtg-Type 5HD",
+          "finish": "US32D",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Automatic Opener",
+          "catalog_number": "6211 120V",
+          "finish": "689",
+          "mfr": "NO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "ADO Bathroom Accessory Kit",
+          "catalog_number": "776",
+          "finish": null,
+          "mfr": "NO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Kick Plate",
+          "catalog_number": "K1050=10\" high CSK BEV",
+          "finish": "US32D",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Wall Stop",
+          "catalog_number": "430-RKW",
+          "finish": "US15",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Gasketing",
+          "catalog_number": "S88BL",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Coat Hook",
+          "catalog_number": "RM801",
+          "finish": "US26D",
+          "mfr": "RO",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "78.0",
+      "pages": [
+        666
+      ],
+      "description": "Corridor Hallway (WDL)",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Hinge, Full Mortise",
+          "catalog_number": "TA2714",
+          "finish": "US15",
+          "mfr": "MK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Access Control Cyl Lock",
+          "catalog_number": "70 IN100-10XG77-BIPS B LMW",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Small Format Inter Core",
+          "catalog_number": "7300B CKC GMK",
+          "finish": "US15",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Closer",
+          "catalog_number": "351 UO",
+          "finish": "EN",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Kick Plate",
+          "catalog_number": "K1050=10\" high CSK BEV",
+          "finish": "US32D",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Wall Stop",
+          "catalog_number": "430-RKW",
+          "finish": "US15",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Gasketing",
+          "catalog_number": "S88BL",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "133.0",
+      "pages": [
+        693
+      ],
+      "description": "Lobby Storefront Door Pair",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Pivot Set",
+          "catalog_number": "195",
+          "finish": "622",
+          "mfr": "RF",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Intermediate Pivot",
+          "catalog_number": "M19",
+          "finish": "622",
+          "mfr": "RF",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Push Bar & Pull",
+          "catalog_number": "TBF15847 33\" PUSH",
+          "finish": "BSP",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Concealed Closer",
+          "catalog_number": "PH91NDCP 105 Stop Block",
+          "finish": "BSP",
+          "mfr": "RF",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Sweep",
+          "catalog_number": "18062BSPNB",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "Per Detail / Type as Req",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

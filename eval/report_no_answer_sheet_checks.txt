@@ -1,0 +1,12 @@
+1. Nothing invented: 42201 of 42211 values found on their page (10 not found)
+     not found: Roselle Public Library set 2.2 p[15]: 'HM DOOR/FRM EXTR ENTR DBL DOORS CARD READER'
+     not found: Roselle Public Library set 2.4 p[15]: 'HM DOOR/FRM INTR EGRESS SINGLE DOOR CARD READER'
+     not found: Roselle Public Library set 3.2 p[15]: 'CONFERENCE SINGLE DOOR CARD READER'
+     not found: Roselle Public Library set 3.5 p[16]: 'RECEIVING W/ AUTO-OP DBL DOORS CARD READER'
+     not found: Roselle Public Library set 4.4 p[16]: 'SINGLE DOOR SINGLE DOOR CARD READER'
+     not found: Roselle Public Library set 4.5 p[16]: 'SINGLE DOOR DBL DOORS CARD READER'
+     not found: Roselle Public Library set 4.6 p[16]: 'SINGLE DOOR DBL DOORS CARD READER'
+     not found: StarHardware set 03 p[63, 64]: 'Coordination task for security and/or electrical design and additional'
+     not found: StarHardware set 10 p[80, 81]: 'Coordination task for security and/or electrical design and additional'
+     not found: StarHardware set 20 p[93]: 'Door Rail Long Throw Lock s and Dustproof Keeper Without Mounting Plat'
+2. Hospital door index: 63 of 63 set numbers the index uses were found; missing: []

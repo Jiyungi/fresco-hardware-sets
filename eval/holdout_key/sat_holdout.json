@@ -1,0 +1,207 @@
+{
+  "source_pdf": "SAT TDP/2025.12.19 - SAT TDP - Project Manual.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Transcribed from text + page images (pp.809, 811); no strikeouts. Each set fits on one page. The hinge row's '(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)' is a separate parenthesised line under a short catalog number (it would have fit on the first line), so it goes to notes with its parentheses kept as printed. Inline/wrapped parentheticals such as the gasketing '(USE SILENCERS @ NON-RATED DOORS)' stay in catalog_number. E711CR really prints '_CYLINDER' with a leading underscore (confirmed in the image); copied as printed. Operational '-INGRESS/-FREE EGRESS/-REQUEST TO EXIT' lines under EC201T are set-level notes, excluded.",
+  "sets": [
+    {
+      "set_number": "E711CR",
+      "pages": [
+        809
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE RATED EXIT DEVICE",
+          "catalog_number": "12-43-TB-LC-8804 ETJ 26D/32D LENGTH AS REQ",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "_CYLINDER",
+          "catalog_number": "AS REQUIRED",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "XT INTELLIGENT KEY SYSTEM CORE",
+          "catalog_number": "MATCH FACILITY SYSTEM AS REQUIRED",
+          "finish": "626",
+          "mfr": "MED",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH X TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488S PSA H & J",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "EC201T",
+      "pages": [
+        811
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 4,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "EU MORTISE LOCK",
+          "catalog_number": "LX-RX-72-8271 LE2J 26D FAIL SECURE",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "XT INTELLIGENT KEY SYSTEM CORE",
+          "catalog_number": "MATCH FACILITY SYSTEM AS REQUIRED",
+          "finish": "626",
+          "mfr": "MED",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488S PSA H & J (USE SILENCERS @ NON-RATED DOORS)",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS (IN DOOR)",
+          "catalog_number": "ASSA ABLOY ELECTROLYNX TYPE & LENGTH AS REQ",
+          "finish": null,
+          "mfr": "MCK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS (TO POWER SUPPLY)",
+          "catalog_number": "QC-C006 - CONNECTION LEADS",
+          "finish": null,
+          "mfr": "MCK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CREDENTIAL READER",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "UNK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR POSITION SWITCH",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+{
+  "source_file": "Shubie Center/e2231795-IFT_Specs.pdf",
+  "page_count": 201,
+  "sets": [
+    {
+      "set_number": "01",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "D1",
+        "D2"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following: DOORS ARE ALWAYS UNLOCKED DURING HOURS OF OPERATION MODE OF OPERATION A PERSON CAN ENTER PRESSING THE ACTUATOR BUTTON WHICH WILL RETRACT KEEPER ON ELECTRIC STRIKE AND ALLOW THE DOOR TO AUTOMATICALLY OPEN. FREE EGRESS AT ALL TIMES Dept. Project No. 110014163",
+      "location": [
+        {
+          "page": 174,
+          "bbox": [
+            66.0,
+            134.8,
+            541.1,
+            639.9
+          ]
+        },
+        {
+          "page": 175,
+          "bbox": [
+            73.0,
+            79.4,
+            217.3,
+            96.0
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                241.6,
+                535.5,
+                255.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "33A-NL-OP-388",
+          "mfr": "VON",
+          "finish": "315",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                261.2,
+                541.1,
+                274.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "finish": "622",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Flat black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                280.6,
+                540.5,
+                294.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6300 FSE",
+          "mfr": "VON",
+          "finish": "630",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin stainless steel",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                300.2,
+                541.1,
+                313.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264 48\" 20\" O",
+          "mfr": "IVE",
+          "finish": "BLK",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                319.6,
+                535.5,
+                333.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "finish": "BLK",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                339.2,
+                538.7,
+                352.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA-R",
+          "description": "AUTO OPERATOR",
+          "catalog_number": "9542",
+          "mfr": "LCN",
+          "finish": "ANCL",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Anodized clear",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                70.0,
+                358.7,
+                539.4,
+                372.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 4,
+          "unit": "EA-R",
+          "description": "ACTUATOR, TOUCH",
+          "catalog_number": "8310-818",
+          "mfr": "LCN",
+          "finish": "630",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Satin stainless steel",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                378.2,
+                539.4,
+                391.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR SWEEP",
+          "catalog_number": "8192A x door width",
+          "mfr": "ZER",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                392.7,
+                539.4,
+                406.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "THRESHOLD",
+          "catalog_number": "545A x door width",
+          "mfr": "ZER",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                407.3,
+                539.4,
+                420.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR SEALANT",
+          "catalog_number": "GASKETING BY DR SUPPLIER",
+          "mfr": "UNK",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Unknown",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                426.7,
+                540.5,
+                440.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS",
+          "catalog_number": "CON. TO SUIT",
+          "mfr": "SCH",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                446.3,
+                540.4,
+                459.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CREDENTIAL",
+          "catalog_number": "BY OTHERS",
+          "mfr": "UNK",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Unknown",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                465.7,
+                540.5,
+                479.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "READER/CONTROLL",
+          "catalog_number": "BY OTHERS",
+          "mfr": "UNK",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Unknown",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                485.1,
+                540.5,
+                498.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR CONTACT",
+          "catalog_number": "679-05 TO SUIT DR MATERIAL",
+          "mfr": "SCE",
+          "finish": "WHT",
+          "notes": null,
+          "mfr_name": "Schlage Electronics",
+          "finish_name": "White",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                504.7,
+                539.9,
+                518.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.95
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY",
+          "catalog_number": "PS904 900-4RL 120/240 VAC",
+          "mfr": "SCE",
+          "finish": "LGR",
+          "notes": null,
+          "mfr_name": "Schlage Electronics",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 174,
+              "bbox": [
+                69.9,
+                524.1,
+                539.9,
+                537.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.95,
+            "finish": 0.76
+          }
+        }
+      ],
+      "confidence": 0.94,
+      "warnings": []
+    },
+    {
+      "set_number": "02",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "D3",
+        "D5"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following: DOORS ARE ALWAYS LOCKED DURING HOURS OF OPERATION MODE OF OPERATION A PERSON CAN ENTER WITH KEY. FREE EGRESS AT ALL TIMES",
+      "location": [
+        {
+          "page": 175,
+          "bbox": [
+            66.0,
+            123.3,
+            540.9,
+            376.2
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "mfr": "IVE",
+          "finish": "711",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black anodized",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                219.6,
+                535.4,
+                233.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "33A-NL-OP-388",
+          "mfr": "VON",
+          "finish": "315",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                239.0,
+                540.9,
+                252.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.86
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "finish": "622",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Flat black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.9,
+                258.6,
+                540.3,
+                272.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "LONG DOOR PULL",
+          "catalog_number": "9264 48\" 20\" O",
+          "mfr": "IVE",
+          "finish": "BLK",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.9,
+                278.0,
+                535.4,
+                291.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "mfr": "GLY",
+          "finish": "BLK",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.9,
+                297.6,
+                538.6,
+                311.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        }
+      ],
+      "confidence": 0.95,
+      "warnings": []
+    },
+    {
+      "set_number": "03",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "D4"
+      ],
+      "set_notes": "Provide each SGL door(s) with the following: DOOR IS ALWAYS LOCKED DURING HOURS OF OPERATION MODE OF OPERATION A PERSON CAN ENTER WITH KEY. FREE EGRESS AT ALL TIMES",
+      "location": [
+        {
+          "page": 175,
+          "bbox": [
+            66.0,
+            391.8,
+            540.6,
+            737.4
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4 NRP",
+          "mfr": "IVE",
+          "finish": "622",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Flat black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                488.1,
+                535.0,
+                501.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FIRE EXIT HARDWARE",
+          "catalog_number": "98-NL-OP-F 110MD",
+          "mfr": "VON",
+          "finish": "315",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                507.7,
+                540.6,
+                521.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.87
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "RIM CYLINDER",
+          "catalog_number": "80-329",
+          "mfr": "SCH",
+          "finish": "622",
+          "notes": null,
+          "mfr_name": "Schlage",
+          "finish_name": "Flat black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                527.1,
+                540.0,
+                540.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6300 FSE",
+          "mfr": "VON",
+          "finish": "630",
+          "notes": null,
+          "mfr_name": "Von Duprin",
+          "finish_name": "Satin stainless steel",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.9,
+                546.7,
+                540.6,
+                560.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR PULL",
+          "catalog_number": "8190HD 10”",
+          "mfr": "IVE",
+          "finish": "BLK",
+          "notes": null,
+          "mfr_name": "Ives",
+          "finish_name": "Black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                566.1,
+                535.0,
+                580.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "90S",
+          "mfr": "GLY",
+          "finish": "BLK",
+          "notes": null,
+          "mfr_name": "Glynn-Johnson",
+          "finish_name": "Black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.5,
+                586.3,
+                538.2,
+                599.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP LONG",
+          "mfr": "LCN",
+          "finish": "622",
+          "notes": null,
+          "mfr_name": "LCN",
+          "finish_name": "Flat black",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.5,
+                605.8,
+                538.9,
+                619.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "312A-S x door width x (2) door",
+          "mfr": "ZER",
+          "finish": "A",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Anodized aluminum",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                69.5,
+                625.3,
+                538.9,
+                638.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR SWEEP",
+          "catalog_number": "8192AA x door width",
+          "mfr": "ZER",
+          "finish": "AA",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Anodized aluminum",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                644.9,
+                538.9,
+                658.4
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "THRESHOLD",
+          "catalog_number": "545A x door width",
+          "mfr": "ZER",
+          "finish": "A",
+          "notes": null,
+          "mfr_name": "Zero International",
+          "finish_name": "Anodized aluminum",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 175,
+              "bbox": [
+                70.0,
+                664.3,
+                538.9,
+                677.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.96,
+            "finish": 0.96
+          }
+        }
+      ],
+      "confidence": 0.96,
+      "warnings": []
+    }
+  ],
+  "code_tables": {},
+  "layout_notes": [
+    "hardware pages: 174-175",
+    "columns learned from rows: description@134, catalog@269, finish@477, mfr@519"
+  ]
+}

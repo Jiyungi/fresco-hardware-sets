@@ -1,0 +1,252 @@
+{
+ "source_pdf": "2353 Gerrard Street Shelter/Hdw Spec & Sch-IFT_5.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "No unit column (units null). Last column is manufacturer (HA). 'Operational Description' block after set 24 excluded as set-level note. Set 24 'Wiring Diagrams' row has no finish/mfr. 'No Finish' copied literally as finish.",
+ "sets": [
+  {
+   "set_number": "22",
+   "pages": [
+    29
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "Hinge(s)",
+     "catalog_number": "BB1279 4 1/2\" x 4\"",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Storeroom Lockset",
+     "catalog_number": "3480 WTN SFIC",
+     "finish": "US26D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Construction Core(s)",
+     "catalog_number": "3982-BLU",
+     "finish": "BLU",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "SFIC Core(s)",
+     "catalog_number": "3969-C",
+     "finish": "US26D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Closer(s)",
+     "catalog_number": "5200",
+     "finish": "ALM",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Kick Plate(s)",
+     "catalog_number": "190S 10\" x 2\" LDW",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Convex Wall Stop(s)",
+     "catalog_number": "232W",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Seal",
+     "catalog_number": "726 x LAR",
+     "finish": "S",
+     "mfr": "HA",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "24",
+   "pages": [
+    30
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "Hinge(s)",
+     "catalog_number": "BB1279 4 1/2\" x 4\"",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Electric Strike",
+     "catalog_number": "2930 CYL",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Storeroom Lockset",
+     "catalog_number": "3480 WTN SFIC",
+     "finish": "US26D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "SFIC Core(s)",
+     "catalog_number": "3969-C",
+     "finish": "US26D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Construction Core(s)",
+     "catalog_number": "3982-BLU",
+     "finish": "BLU",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Single Operator",
+     "catalog_number": "8318 Pull",
+     "finish": "ALM",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Kick Plate(s)",
+     "catalog_number": "190S 10\" x 2\" LDW",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Mop Plate(s)",
+     "catalog_number": "190S 4\" x 1\" LDW",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Convex Wall Stop(s)",
+     "catalog_number": "232W",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Actuator(s)",
+     "catalog_number": "8228-02H/00",
+     "finish": "US32D",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Door Position Switch(es)",
+     "catalog_number": "2-679-0626",
+     "finish": null,
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Push to Lock Button",
+     "catalog_number": "2-659-0370",
+     "finish": null,
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Occupancy Indicator(s)",
+     "catalog_number": "2-659-0371",
+     "finish": null,
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "Silencers",
+     "catalog_number": "307D",
+     "finish": "GREY",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Sequencer",
+     "catalog_number": "2-659-0240",
+     "finish": null,
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": "Battery Backup",
+     "catalog_number": "2-679-0661",
+     "finish": "No Finish",
+     "mfr": "HA",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Wiring Diagrams",
+     "catalog_number": "Wiring Diagrams",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

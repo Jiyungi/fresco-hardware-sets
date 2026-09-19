@@ -1,0 +1,460 @@
+{
+  "source_pdf": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf",
+  "all_set_numbers": [
+    "01",
+    "02",
+    "02A",
+    "03",
+    "04",
+    "04A",
+    "05",
+    "05A",
+    "06",
+    "06A",
+    "07",
+    "07A",
+    "07B",
+    "08",
+    "09",
+    "09A",
+    "09B",
+    "10",
+    "10A",
+    "10B",
+    "10C",
+    "10C",
+    "11",
+    "12",
+    "12A",
+    "12B",
+    "12C",
+    "13",
+    "14",
+    "14A",
+    "14B",
+    "14B",
+    "15",
+    "15A",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "24A",
+    "25",
+    "25A",
+    "26",
+    "26A",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31A",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08",
+    "E09",
+    "E10",
+    "E11",
+    "E12",
+    "E13",
+    "E14",
+    "E15",
+    "E16",
+    "E17",
+    "E18",
+    "E19",
+    "E20",
+    "E21",
+    "G01",
+    "G02",
+    "G03"
+  ],
+  "labeler_notes": "Strike-outs identified from vector lines crossing text and confirmed on page images. p.717: three 'HW 14B' titles; the middle one (Exterior Single ...) and all its rows are struck, so two live 14B entries: 'NOT USED' (not_used true, no components) and 'Interior Pair ...' (7 rows). p.734: 'HW E01 NOT USED' and its whole block are struck; the only live E01 is on p.735. p.715 prints 'HW 10C Exterior doors only moved to Exterior Set HW E13; Door S100B is interior' directly above a second live 'HW 10C Interior Single - Push/Pull...' set; both titles are unstruck, so 10C is listed twice in all_set_numbers (same treatment as 14B NOT USED + live 14B). p.718: 'HW 15 Not Used' is live, the two other 'HW 15' titles are struck (15A live), so 15 appears once. Other repeated numbers (30, 32, 34, 44, E03, E06, E07, E12, E15, E17, E19, E20 and interior numbers re-titled in the exterior section) have only one unstruck title each. Set titles marked 'Moved to ...' / 'Not Used' are included in all_set_numbers. HW 20 has only a column header and a set-level 'Note: Hardware by Slider Dr. MFG' -> components [] and not_used false (hardware by others, not marked unused). 'Each Opening to Receive: <risk level>' lines, column headers and set-level 'Note:' paragraphs excluded. 'As Req' / 'As Req.' quantities -> qty null, unit null. 'Ea.' -> EA, 'Set' -> SET. '---' finish/mfr -> null. E01 set-level Delayed Egress note has partially struck words; it is set-level and excluded anyway.",
+  "sets": [
+    {
+      "set_number": "01",
+      "pages": [
+        711
+      ],
+      "description": "Interior Single Bedroom - Classroom Lock/Ligature Resistant - No Closer - Rescue Hdw",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Continuous Hinge-Double Acting",
+          "catalog_number": "A508",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Ligature Res. Mortise Lock-Classrm",
+          "catalog_number": "MRX-A-05",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "630",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Emergency Rescue Stop",
+          "catalog_number": "A509",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "02A",
+      "pages": [
+        711
+      ],
+      "description": "Interior Single - Office Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hinge",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Ligature Res. Cyl. Lock-Office",
+          "catalog_number": "CRX-A-81",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "630",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH Surface Closer - Track Arm",
+          "catalog_number": "4210T/4510T TRX mount on public side",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "14B",
+      "pages": [
+        717
+      ],
+      "description": null,
+      "not_used": true,
+      "components": []
+    },
+    {
+      "set_number": "14B",
+      "pages": [
+        717
+      ],
+      "description": "Interior Pair - Ligature Resistant Push/Pulls - Automatic Operator- Continuous Hinge",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": "SET",
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "SET",
+          "description": "Ligature Res. Push/Pull Set",
+          "catalog_number": "MRX-A-72",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Overhead Surface Auto Operator",
+          "catalog_number": "SW200i 115VAC",
+          "finish": "628",
+          "mfr": "BSM",
+          "notes": null
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "Wave Sense Actuator",
+          "catalog_number": "MS31 / MS41",
+          "finish": null,
+          "mfr": "BEA",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "Per Specification",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Threshold",
+          "catalog_number": "To Suit Sill Condition",
+          "finish": "719",
+          "mfr": "PEM",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "20",
+      "pages": [
+        720
+      ],
+      "description": "Interior Automated Sliding Door",
+      "not_used": false,
+      "components": []
+    },
+    {
+      "set_number": "E01",
+      "pages": [
+        735
+      ],
+      "description": "Exterior Single 2xCR Delayed Egress Exit Device Fail Secure Trim Surface Closer-SCUSH",
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": null,
+          "description": "Hinge",
+          "catalog_number": "4C51 NRP",
+          "finish": "630",
+          "mfr": "PBB",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Hinge-Power Transfer",
+          "catalog_number": "4C51EL",
+          "finish": "630",
+          "mfr": "PBB",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Delayed Egress Rim Device/Fail Secure",
+          "catalog_number": "ED1100/EF110-DE x KES909ER2-S",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Power Supply",
+          "catalog_number": "PS220B 120VAC",
+          "finish": null,
+          "mfr": "CAT",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "626",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH Surface Closer-SCUSH",
+          "catalog_number": "4040XP SCUSH",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Overhead Rain Drip",
+          "catalog_number": "16A (As Req)",
+          "finish": "628",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Sweep",
+          "catalog_number": "C627",
+          "finish": "628",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Weatherstrip",
+          "catalog_number": "700Nx700EN",
+          "finish": "719",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Threshold",
+          "catalog_number": "To Suit Sill Condition",
+          "finish": "719",
+          "mfr": "PEM",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Position Switch",
+          "catalog_number": "MC-4 (Or as Req)",
+          "finish": null,
+          "mfr": "SDC",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Card Reader",
+          "catalog_number": "By Division 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Position Switch",
+          "catalog_number": "By Division 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Lock Power Supply",
+          "catalog_number": "By Division 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

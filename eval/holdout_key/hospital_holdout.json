@@ -1,0 +1,218 @@
+{
+  "source_pdf": "HFH DG - HOSPITAL/08 71 00 - DOOR HARDWARE.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Hand-transcribed from pdftotext -layout, word coordinates and page images; no strikeouts on these pages. Both sets continue onto the next page (121: pp.114-115; 263: pp.178-179). Rows labelled 'NOTE:' (FURNISH ... HINGES/SEALS/PIVOTS ...) are treated as set-level notes and excluded, as are the operational description lines under each table. Set 263 has a 'DIAGRAMS / PROVIDE FACTORY POINT TO POINT WIRING DIAGRAMS' row with no qty/unit: it is not labelled NOTE, so it is kept as a component (debatable). '- PROVIDE BRASS' in 121 sits in the catalog column (x=271), so it belongs to the catalog number, not the description. Set 263 title carries '[BULLETIN 023, 251218]' which is a revision note, not a description.",
+  "sets": [
+    {
+      "set_number": "121",
+      "pages": [
+        114,
+        115
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HEAVYWEIGHT HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING LOCKING DOORS",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FAIL SECURE CYLINDRICAL LOCK, RX",
+          "catalog_number": "9K37DEU 15D RQE - PROVIDE BRASS CONSTRUCTION CORE",
+          "finish": "626",
+          "mfr": "BES",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PERMANENT CORE - COMBINATED",
+          "catalog_number": "1C72",
+          "finish": "626",
+          "mfr": "BES",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH TBSRT",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" HIGH LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "finish": "GRY",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS - IN DOOR",
+          "catalog_number": "CON - LENGTH AS REQUIRED - FROM LOCK TO EPT",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS CONNECTOR - IN FRAME",
+          "catalog_number": "CON - 6W - FROM CON TO POWER SUPPLY",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY - AS REQUIRED",
+          "catalog_number": "BY DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MULTITECH CREDENTIAL READER",
+          "catalog_number": "PROVIDED BY DIV 28 - MTB15 OR MTB11 AS REQUIRED",
+          "finish": "BLK",
+          "mfr": "SCE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR POSITION SWITCH - AS REQUIRED",
+          "catalog_number": "BY DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "263",
+      "pages": [
+        178,
+        179
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HEAVYWEIGHT HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING LOCKING DOORS",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "INTEGRATED PRIVACY LOCK",
+          "catalog_number": "AD-300-CY-40-MT-RHO-B 12/24 VDC",
+          "finish": "626",
+          "mfr": "SCE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SFIC CONST. CORE - CONSTRUCTION PHASE",
+          "catalog_number": "80-035 GRN",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PERMANENT CORE - COMBINATED",
+          "catalog_number": "1C72",
+          "finish": "626",
+          "mfr": "BES",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DELAYED SURFACE CLOSER",
+          "catalog_number": "4041 DEL REG TBSRT/ 4041 DEL EDA TBSRT - AS REQUIRED",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "finish": "626",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "finish": "GRY",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "DIAGRAMS",
+          "catalog_number": "PROVIDE FACTORY POINT TO POINT WIRING DIAGRAMS",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

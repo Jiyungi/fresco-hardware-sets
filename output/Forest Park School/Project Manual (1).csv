@@ -1,0 +1,6 @@
+set_number,set_description,not_used,doors,set_pages,set_confidence,qty,unit,description,catalog_number,mfr,finish,notes,mfr_name,finish_name,electrified,component_page,component_bbox,low_confidence_fields
+1,,False,"256a, 2p57a","262, 263",0.97,3,,Hinge,FBB179 NRP 4.5X4.5,BES,26D,,BEST,Satin Chromium Plated Over Nickel,,262,"[72.0, 688.6, 519.5, 698.6]",
+1,,False,"256a, 2p57a","262, 263",0.97,1,,Mortise Lock-Storeroom,45H-0D-15H LESS CYLINDER,BES,626,,BEST,Satin Chromium Plated Over Nickel,,262,"[72.0, 702.0, 519.5, 711.9]",
+1,,False,"256a, 2p57a","262, 263",0.97,1,,Mortise Cylinder,CR1000-XXX-CAM-7 59D1 (TIE TO SYSTEM),C-R,626,,Corbin Russwin,Satin Chromium Plated Over Nickel,,263,"[72.0, 73.6, 517.3, 83.6]",
+1,,False,"256a, 2p57a","262, 263",0.97,1,,Surface Overhead Stop,4420 SERIES,ABH,US32D,,ABH Manufacturing,Satin stainless,,263,"[72.0, 86.8, 519.9, 96.8]",
+1,,False,"256a, 2p57a","262, 263",0.97,3,,Silencers,500,BRN,Gray,,Burns Manufacturing,Gray,,263,"[72.0, 100.0, 520.5, 110.0]",

@@ -1,0 +1,19 @@
+{"source_pdf": "81-85 Bridgeport/08-70-00-Hardware-Schedule.pdf", "all_set_numbers": [],
+ "labeler_notes": "No unit or manufacturer column in this schedule, so unit and mfr are null. Item/door lines and the size line (965 x 2134 x 44 ...) excluded; the handing (LHR/RHR) sits on the door line, not on component rows, so notes are null. Each heading appears only once in the book.",
+ "sets": [
+  {"set_number": "21", "pages": [14], "description": null, "not_used": false, "components": [
+   {"qty": 3, "unit": null, "description": "Standard Hinge", "catalog_number": "TA714 4 1/2\" x 4\" C26D", "finish": "C26D", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Lockset", "catalog_number": "W561 P6 LAT/LAT 626/626 G", "finish": "626/626", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Surface Closer", "catalog_number": "SC81A Rw/ PA 689", "finish": "689", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Gasketing", "catalog_number": "W-22AL 1/965 x 2/2134", "finish": null, "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Kick Plate", "catalog_number": "8400 C32D 8\" x 36 1/2\"", "finish": "C32D", "mfr": null, "notes": null}
+  ]},
+  {"set_number": "50", "pages": [27], "description": null, "not_used": false, "components": [
+   {"qty": 3, "unit": null, "description": "Standard Hinge", "catalog_number": "TA786 4 1/2\" x 4\" C26D", "finish": "C26D", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Exit Device", "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 965 x 2134 Door", "finish": "626/626", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Surface Closer", "catalog_number": "SC81A Rw/ PA 689", "finish": "689", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Wall Door Stop", "catalog_number": "S120 C26D", "finish": "C26D", "mfr": null, "notes": null},
+   {"qty": 1, "unit": null, "description": "Kick Plate", "catalog_number": "8400 C32D 8\" x 36 1/2\"", "finish": "C32D", "mfr": null, "notes": null},
+   {"qty": 3, "unit": null, "description": "Door Silencer", "catalog_number": "SR64 GRY", "finish": "GRY", "mfr": null, "notes": null}
+  ]}
+ ]}

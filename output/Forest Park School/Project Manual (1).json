@@ -1,0 +1,244 @@
+{
+  "source_file": "Forest Park School/Project Manual (1).pdf",
+  "page_count": 344,
+  "sets": [
+    {
+      "set_number": "1",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "256a",
+        "2p57a"
+      ],
+      "set_notes": null,
+      "location": [
+        {
+          "page": 262,
+          "bbox": [
+            72.0,
+            649.9,
+            519.5,
+            711.9
+          ]
+        },
+        {
+          "page": 263,
+          "bbox": [
+            72.0,
+            73.6,
+            520.5,
+            110.0
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Hinge",
+          "catalog_number": "FBB179 NRP 4.5X4.5",
+          "mfr": "BES",
+          "finish": "26D",
+          "notes": null,
+          "mfr_name": "BEST",
+          "finish_name": "Satin Chromium Plated Over Nickel",
+          "electrified": null,
+          "catalog_codes": {
+            "NRP": "Non-Removable Pins"
+          },
+          "location": [
+            {
+              "page": 262,
+              "bbox": [
+                72.0,
+                688.6,
+                519.5,
+                698.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.99,
+            "finish": 0.99
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Lock-Storeroom",
+          "catalog_number": "45H-0D-15H LESS CYLINDER",
+          "mfr": "BES",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "BEST",
+          "finish_name": "Satin Chromium Plated Over Nickel",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 262,
+              "bbox": [
+                72.0,
+                702.0,
+                519.5,
+                711.9
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.99,
+            "finish": 0.99
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder",
+          "catalog_number": "CR1000-XXX-CAM-7 59D1 (TIE TO SYSTEM)",
+          "mfr": "C-R",
+          "finish": "626",
+          "notes": null,
+          "mfr_name": "Corbin Russwin",
+          "finish_name": "Satin Chromium Plated Over Nickel",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 263,
+              "bbox": [
+                72.0,
+                73.6,
+                517.3,
+                83.6
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.99,
+            "finish": 0.99
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Overhead Stop",
+          "catalog_number": "4420 SERIES",
+          "mfr": "ABH",
+          "finish": "US32D",
+          "notes": null,
+          "mfr_name": "ABH Manufacturing",
+          "finish_name": "Satin stainless",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 263,
+              "bbox": [
+                72.0,
+                86.8,
+                519.9,
+                96.8
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.99,
+            "finish": 0.99
+          }
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Silencers",
+          "catalog_number": "500",
+          "mfr": "BRN",
+          "finish": "Gray",
+          "notes": null,
+          "mfr_name": "Burns Manufacturing",
+          "finish_name": "Gray",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 263,
+              "bbox": [
+                72.0,
+                100.0,
+                520.5,
+                110.0
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.99,
+            "finish": 0.99
+          }
+        }
+      ],
+      "confidence": 0.97,
+      "warnings": []
+    }
+  ],
+  "code_tables": {
+    "manufacturers": {
+      "BES": "BEST",
+      "BRN": "Burns Manufacturing",
+      "BYO": "By Related Section",
+      "C-R": "Corbin Russwin",
+      "DKA": "dormakaba Architectural",
+      "DKC": "dormakaba Commercial",
+      "EDW": "Edwards Signaling",
+      "NGP": "National Guard Products",
+      "PRE": "BEST (Precision)",
+      "RCI": "Rutherford Controls Inc"
+    },
+    "options": {
+      "4\" ODW": "4\" Over Door Width",
+      "B4E": "Beveled 4 Edges",
+      "1/4-20 SS MS/EA": "1/4-20 Machine Screw/Expansion Anchor",
+      "VIB-O": "Double Visual Indicator (Occupied/Vacant)",
+      "LAR": "Length as Required",
+      "NRP": "Non-Removable Pins",
+      "CSK": "Counter Sunk Holes",
+      "LDW": "Less Door Width",
+      "RQE": "Request to Exit",
+      "CE": "Concealed Electric Wires",
+      "C": "Quick Connect",
+      "FSE": "Fail Secure",
+      "REX": "Request to Exit",
+      "HO": "Hold Open",
+      "IND": "Indicator"
+    },
+    "finishes": {
+      "626": "Satin Chromium Plated Over Nickel",
+      "630": "Satin Stainless Steel",
+      "689": "Aluminum (Painted)",
+      "26D": "Satin Chromium Plated Over Nickel",
+      "32D": "Satin Stainless Steel",
+      "A": "Anodized Aluminum",
+      "AL": "Aluminum Clear Coated",
+      "B": "Brown",
+      "C": "Charcoal",
+      "CAS": "Color as Select by Architect from Manufacturer’s Standard Colors"
+    }
+  },
+  "layout_notes": [
+    "hardware pages: 262-263",
+    "columns learned from rows: description@94, catalog@216, catalog@234, finish@454, mfr@500"
+  ]
+}

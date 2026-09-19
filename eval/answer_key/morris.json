@@ -1,0 +1,393 @@
+{
+  "source_pdf": "Morris Bank/030f2d1d-Morris_Bank_Macon_-Spec_Manual_Issued_for_Const._1-26-26_FULL_SPECS.pdf",
+  "all_set_numbers": [
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "111",
+    "112",
+    "113",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "201",
+    "203",
+    "205",
+    "207",
+    "208",
+    "210",
+    "211",
+    "212",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "MISC",
+    "101.68",
+    "103.68",
+    "106.38",
+    "119.38",
+    "205.68",
+    "CR38",
+    "CR38CLHO",
+    "MISC",
+    "OF38",
+    "211.3080",
+    "PR38ICCL",
+    "PR38INCL",
+    "SR38",
+    "SR38CL",
+    "SR38CLCA",
+    "SW38RPA",
+    "SW38RXCA",
+    "XSR48CL"
+  ],
+  "labeler_notes": "The PDF contains two separate hardware-set sections (pp.233-263: Set #101..#218, #MISC; pp.283-290: Set #101.68..#XSR48CL, #MISC), so MISC is listed twice. No set titles are struck out. Set titles carry no description text, so description is null. Door lines ('1 Pair Doors #101 ...', 'Doors: 106') and 'Opening Description' lines excluded. No units printed (unit null). Row notes: 'Note:'/'NOTE:'/'Properties:' labels dropped along with the leading '- '; the SFIC note's second bullet line ('- End user needs ...') is treated as a second note item, its '- ' dropped, joined with a space. The numbered 'Note: 1. Integrated Seals ...' block after the last row of 101/103 is set-level and excluded. RH/LH in the narrow column before finish on the Closer rows goes to notes. Typo 'deisgn' (101) kept as printed; 103 prints 'design'. Catalog 'RM3301 35\" 2\" Doors CTC OVERALL' wraps to 'LENGTH' on 101/103 and is joined.",
+  "sets": [
+    {
+      "set_number": "101",
+      "pages": [
+        233
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Continuous Hinge",
+          "catalog_number": "K10BEFM95HD1",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Deadlock",
+          "catalog_number": "MS1850S Door Height Straight Bolt",
+          "finish": "313",
+          "mfr": "AD",
+          "notes": "Door Height=96"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Thumbturn Cylinder",
+          "catalog_number": "4066-01",
+          "finish": "313",
+          "mfr": "AD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder",
+          "catalog_number": "70 7P 43 13-0512",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "SFIC Cylinder housing with disposable core"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Construction Core",
+          "catalog_number": "7190224",
+          "finish": null,
+          "mfr": "BE",
+          "notes": "SFIC Construction core"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Pull",
+          "catalog_number": "RM3301 35\" 2\" Doors CTC OVERALL LENGTH",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": "Push bar dimensions shall be coordinated with Aluminum Door provider & approved by the deisgn team during submittal phase CTC = =33, Overall Length=35"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Pull",
+          "catalog_number": "RM3310 30\" 2\" Doors CTC OVERALL LENGTH",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": "Verify door thickness"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "RH"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "LH"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "SFIC",
+          "catalog_number": "33700006 N 26 DAKM",
+          "finish": null,
+          "mfr": "MED1",
+          "notes": "Product shall be US10B (or 10BE if available) finish per catalog selections - End user needs to confirm master key system & keyway prior procurement"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "2008-10BE-PK 72\" MSES25SS",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "103",
+      "pages": [
+        235
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Continuous Hinge",
+          "catalog_number": "K10BEFM95HD1",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Deadlock",
+          "catalog_number": "MS1850S Door Height Straight Bolt",
+          "finish": "313",
+          "mfr": "AD",
+          "notes": "Door Height=96"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Thumbturn Cylinder",
+          "catalog_number": "4066-01",
+          "finish": "313",
+          "mfr": "AD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder",
+          "catalog_number": "70 7P 43 13-0512",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "SFIC Cylinder housing with disposable core"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Construction Core",
+          "catalog_number": "7190224",
+          "finish": null,
+          "mfr": "BE",
+          "notes": "SFIC Construction core"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Pull",
+          "catalog_number": "RM3301 35\" 2\" Doors CTC OVERALL LENGTH",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": "Push bar dimensions shall be coordinated with Aluminum Door provider & approved by the design team during submittal phase CTC = =33, Overall Length=35"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Pull",
+          "catalog_number": "RM3310 30\" 2\" Doors CTC OVERALL LENGTH",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": "Verify door thickness"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "RH"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "LH"
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Dome Stop",
+          "catalog_number": "441",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "SFIC",
+          "catalog_number": "33700006 N 26 DAKM",
+          "finish": null,
+          "mfr": "MED1",
+          "notes": "Product shall be US10B (or 10BE if available) finish per catalog selections - End user needs to confirm master key system & keyway prior procurement"
+        }
+      ]
+    },
+    {
+      "set_number": "106.38",
+      "pages": [
+        285
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Continuous Hinge",
+          "catalog_number": "K10BEFM95HD1",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Exit Device",
+          "catalog_number": "31 PE8804 F LESS TRIM",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "Verify door thickness for code \"31\""
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Rim Cylinder",
+          "catalog_number": "70 7P 34",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": "SFIC Cylinder housing with disposable core"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Construction Core",
+          "catalog_number": "7190224",
+          "finish": null,
+          "mfr": "BE",
+          "notes": "SFIC Construction core"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Electric Strike",
+          "catalog_number": "9600-LBM 2004M",
+          "finish": "613E",
+          "mfr": "HS",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Pull",
+          "catalog_number": "RM3310 30\" 2\" Doors CTC OVERALL LENGTH",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": "Verify door thickness"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Closer",
+          "catalog_number": "SRI 268 OB",
+          "finish": "10BE",
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Dome Stop",
+          "catalog_number": "441",
+          "finish": "10BE",
+          "mfr": "RO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Wiring Harness",
+          "catalog_number": "QC-C1500",
+          "finish": null,
+          "mfr": "MC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "SFIC",
+          "catalog_number": "33700006 N 26 DAKM",
+          "finish": null,
+          "mfr": "MED1",
+          "notes": "Product shall be US10B (or 10BE if available) finish per catalog selections - End user needs to confirm master key system & keyway prior procurement"
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Power Supply",
+          "catalog_number": "LSP-12-24",
+          "finish": null,
+          "mfr": "SA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "2008-10BE-PK 36\" MSES25SS",
+          "finish": null,
+          "mfr": "PE",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

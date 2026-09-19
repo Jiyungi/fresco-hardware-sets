@@ -1,0 +1,47 @@
+{
+  "source_pdf": "Market View Apartments/S_251107 Market View Prelim Project Manual_pdf.pdf",
+  "all_set_numbers": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"],
+  "labeler_notes": "Hand-transcribed from PDF pages 771 and 778 (text + page images). Titles are 'Hardware Group No. NN - <name>'; the lightning-bolt 'Electrified Opening' legend icon before the set 02 name is an icon, not text, and is dropped. Extra lines printed in the CATALOG NUMBER column under a model number (e.g. '7/8\" STRIKE LIP LENGTH', 'PROVIDE MTG BRKT, SPCR & PLATE AS REQ'D', 'LENGTH TO SUIT DOOR CHANNEL') are kept in catalog_number joined with one space (rule 7: catalog column with wrapped lines); they are unlabeled and unparenthesised, so they were not moved to notes. Set-level lines after the last row ('* = SUPPLIED BY ACCESS CONTROL VENDOR', 'WIDE STILE ALUMINUM DOOR.', operational description, 'CARD READER, POWER SUPPLY, RX, DPS, AND WIRING BY SECURITY CONTRACTOR.', 'COORDINATION ITEMS: ...') are excluded. SEALS row has qty 1 and no unit. Catalog-cut and electrified icons between columns ignored. all_set_numbers: 24 'Hardware Group No.' headings in section 087100 (01-24, none Not Used; 03 is 'HARDWARE BY DOOR MFG.').",
+  "sets": [
+    {
+      "set_number": "02",
+      "pages": [771],
+      "description": "A/G EXT PR CR NL-OP-PANIC (DOUBLE EXTERIOR DOORS, EGRESS & CARD READER, ZENTRA PLATFORM)",
+      "not_used": false,
+      "components": [
+        {"qty": 1, "unit": "EA", "description": "CONT. HINGE", "catalog_number": "112XY", "finish": "628", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "CONT. HINGE", "catalog_number": "112XY EPT", "finish": "628", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "CONST LATCHING BOLT", "catalog_number": "FB51P/FB61P AS REQ'D", "finish": "630", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "DUST PROOF STRIKE", "catalog_number": "DP1/DP2 AS REQ'D", "finish": "626", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "EU STOREROOM LOCK", "catalog_number": "ND80P6DEU LON RX 12V/24V DC 7/8\" STRIKE LIP LENGTH", "finish": "626", "mfr": "SCH", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "INTERFACE BOX", "catalog_number": "*JB7", "finish": null, "mfr": "VON", "notes": null},
+        {"qty": 2, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "SC81A SS PROVIDE MTG BRKT, SPCR & PLATE AS REQ'D", "finish": "689", "mfr": "FAL", "notes": null},
+        {"qty": 1, "unit": null, "description": "SEALS", "catalog_number": "BY DOOR MANUFACTURER", "finish": null, "mfr": "B/O", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "ASTRAGAL", "catalog_number": "44STST", "finish": "STST", "mfr": "ZER", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "PIGTAIL CABLE", "catalog_number": "*RC PIGTAIL 25 FT", "finish": null, "mfr": "SCE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "WIRE HARNESS", "catalog_number": "CON-XX/CON-XXP LENGTH TO SUIT DOOR CHANNEL", "finish": null, "mfr": "SCH", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "WIRE HARNESS", "catalog_number": "CON-6W", "finish": null, "mfr": "SCH", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "MULTITECH READER", "catalog_number": "*RC15 12 VDC", "finish": "BLK", "mfr": "SCE", "notes": null},
+        {"qty": 2, "unit": "EA", "description": "DOOR CONTACT", "catalog_number": "679-05HM/WD", "finish": "BLK", "mfr": "SCE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "ADVANCED SECURITY MODULE", "catalog_number": "*ACC-EDK-3A", "finish": null, "mfr": "ISO", "notes": null}
+      ]
+    },
+    {
+      "set_number": "20",
+      "pages": [778],
+      "description": "CR I/S STOREROOM",
+      "not_used": false,
+      "components": [
+        {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5", "finish": "652", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "EU STOREROOM LOCK", "catalog_number": "ND80P6DEU LON RX 12V/24V DC", "finish": "626", "mfr": "SCH", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "OH STOP", "catalog_number": "100S", "finish": "630", "mfr": "GLY", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "SC81A REG OR PA AS REQ", "finish": "689", "mfr": "FAL", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "188SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "CREDENTIAL READER", "catalog_number": "BY SECURITY CONSULTANT", "finish": null, "mfr": "B/O", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "POWER SUPPLY", "catalog_number": "BY SECURITY CONSULTANT", "finish": null, "mfr": null, "notes": null}
+      ]
+    }
+  ]
+}

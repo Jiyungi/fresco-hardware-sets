@@ -1,0 +1,261 @@
+{
+  "source_pdf": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Set numbers taken from 'PART n - HARDWARE GROUP NO. X' with the PART numbering dropped. 'PROVIDE EACH SGL DOOR(S) WITH THE FOLLOWING:' is not a description (null). Small icons between catalog and finish columns ignored. Division 28 rows have qty only and their text sits in the CATALOG NUMBER column, so description/unit are null and the text is catalog_number. C201Z lock: 'VDC' is a wrap of the catalog line (joined), but '(FAIL SECURE)' is a separate parenthesised line under it (it would have fit on the VDC line) and is put in notes with parentheses kept; could alternatively be read as part of catalog_number. Operation blocks and 'PART 133 - PROVIDE (3) HINGES ...' are set-level notes (excluded).",
+  "sets": [
+    {
+      "set_number": "C201Z",
+      "pages": [
+        401
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "224XY EPT",
+          "finish": "628",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "EU MORTISE LOCK",
+          "catalog_number": "L9092TEU 17L RX CON 12/24 VDC",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": "(FAIL SECURE)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PERMANENT CORE",
+          "catalog_number": "COORDINATE WITH OWNER",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CVX",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488SBK PSA",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS (DOOR)",
+          "catalog_number": "CON-LENGTH AS REQ",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": null,
+          "catalog_number": "ACCESS CONTROL READER(S) BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": null,
+          "catalog_number": "DOOR POSITION SWITCH BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": null,
+          "catalog_number": "POWER SUPPLY BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "CY207",
+      "pages": [
+        413
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5 NRP",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "EU MORTISE LOCK",
+          "catalog_number": "L9092TEU 17L CON 12/24 VDC",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PERMANENT CORE",
+          "catalog_number": "COORDINATE WITH OWNER",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "90S",
+          "finish": "630",
+          "mfr": "GLY",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CVX",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488SBK PSA",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS (DOOR)",
+          "catalog_number": "CON-LENGTH AS REQ",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": null,
+          "catalog_number": "ACCESS CONTROL READER(S) BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": null,
+          "catalog_number": "DOOR POSITION SWITCH BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": null,
+          "catalog_number": "LOCAL ALARM BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": null,
+          "catalog_number": "POWER SUPPLY BY DIV 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

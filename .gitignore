@@ -1,0 +1,10 @@
+# The spec book PDFs are large and not ours to redistribute; keep them next to the code but out of git.
+*.pdf
+.venv/
+__pycache__/
+.pytest_cache/
+uploads/
+output/uploads/
+.DS_Store
+# The challenge brief is kept next to the code but not published with it.
+guide.md

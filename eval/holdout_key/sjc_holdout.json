@@ -1,0 +1,116 @@
+{
+  "source_pdf": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Revised file; strikeouts checked in zoomed page images and confirmed from the vector strike lines. E04 (p.736): only the '1 Ea. Door Position Switch MC-4 (Or as Req) --- SDC' row is struck and is excluded; the bold 'Door Position Switch By Division 28' row that follows is live. 'High Risk' printed under the title in the Model Number column (next to 'Each Opening to Receive:') is not on the title line, so it is not part of the description. E07 (p.738): the title line reads 'HW E07 Not Used' (not struck); the second 'HW E07 Exterior Single - Exit Device\\Delayed Egress - Surface Closer/Stop-Arm' title, every hardware row and both notes are struck, so not_used=true with no components. '---' in finish/mfr = null. 'Note:' rows are set-level and excluded.",
+  "sets": [
+    {
+      "set_number": "E04",
+      "pages": [
+        736
+      ],
+      "description": "Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Ligature Res. Mortise Lock-Institution",
+          "catalog_number": "MRX-A-30",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "630",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH Surface Closer-Hold Open @180°",
+          "catalog_number": "4210T/4510T TBTRX mount public side",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "Per Specification",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Overhead Rain Drip",
+          "catalog_number": "16A (As Req) SEC",
+          "finish": "628",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Door Sweep",
+          "catalog_number": "C627 SEC",
+          "finish": "628",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Weatherstrip",
+          "catalog_number": "700Nx700EN SEC",
+          "finish": "719",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Threshold",
+          "catalog_number": "To Suit Sill Condition",
+          "finish": "719",
+          "mfr": "PEM",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Position Switch",
+          "catalog_number": "By Division 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "E07",
+      "pages": [
+        738
+      ],
+      "description": null,
+      "not_used": true,
+      "components": []
+    }
+  ]
+}

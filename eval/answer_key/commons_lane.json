@@ -1,0 +1,256 @@
+{
+  "source_pdf": "StarHardware/9839d1a1-Division_8_Specs_-_Commons_Lane.pdf",
+  "all_set_numbers": [
+    "103",
+    "104",
+    "A1",
+    "B1",
+    "B2",
+    "C1",
+    "C2",
+    "D1",
+    "E1",
+    "01",
+    "01.1",
+    "02",
+    "02.1",
+    "03",
+    "04",
+    "04.1",
+    "04.2",
+    "04.3",
+    "04.4",
+    "04.5",
+    "05",
+    "05.1",
+    "05.2",
+    "06",
+    "06.1",
+    "06.2",
+    "06.3",
+    "07",
+    "08",
+    "08.1",
+    "09",
+    "10",
+    "10.1",
+    "11",
+    "12",
+    "13",
+    "13.1",
+    "13.2",
+    "14",
+    "15",
+    "15.1",
+    "15.2",
+    "15.3",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "21.1",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "101",
+    "101.1",
+    "101.2",
+    "101.3",
+    "102",
+    "102.1",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111"
+  ],
+  "labeler_notes": "all_set_numbers: unique identifiers in order of first appearance. 103 and 104 first appear as bold set titles 'For doors assigned Hardware Group/Set #103 (#104) on door schedule, provide the following:' on pp.25-26 (Section 08 17 13, with component tables); they appear again on p.107 as 'Hardware Group/Sets #103 and 104' (refers to 081713) - listed once only. p.100 title 'For doors assigned hardware sets #28, #29 and #30 ...' counted as 28, 29, 30. p.54 '#B1 and #B2' counted as B1, B2. p.31 sample and p.24 legend example are not sets. Set text: rows have 'Ea.' unit -> 'EA'; '__' qty -> null. Picture callouts (e.g. 'TORXUN BARGUARD', '270 Metro', '1609') are images, not text, and are ignored. Where the catalog cell spans the finish/mfr columns (Bottom Rail, Astragal, DPS, Coordination task) finish/mfr = null. Hyphenated line breaks joined with a space per rule 1 ('no- designer' in 01.1 row 4 catalog, 'non- Division' in 01.1 row 11 description); same-line 'no-designer' kept as printed. 01.1 row 11 description has no closing parenthesis in the PDF. Finish '643'/'e' joined to '643e'. Set-level 'Note: Furnish all devices...' lines excluded. 22 is '– set not utilized at this time' -> not_used, no description.",
+  "sets": [
+    {
+      "set_number": "C2",
+      "pages": [
+        55
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": "EA",
+          "description": "Hinges (residential light duty, no ball bearings required)",
+          "catalog_number": "#5PB1 (size & quantity per Section 08 71 00) - Provide 5PB1 for pricing, but provide alternate VE pricing for residential grade, less gauge hinge 4” x 4” x Ives or approved equal by door/frame manufacturer. - On all project hinges: Where framing/jamb trim will not allow door to open with hitting jamb, provide wide through hinge (width as required to open doors to wall stop or floor stop installation locations)",
+          "finish": "625",
+          "mfr": "IV",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Dummy Levers",
+          "catalog_number": "Frascio T600 x 6237 x 1912Q (Square Rose) x HL-270 Metro Lever",
+          "finish": "625",
+          "mfr": "FR",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Roller Latch",
+          "catalog_number": "1559A (installed in above frame)",
+          "finish": "625",
+          "mfr": "TR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Hinge Pin Stop",
+          "catalog_number": "Device #1512 in Polished Chrome finish by Don Jo",
+          "finish": "CP",
+          "mfr": "DO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Alternate Option: Wall Door Bumper Stop",
+          "catalog_number": "4050.260 (3.75”) x Polished Chrome",
+          "finish": "260",
+          "mfr": "BA",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "01.1",
+      "pages": [
+        58,
+        59
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Hydraulic Closers / Hinges Sets",
+          "catalog_number": "Locinox manufacturing #Tiger 180 Hydraulic Closers / Hinges Set: 180° hydraulic gate closer and hinge for gates up to 165 lbs. x Black Finish.",
+          "finish": null,
+          "mfr": "LO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Electric Strike",
+          "catalog_number": "9600 HES LBSM",
+          "finish": "622",
+          "mfr": "HE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Exterior Rim Exit/Panic Device x Key Override",
+          "catalog_number": "Von Duprin manufacturing # OUT 55 x 996NL in dark bronze finish",
+          "finish": "643e",
+          "mfr": "VO",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Strikes and Weldable Boxes (template as required by all furnished hardware, see Section 08 71 00, Part 1 for templating requirements and full specs which call for fully welded, no seams, ground smooth, prime and finishes per architectural drawings and welding/paint specifications)",
+          "catalog_number": "Furnish and install: #1) Welded, templated areas for devices (requires 1-3/4” thick gate stile and/or boxes as required where device is installed (templates to have custom welded areas preferred yet contact technicians at www.keedex.com for alternate weldable boxes if necessary - means and methods no-designer, show detailed templating in submittals and shop drawings). #2) Provide welded areas and brackets as required for condition for either special strike #1609 or combo devices #050996 strike bracket with 299F (means and methods no- designer, show detailed templating in submittals and shop drawings).",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "I/C Cylinders (Rim or Mortise)",
+          "catalog_number": "20-057 or 20-061 (Rim or Mortise type & quantity as required by locking device x appropriate cam x blocking rings) as required per specifications",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Permanent Core",
+          "catalog_number": "23-030",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Stop",
+          "catalog_number": "7281 (installed per 08 71 00.Part 3), verify undercut before ordering",
+          "finish": "622",
+          "mfr": "TR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Bottom Rail (kickplate)",
+          "catalog_number": "Gates to have greater than 10” clear, unobstructed and smooth surface per above specifications and by gate manufacturer (push-side, ground smooth, primed and painted to match gate).",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Painted Full Height Astragal",
+          "catalog_number": "Per above specifications and by gate manufacturer and per specifications (utilized as a positive stop – when gate closes against the astragals the opening cannot swing back in toward the egress side)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Surface Door Position Switch (also known as Alarm Contacts)",
+          "catalog_number": "#7766 single pole, double throw x by Schlage manufacturing (coordinate with Divisions 25-28 and applicable drawings)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Coordination task for security and/or electrical design and additional non- Division 08 Section scope (including but not limited to wire / connectivity from ground through framing to electrified hardware",
+          "catalog_number": "By security or electrical as required per Contract Documents: The electrified hardware specified above can be utilized for #1) non-card reader, remote access control applications (unlocked / locked remotely for open during business hours / locked after-hours) and #2) local card readers at openings as directed by architectural drawings, security or electrical. Coordinate with security or electrical Divisions 25-28 and applicable drawings as hardware does not include card reader locations.",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "22",
+      "pages": [
+        95
+      ],
+      "description": null,
+      "not_used": true,
+      "components": []
+    }
+  ]
+}

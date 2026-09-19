@@ -1,0 +1,352 @@
+{
+  "source_pdf": "StarHardware/9839d1a1-Division_8_Specs_-_Commons_Lane.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Grid tables; text taken cell by cell (pymupdf find_tables) and checked against page images. Wrapped lines inside a cell are joined with ONE space per rule 1, even where the line ends in a hyphen or slash (e.g. '180- degree', 'non- Division', 'after- hours', 'Canebolt- Type', 'Hookbolt/ Deadbolt', 'Phone 800-253- 5668 | https://rwhardw are.com/company/ m ail@richardswilcox.co m or equal', 'AADSS1056147 &.pdf'); a checker may prefer no-space joins there. Set 05 description is the parenthesised remark on the title line '(see gate details on architectural drawings)' with parentheses dropped; set 27 description 'final to be selected' (leading en dash dropped). Rows whose catalog text spans the finish/mfr columns have finish/mfr null. Set 101 first row qty printed as '__' -> null. The last full-width 'Furnish all devices...' / 'Note: Furnish all devices...' row of each table is a set-level note and is excluded. Rotated copyright text in the left margin and text inside embedded pictures are not table text.",
+  "sets": [
+    {
+      "set_number": "05",
+      "pages": [
+        70
+      ],
+      "description": "see gate details on architectural drawings",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Hydraulic Closers / Hinges Set",
+          "catalog_number": "Locinox #Mammoth 180 Hydraulic Closers/Hinges Set: Heavy duty 180-degree hydraulic gate closer and hinge for gates up to 330 pounds x Black Finish (note: if round post similar to chain-link, provide additional Locinox brackets part #CLB Mammoth). At gates weighing over 330 pounds, provide Ultra heavy duty 180- degree hydraulic gate closer and hinge for gates up to 440 pound gate leafs",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Lock Guard (inside)",
+          "catalog_number": "TORXUN manufacturing – see www.torxun.com part #9912.001R (or equal devices as required by architectural details, and language in Section 08 71 00)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ANSI Grade 1 Mortise Body Storeroom-Type Lockset with Lever",
+          "catalog_number": "BASE Lever #6210SM x PVD #IXBSB satin black x M507 x L/C in PVD #IXBSB satin black finish (example lever is in a different finish)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Electric Strike",
+          "catalog_number": "HES manufacturing surface mount #1600 in black finish. In shop drawings provide detail to show how to hide electric strike to not catch clothing.",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Electric Strike Power Supply",
+          "catalog_number": "Furnish and install #1) single gang power drop located above or near door (not in corridor or public view, but above celling line where possible); #2) provide power supply #PS902 by Schlage; #3) run conduit from hinge through frame and complete wiring as required to meet manufacturer warranties",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "I/C Cylinders (Rim or Mortise)",
+          "catalog_number": "20-057 or 20-061 x appropriate cam x blocking rings as required",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Permanent Core",
+          "catalog_number": "20-030",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Floor Stop",
+          "catalog_number": "1214",
+          "finish": "622",
+          "mfr": "TR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Bottom of doors 10” Clear, Unobstructed and Smooth Surface",
+          "catalog_number": "Per above specifications and by gate manufacturer (push-side, ground smooth, primed, and painted to match gate).",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Painted Full Height Astragal",
+          "catalog_number": "Per above specifications and by gate manufacturer and per specifications (utilized as a positive stop – when gate closes against the astragals the opening cannot swing back in toward the egress side)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Surface Door Position Switch",
+          "catalog_number": "#7766 single pole, double throw x by Schlage (coordinate with Div 25-28 + drawings)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "REX",
+          "catalog_number": "By Security (coordinate with Div. 25-28 + applicable drawings).",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Coordination task for security and/or electrical design and additional non- Division 08 Section scope (including but not limited to wire / connectivity from ground through frame to electrified hardware)",
+          "catalog_number": "By security or electrical as required per Contract Documents: The electrified hardware specified above can be utilized for #1) non-card reader, remote access control applications (unlocked / locked remotely for open during business hours / locked after- hours) and #2) local card readers at openings as directed by architectural drawings, security or electrical. Coordinate with security or electrical Divisions 25-28 and applicable drawings as hardware does not include card reader locations",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "27",
+      "pages": [
+        99
+      ],
+      "description": "final to be selected",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "KIT",
+          "description": "Complete Kit for Pair Doors – 4 Total Leafs working together by Richard Wilcox Hardware | 600 South Lake Street | Aurora, Illinois 60506 Phone 800-253- 5668 | https://rwhardw are.com/company/ m ail@richardswilcox.co m or equal",
+          "catalog_number": "Basis of design: #No. 434 x weatherstrip No. 216 Astragal x No. 216 weathersweep is used along the bottom of the doors = complete kit (see door schedule and plans, provide correct length and sizes of devices in submittals and shop drawings (means and methods throughout by qualified door/hardware Vendor per part 087100 Part 1 and 3)): Slide-Fold Hardware Kits are used on large manually operated door applications which require the door panels to slide-fold to each jamb, leaving a clear opening. The 434 slide-fold hardware is available in two sizes for maximum 18’- 0” wide openings and total door weights up to 5,000 lbs",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Lockable Canebolt- Type Devices",
+          "catalog_number": "0524PL and/or part #0000478 x 24”x black zinc x Stainless Steel Ground Receiver/Strike. Per example picture above x Crown Industrial, South San Francisco, CA; (650) 952-5150; http://www.crown-industrial.com/, or accepted equal",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Canebolt Padlock",
+          "catalog_number": "KS43F320 (2” inch shackle per above to not inhibit free egress)",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Canebolt Permanent Core",
+          "catalog_number": "80-037",
+          "finish": "613",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Complete Locking, Hookbolt/ Deadbolt System (double keyed)",
+          "catalog_number": "MS1850S-X5X double keyed hookbolt (manufacturer states: Hookbolt measures 5/8\"x 1-3/8\" [15.9 mm x 34.9 mm] with 13/16\" [20.6 mm] throw. Hook shaped bolt repels pry bar attempts to “spread” the door from its jamb or lift it off its track) x 335 Black Anodized – see https://content.assaabloyusa.com/doc/AADSS1056147 &.pdf",
+          "finish": null,
+          "mfr": "AD",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "MS1850S-X5X Cylinder",
+          "catalog_number": "20-057 or 20-061 (Rim or Mortise type & quantity as required by locking device x appropriate cam x blocking rings) as required per specifications",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "MS1850S-X5X Core",
+          "catalog_number": "23-030",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Seal",
+          "catalog_number": "5050B (head and jambs) by NGP or approved equal",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "101",
+      "pages": [
+        103
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": "EA",
+          "description": "Hinges",
+          "catalog_number": "5BB1HW (size & quantity per 08 71 00)",
+          "finish": "622",
+          "mfr": "IV",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Power Transfer Hinge",
+          "catalog_number": "5BB1HW x 6-wire (size per 08 71 00)",
+          "finish": "622",
+          "mfr": "IV",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ANSI Grade 1 Mortise Body Electrified Lockset with Lever",
+          "catalog_number": "BASE Lever #6210SM x PVD #IXBSB satin black finish x M507EU-RX x L/C in PVD #IXBSB satin black finish (picture example of lever is in a different finish)",
+          "finish": null,
+          "mfr": "FR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinders (Rim or Mortise)",
+          "catalog_number": "20-057 or 20-061 x appropriate cam x blocking rings as required (rim or mortise type and quantity as required by locking device)",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Permanent Core",
+          "catalog_number": "20-030",
+          "finish": "622",
+          "mfr": "SC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Surface Closer",
+          "catalog_number": "4050A x REG (pull-side)",
+          "finish": "693",
+          "mfr": "LC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Floor Stop",
+          "catalog_number": "7280 (installed per 08 71 00.Part 3)",
+          "finish": "622",
+          "mfr": "TR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Seals",
+          "catalog_number": "5050B seals (head & jambs) by NGP or approved seal",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Auto Door Bottom (sound dampening)",
+          "catalog_number": "423N for wood material doors (or submit 320N for metal doors) application as required per door material x DKB end caps by NGP or approved seal manufacturer",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Threshold (sound dampening)",
+          "catalog_number": "410DB (flat) by NGP or approved seal manufacturer (per specifications, provide full bed of mastic under all thresholds). Per above 087100.Part 2 requirements verify floor transition before ordering materials, final to be selected in submittals.",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "REX Device (security/ alarm notification)",
+          "catalog_number": "Specified in above locking hardware (coordinate with Divisions 25-28 and applicable drawings).",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Position Switches (also known as Alarm/Door Contacts)",
+          "catalog_number": "#679-05-WD or #679-05-HM (as required per door material) by Schlage manufacturing (see Divisions 26 and 28 and applicable drawings).",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Power Supply",
+          "catalog_number": "Furnish and install #1) single gang power drop located above or near door (not in corridor or public view, but above celling line where possible); #2) provide power supply #PS902 by Schlage; #3) run conduit from hinge through frame and complete wiring as required to meet manufacturer warranties",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Coordination task for security and/or electrical design and additional non-Division 08 Section scope (including but not limited to wire / connectivity from ground or ceiling through frame to electrified hardware)",
+          "catalog_number": "By security or electrical as required per Contract Documents: The electrified hardware specified above can be utilized for #1) non-card reader, remote access control applications (unlocked / locked remotely for open during business hours / locked after-hours) and #2) local card readers at openings as directed by architectural drawings, security or electrical. Coordinate with security or electrical Divisions 25-28 and applicable drawings as hardware does not include card reader locations.",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{"source_pdf": "AMI _Copy_/c43c36d9-000_Full_Volume_ATC_Renovation_Bid_Specs_Volume_1__1_.pdf", "all_set_numbers": [],
+ "labeler_notes": "Small icons between the catalog and finish columns ignored. Set 11C: SURF. AUTO OPERATOR catalog wraps to 'VAC)' and finish wraps 'ANCL'/'R' -> joined 'ANCLR' with no space; RELAY/DOOR SEQUENCER and DOOR POSITION SWITCH-DPDT descriptions wrap and are joined with a space. Operational text after the last row excluded.",
+ "sets": [
+  {"set_number": "01", "pages": [397], "description": null, "not_used": false, "components": [
+   {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5 NRP", "finish": "652", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "PASSAGE SET", "catalog_number": "L9010 17A", "finish": "626", "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "WALL STOP", "catalog_number": "WS406/407CCV", "finish": "626", "mfr": "IVE", "notes": null},
+   {"qty": 3, "unit": "EA", "description": "SILENCER", "catalog_number": "SR64", "finish": "GRY", "mfr": "IVE", "notes": null}
+  ]},
+  {"set_number": "11C", "pages": [412], "description": null, "not_used": false, "components": [
+   {"qty": 2, "unit": "EA", "description": "CONT. HINGE", "catalog_number": "112XY EPT", "finish": "628", "mfr": "IVE", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "REMOVABLE MULLION", "catalog_number": "KR4954 STAB", "finish": "689", "mfr": "VON", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "ELEC PANIC HARDWARE", "catalog_number": "RX-QEL-98-EO-CON 24 VDC", "finish": "626", "mfr": "VON", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "RIM CYLINDER", "catalog_number": "20-057 ICX", "finish": "626", "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "MORTISE CYLINDER", "catalog_number": "20-061 ICX 36-083", "finish": "626", "mfr": "SCH", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "FSIC CORE", "catalog_number": "23-030 CKC EV29 T", "finish": "626", "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "DOOR PULL", "catalog_number": "VR910 DT", "finish": "630", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "DOOR PULL", "catalog_number": "VR910 NL", "finish": "630", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP SCUSH", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "SURF. AUTO OPERATOR", "catalog_number": "9542 HL/D AS REQ (120/240 VAC)", "finish": "ANCLR", "mfr": "LCN", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "CUSH SHOE SUPPORT", "catalog_number": "4040XP-30 SRT", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "BLADE STOP SPACER", "catalog_number": "4040XP-61 SRT", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "WEATHER RING", "catalog_number": "8310-801", "finish": "PLA", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "ROCKER SWITCH", "catalog_number": "8310-806R", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "ACTUATOR, TOUCHLESS", "catalog_number": "8310-816S", "finish": "630", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "RELAY/DOOR SEQUENCER", "catalog_number": "8310-845", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "FLUSH MOUNT BOX", "catalog_number": "8310-867F", "finish": "689", "mfr": "LCN", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 8\" X 2\" LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "RAIN DRIP", "catalog_number": "142AA", "finish": "AA", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "488FSBK PSA", "finish": "BK", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "MULLION SEAL", "catalog_number": "8780NBK PSA", "finish": "BK", "mfr": "ZER", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "DOOR SWEEP", "catalog_number": "8197AA", "finish": "AA", "mfr": "ZER", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "THRESHOLD", "catalog_number": "566A-223", "finish": "A", "mfr": "ZER", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "WIRE HARNESS", "catalog_number": "CON-12", "finish": null, "mfr": "SCH", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "WIRE HARNESS", "catalog_number": "CON-6W", "finish": null, "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "MULTITECH READER", "catalog_number": "MTB15 (BY DIV. 28)", "finish": "BLK", "mfr": "SCE", "notes": null},
+   {"qty": 2, "unit": "EA", "description": "DOOR POSITION SWITCH-DPDT", "catalog_number": "GRI 19512W (BY DIV. 28)", "finish": "WHT", "mfr": "GEN", "notes": null}
+  ]}
+ ]}

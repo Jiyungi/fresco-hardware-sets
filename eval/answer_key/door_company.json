@@ -1,0 +1,162 @@
+{
+  "source_pdf": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf",
+  "all_set_numbers": [
+    "103",
+    "103A",
+    "201",
+    "201C",
+    "341",
+    "341C",
+    "401",
+    "401C",
+    "503",
+    "503A",
+    "503SA",
+    "720CRZ",
+    "764ADZ",
+    "C00",
+    "C00.EXT",
+    "C200C",
+    "C200CZ",
+    "C201",
+    "C201CZ",
+    "C201EZ",
+    "C201Z",
+    "C207Z",
+    "C700CRZ",
+    "C700RZ",
+    "C701CRZ",
+    "C705XZ",
+    "C707R",
+    "C760AZ",
+    "CY200CZ",
+    "CY201C",
+    "CY201CZ",
+    "CY206I",
+    "CY207",
+    "CY700CRZ",
+    "CY700RZ",
+    "CY701CRZ",
+    "CY705XZ",
+    "D201",
+    "D204Z",
+    "D705DXZ",
+    "D714DXZ",
+    "D725Z",
+    "001",
+    "002"
+  ],
+  "labeler_notes": "Titles are printed as 'PART N - HARDWARE GROUP NO. X' (junk auto-numbering 'PART N - ' ignored). The last two entries, '001' and '002' (pp.420-421), are bold stand-alone titles 'HARDWARE GROUP NO. 001  DO NOT APPLY DOOR NUMBERS TO SETS' / '... NO. 002 ...' with no hardware list; they look like template placeholder groups but are printed as set titles, so they are listed (drop them if placeholders should not count). Sets 103/103A: the 'PART 8/12 - PROVIDE (3) HINGES FOR DOORS OVER 60 IN HEIGHT ...' paragraph after each list is a set-level note, excluded. 103A last row has qty 1 EA, an empty DESCRIPTION cell and 'GASKETING BY DOOR/FRAME MANUFACTURER' in the CATALOG column -> description null. The cut-sheet icons are ignored; p.389 has no struck text.",
+  "sets": [
+    {
+      "set_number": "103",
+      "pages": [
+        389
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OFFICE/ENTRY LOCK",
+          "catalog_number": "L9050T 17L 09-544",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PERMANENT CORE",
+          "catalog_number": "COORDINATE WITH OWNER",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CVX",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "finish": "GRY",
+          "mfr": "IVE",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "103A",
+      "pages": [
+        389
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OFFICE/ENTRY LOCK",
+          "catalog_number": "L9050T 17L 09-544",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PERMANENT CORE",
+          "catalog_number": "COORDINATE WITH OWNER",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CVX",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": null,
+          "catalog_number": "GASKETING BY DOOR/FRAME MANUFACTURER",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{"source_pdf": "Market View Apartments/S_251107 Market View Prelim Project Manual_pdf.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Set 01 title has a lightning-bolt emoji (SegoeUIEmoji glyph, the 'Electrified Opening' legend icon) between the dash and the name; treated as an icon and dropped from the description. Cut-sheet and electrified icons between CATALOG NUMBER and FINISH ignored. Uppercase wrapped lines under catalog numbers (e.g. 'PROVIDE MTG BRKT, SPCR & PLATE AS REQ'D', 'LENGTH TO SUIT DOOR CHANNEL', 'REQUIRES BACKING IN WALL') sit in the CATALOG NUMBER column and are not parenthesised, so they were joined into catalog_number rather than notes. Finish '630-'/'316' joined as '630-316'. Lines after the last row ('* = SUPPLIED BY ACCESS CONTROL VENDOR', 'WIDE STILE ALUMINUM DOOR.', operational description) are set-level notes and excluded. Asterisks at the start of catalog numbers (*JB7 etc.) kept as printed.",
+ "sets": [
+  {"set_number": "01", "pages": [770], "description": "A/G EXT PR CR NL-OP-PANIC (DOUBLE EXTERIOR DOORS, EGRESS & CARD READER, ZENTRA PLATFORM)", "not_used": false,
+   "components": [
+    {"qty": 2, "unit": "EA", "description": "CONT. HINGE", "catalog_number": "112XY EPT", "finish": "628", "mfr": "IVE", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ELEC PANIC HARDWARE", "catalog_number": "RX-MEL-AX-25-C-C-718-CON 24 VDC", "finish": "626", "mfr": "FAL", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ELEC PANIC HARDWARE", "catalog_number": "RX-MEL-AX-25-C-EO-CON 24 VDC", "finish": "626", "mfr": "FAL", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "INTERFACE BOX", "catalog_number": "*JB7", "finish": null, "mfr": "VON", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "MORTISE CYLINDER", "catalog_number": "986 009897-024", "finish": "626", "mfr": "FAL", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "CYLINDER CAM", "catalog_number": "B520-295", "finish": null, "mfr": "SCH", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "90 DEG OFFSET PULL", "catalog_number": "8190EZHD 12\" STD", "finish": "630-316", "mfr": "IVE", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "SC71A SS PROVIDE MTG BRKT, SPCR & PLATE AS REQ'D", "finish": "689", "mfr": "FAL", "notes": null},
+    {"qty": 1, "unit": null, "description": "SEALS", "catalog_number": "BY DOOR MANUFACTURER", "finish": null, "mfr": "B/O", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "DOOR SWEEP", "catalog_number": "39A", "finish": "A", "mfr": "ZER", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "THRESHOLD", "catalog_number": "545A OR AS DETAILED", "finish": "A", "mfr": "ZER", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "PIGTAIL CABLE", "catalog_number": "*RC PIGTAIL 25 FT", "finish": null, "mfr": "SCE", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "WIRE HARNESS", "catalog_number": "CON-XX/CON-XXP LENGTH TO SUIT DOOR CHANNEL", "finish": null, "mfr": "SCH", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "WIRE HARNESS", "catalog_number": "CON-6W", "finish": null, "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "MULTITECH READER", "catalog_number": "*RC15 12 VDC", "finish": "BLK", "mfr": "SCE", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "DOOR CONTACT", "catalog_number": "679-05HM/WD", "finish": "BLK", "mfr": "SCE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "POWER SUPPLY", "catalog_number": "PS902 900-2RS 120/240 VAC", "finish": null, "mfr": "VON", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ADVANCED SECURITY MODULE", "catalog_number": "*ACC-EDK-3A", "finish": null, "mfr": "ISO", "notes": null}
+   ]},
+  {"set_number": "11", "pages": [775], "description": "HM RTD PASSAGE (I/S, WS)", "not_used": false,
+   "components": [
+    {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "PASSAGE SET", "catalog_number": "W101S LON", "finish": "626", "mfr": "FAL", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "SC81A REG OR PA AS REQ", "finish": "689", "mfr": "FAL", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "WALL STOP", "catalog_number": "WS406/407CCV REQUIRES BACKING IN WALL", "finish": "626", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "188SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null}
+   ]}
+ ]}

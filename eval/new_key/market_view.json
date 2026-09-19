@@ -1,0 +1,171 @@
+{
+ "source_pdf": "Market View Apartments/S_251107 Market View Prelim Project Manual_pdf.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Descriptions are the full title text after 'Hardware Group No. NN - ', joined across the wrapped title line. Cut-sheet icons between catalog and finish columns ignored. No struck-out text on p.772.",
+ "sets": [
+  {
+   "set_number": "05",
+   "pages": [
+    772
+   ],
+   "description": "HM EXT STOREROOM-MORT INSWING (SINGLE EXTERIOR DOOR, STOREROOM LOCK & STOP-ARM CLOSER, WEATHER SEALS)",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 6,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5 NRP",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONST LATCHING BOLT",
+     "catalog_number": "FB51P/FB61P AS REQ'D",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DUST PROOF STRIKE",
+     "catalog_number": "DP1/DP2 AS REQ'D",
+     "finish": "626",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "STOREROOM LOCK",
+     "catalog_number": "MA581P6 LGG A8737-5",
+     "finish": "626",
+     "mfr": "FAL",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "COORDINATOR",
+     "catalog_number": "COR X FL",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "MOUNTING BRACKET",
+     "catalog_number": "MB/MBF",
+     "finish": "689",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "SC81A SS",
+     "finish": "689",
+     "mfr": "FAL",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 10\" X 1\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "188SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "39A",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ASTRAGAL",
+     "catalog_number": "44STST",
+     "finish": "STST",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "THRESHOLD",
+     "catalog_number": "545A OR AS DETAILED",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "06",
+   "pages": [
+    772
+   ],
+   "description": "HM RTD STOREROOM OUTSWING (SINGLE INTERIOR DOOR, STOREROOM LOCK & STOP-ARM CLOSER)",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5 NRP",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "STOREROOM LOCK",
+     "catalog_number": "W581CP6 LON",
+     "finish": "626",
+     "mfr": "FAL",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "SC81A SS",
+     "finish": "689",
+     "mfr": "FAL",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "188SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

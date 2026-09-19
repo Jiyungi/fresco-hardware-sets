@@ -1,0 +1,16 @@
+{"source_pdf": "USI/c9634958-Radnet_Building_-_Specs.pdf", "all_set_numbers": [], "labeler_notes": "Set 1.0 (section 08 4126 all-glass entrances): no units printed, so unit null. No column headers; columns read as qty+description, catalog, finish, mfr.",
+ "sets": [
+  {"set_number": "1.0", "pages": [563], "description": null, "not_used": false,
+   "components": [
+    {"qty": 2, "unit": null, "description": "Door Bottom Rail", "catalog_number": "DRT per Elevation", "finish": "BSP", "mfr": "GS", "notes": null},
+    {"qty": 2, "unit": null, "description": "Door Top Rail", "catalog_number": "DRT per Elevation", "finish": "BSP", "mfr": "GS", "notes": null},
+    {"qty": 2, "unit": null, "description": "Bottom Pivot", "catalog_number": "PV-FM-300END", "finish": "US32D", "mfr": "GS", "notes": null},
+    {"qty": 1, "unit": null, "description": "Exit Device", "catalog_number": "PDU8000-3 Code 01", "finish": "BSP", "mfr": "GS", "notes": null},
+    {"qty": 1, "unit": null, "description": "Exit Device", "catalog_number": "PDU8000-3", "finish": "BSP", "mfr": "GS", "notes": null},
+    {"qty": 1, "unit": null, "description": "Mortise Cylinder", "catalog_number": "CR1080 CT6B", "finish": "BSP", "mfr": "RU", "notes": null},
+    {"qty": 1, "unit": null, "description": "Interchangeable Core", "catalog_number": "CR8000", "finish": "BSP", "mfr": "RU", "notes": null},
+    {"qty": 2, "unit": null, "description": "Concealed Closer", "catalog_number": "OHC-609-90NHO", "finish": null, "mfr": "GS", "notes": null},
+    {"qty": 1, "unit": null, "description": "Threshold", "catalog_number": "271A or Per Sill Detail", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Strike", "catalog_number": "MSK-DBL", "finish": "BSP", "mfr": "RO", "notes": null}
+   ]}
+ ]}

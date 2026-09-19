@@ -1,0 +1,342 @@
+{
+ "source_pdf": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "'PART n - ' numbering ignored. 'PROVIDE EACH PR DOOR(S) WITH THE FOLLOWING:' is not a description -> null. Small icons between catalog and finish columns ignored. Rows with only a qty and a catalog text (by Div 28 items) kept with unit/description null. '(TO SUIT FRAME)' printed on its own line under the one-line catalog 'MB, TO SUIT HM FRAME' -> notes. '(FAIL SECURE)' under the EU MORTISE LOCK catalog starts its own line although it would have fit after 'VDC' (forced break), so it was also treated as a separate parenthesised remark -> notes; the catalog itself wraps ('L9092TEU 17L RX CON 12/24' / 'VDC'). OPERATION blocks excluded.",
+ "sets": [
+  {
+   "set_number": "C200CZ",
+   "pages": [
+    397
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONT. HINGE",
+     "catalog_number": "224XY",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONT. HINGE",
+     "catalog_number": "224XY EPT",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "POWER TRANSFER",
+     "catalog_number": "EPT10 CON",
+     "finish": "689",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONST LATCHING BOLT",
+     "catalog_number": "FB51P",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DUST PROOF STRIKE",
+     "catalog_number": "DP2",
+     "finish": "626",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "EU MORTISE LOCK",
+     "catalog_number": "L9092TEU 17L RX CON 12/24 VDC",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": "(FAIL SECURE)"
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "PERMANENT CORE",
+     "catalog_number": "COORDINATE WITH OWNER",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "COORDINATOR",
+     "catalog_number": "COR X FL",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "MOUNTING BRACKET",
+     "catalog_number": "MB, TO SUIT HM FRAME",
+     "finish": "689",
+     "mfr": "IVE",
+     "notes": "(TO SUIT FRAME)"
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 10\" X 2\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "MEETING STILE",
+     "catalog_number": "328AA",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "488SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "8191AA",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WIRE HARNESS (DOOR)",
+     "catalog_number": "CON-LENGTH AS REQ",
+     "finish": null,
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": null,
+     "catalog_number": "ACCESS CONTROL READER(S) BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": null,
+     "catalog_number": "DOOR POSITION SWITCH BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": null,
+     "catalog_number": "POWER SUPPLY BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "CY700RZ",
+   "pages": [
+    415
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "CONT. HINGE",
+     "catalog_number": "224XY EPT",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "POWER TRANSFER",
+     "catalog_number": "EPT10 CON",
+     "finish": "689",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FIRE EXIT HARDWARE",
+     "catalog_number": "9849-EO-F",
+     "finish": "626",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ELEC FIRE EXIT HARDWARE",
+     "catalog_number": "9849-L-F-M996-17-FSE-CON",
+     "finish": "626",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "RIM CYLINDER",
+     "catalog_number": "20-057 ICX",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "PERMANENT CORE",
+     "catalog_number": "COORDINATE WITH OWNER",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP EDA",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 10\" X 2\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS406/407CVX",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "MEETING STILE",
+     "catalog_number": "328AA",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "488SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "8191AA",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WIRE HARNESS (DOOR)",
+     "catalog_number": "CON-LENGTH AS REQ",
+     "finish": null,
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": null,
+     "catalog_number": "ACCESS CONTROL READER(S) BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": null,
+     "description": null,
+     "catalog_number": "DOOR POSITION SWITCH BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": null,
+     "catalog_number": "LOCAL ALARM BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": null,
+     "catalog_number": "POWER SUPPLY BY DIV 28",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

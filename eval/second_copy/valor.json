@@ -1,0 +1,181 @@
+{
+ "source_pdf": "Valor Acres Building E/087100-DOOR-HARDWARE_Rev_2.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Columns: qty | unit | description | finish; no catalog or mfr column (null). Wrapped description lines, including parenthesised continuation lines like '(SCHLAGE LATITUDE LEVER STYLE)', '(DR 100B ONLY)', kept in description (no catalog column exists, so not treated as notes). Set 05 title '(Doors U11 & U12 - Mechanical Closet Swing Doors)': door numbers dropped, description 'Mechanical Closet Swing Doors'. Set 12 title parenthetical is only door numbers (many struck) -> description null. Set 12 row 3: struck word 'DOGGING,' removed -> 'DEVICE (NIGHT LATCH FUNCTION)' (no space after '('). 'CARD SWIPE ALLOWS AUTO OPERATOR TO FUNCTION' is a set-level note line, excluded.",
+ "sets": [
+  {
+   "set_number": "05",
+   "pages": [
+    8
+   ],
+   "description": "Mechanical Closet Swing Doors",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "PB HINGE",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "PASSAGE SET (SCHLAGE LATITUDE LEVER STYLE)",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "HINGE STOP",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "12",
+   "pages": [
+    9,
+    10
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 8,
+     "unit": "EA",
+     "description": "BB HINGE (NRP)",
+     "catalog_number": null,
+     "finish": "BBLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ELECT TRANSFER OR HINGE",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONCEALED VERT ROD ELECT. EXIT DEVICE (NIGHT LATCH FUNCTION)",
+     "catalog_number": null,
+     "finish": "711",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONCEALED VERT ROD ELECT. EXIT DEVICE (NIGHT LATCH FUNCTION)",
+     "catalog_number": null,
+     "finish": "711",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "PULL",
+     "catalog_number": null,
+     "finish": "711",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "CYLINDER",
+     "catalog_number": null,
+     "finish": "622",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "CORE",
+     "catalog_number": null,
+     "finish": "622",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER W/ OH STOP",
+     "catalog_number": null,
+     "finish": "693",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "AUTO OPERATOR (DR 100B ONLY)",
+     "catalog_number": null,
+     "finish": "693",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ACTUATOR (WALL MOUNT) (DR 100B)",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "SET",
+     "description": "SEALS (FIRE)",
+     "catalog_number": null,
+     "finish": "BLK",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ADA THRESHOLD",
+     "catalog_number": null,
+     "finish": "AL",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "POWER SUPPLY",
+     "catalog_number": null,
+     "finish": "GRY",
+     "mfr": null,
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CARD READER (BY OWNER’S SECURITY CONTRACTOR)",
+     "catalog_number": null,
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

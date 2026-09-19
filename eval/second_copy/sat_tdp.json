@@ -1,0 +1,135 @@
+{
+ "source_pdf": "SAT TDP/2025.12.19 - SAT TDP - Project Manual.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Hinge line '(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)' is a separate parenthesised remark line under the short catalog '5BB1 4.5 X 4.5', so it goes to notes (kept with its parentheses as printed). 'OFFICE FUNCTION' under the lock catalog is not parenthesised, so it stays in catalog_number. The gasketing parenthetical starts on the first catalog line and wraps, so it stays in catalog_number. Sets 101.1 and 101T.1 are different sets and not included.",
+ "sets": [
+  {
+   "set_number": "101",
+   "pages": [
+    716
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "MORTISE LOCK",
+     "catalog_number": "64-8205 FEJ 26D OFFICE FUNCTION",
+     "finish": "626",
+     "mfr": "SAR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "LFIC PERMANENT CORE",
+     "catalog_number": "MATCH EXISTING KEY SYSTEM",
+     "finish": "626",
+     "mfr": "SAR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP RW/PA TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 10\" X 2\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS406/407CCV",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "488S PSA H & J (USE SILENCERS @ NON-RATED DOORS)",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "101AC",
+   "pages": [
+    716
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONT. HINGE",
+     "catalog_number": "112XY",
+     "finish": "628",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "MORTISE LOCK",
+     "catalog_number": "64-8205 FEJ 26D OFFICE FUNCTION",
+     "finish": "626",
+     "mfr": "SAR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "LFIC PERMANENT CORE",
+     "catalog_number": "MATCH EXISTING KEY SYSTEM",
+     "finish": "626",
+     "mfr": "SAR",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH X TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "SET",
+     "description": "SEAL",
+     "catalog_number": "PERIMETER SEAL BY FRAME MFR",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

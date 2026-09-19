@@ -1,0 +1,20 @@
+{
+  "source_pdf": "Shubie Center/e2231795-IFT_Specs.pdf",
+  "all_set_numbers": ["01", "02", "03"],
+  "labeler_notes": "Hand-transcribed from PDF page 175 (text + page image). Title 'Hardware Group No. 02' has no set name. The hardware list has no column header row; columns are qty, unit, description, catalog, finish, mfr. The three bold lines after the last row (DOORS ARE ALWAYS LOCKED DURING HOURS OF OPERATION / MODE OF OPERATION / A PERSON CAN ENTER WITH KEY. FREE EGRESS AT ALL TIMES) are set-level notes and are excluded. all_set_numbers: 3 'Hardware Group No.' headings in section 08 71 10 (pages 174-175); other 'Group' hits in the book are prose (insurance, CSA Group etc.).",
+  "sets": [
+    {
+      "set_number": "02",
+      "pages": [175],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {"qty": 1, "unit": "EA", "description": "CONT. HINGE", "catalog_number": "112XY", "finish": "711", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "PANIC HARDWARE", "catalog_number": "33A-NL-OP-388", "finish": "315", "mfr": "VON", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "RIM CYLINDER", "catalog_number": "80-329", "finish": "622", "mfr": "SCH", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "LONG DOOR PULL", "catalog_number": "9264 48\" 20\" O", "finish": "BLK", "mfr": "IVE", "notes": null},
+        {"qty": 1, "unit": "EA", "description": "OH STOP", "catalog_number": "100S", "finish": "BLK", "mfr": "GLY", "notes": null}
+      ]
+    }
+  ]
+}

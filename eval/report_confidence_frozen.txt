@@ -1,0 +1,34 @@
+| confidence | values | wrong | share wrong |
+|---|---|---|---|
+| low (< 0.6) | 0 | 0 | n/a |
+| medium (0.6-0.8) | 206 | 16 | 7.8% |
+| high (>= 0.8) | 1654 | 7 | 0.4% |
+
+wrong values: 23; of these, flagged low: 0
+rows missed entirely: 0; extra rows: 3
+  conf 0.60  commons_fresh set 101: extra row 'Door Position Switches'
+  conf 0.60  commons_fresh set 101: finish: got '622 IV', key '622'
+  conf 0.60  commons_fresh set 101: finish: got '622 IV', key '622'
+  conf 0.60  commons_fresh set 101: finish: got '622 SC', key '622'
+  conf 0.60  commons_fresh set 101: finish: got '622 SC', key '622'
+  conf 0.60  commons_fresh set 101: finish: got '622 TR', key '622'
+  conf 0.60  commons_fresh set 101: finish: got '693 LC', key '693'
+  conf 0.60  commons_fresh set 101: finish: got 'FR', key None
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'FR'
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'IV'
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'IV'
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'LC'
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'SC'
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'SC'
+  conf 0.60  commons_fresh set 101: mfr: got None, key 'TR'
+  conf 0.60  commons_fresh set 101: qty: got None, key 1
+  conf 0.70  morris_fresh set MISC: extra row 'Other Door #MISC'
+  conf 0.76  national_fresh set 13: extra row '37 38'
+  conf 0.76  ami_fresh set 11C: finish: got 'ANCL R', key 'ANCLR'
+  conf 0.80  commons_fresh set 101: catalog_number: got 'by Schlage manufacturing (see Divisions 26 and 28 and applicable drawings).', key '#679-05-WD or #679-05-HM (as required per door material) by Schlage manufacturing (see Divisions 26 and 28 and applicable drawings).'
+  conf 0.80  commons_fresh set 101: description: got '(also known as Alarm/Door Contacts)', key 'Door Position Switches (also known as Alarm/Door Contacts)'
+  conf 0.80  commons_fresh set 27: description: got 'Kit Complete Kit for Pair Doors – 4 Total Leafs working together by Richard Wilcox Hardware | 600 South Lake Street | Aurora, Illinois 60506 Phone 800-253- 5668 | https://rwhardw are.com/company/ m ail@richardswilcox.co m or equal', key 'Complete Kit for Pair Doors – 4 Total Leafs working together by Richard Wilcox Hardware | 600 South Lake Street | Aurora, Illinois 60506 Phone 800-253- 5668 | https://rwhardw are.com/company/ m ail@richardswilcox.co m or equal'
+  conf 0.80  gerrard_fresh set 32: description: got 'Push to Lock Button Shared with D14B', key 'Push to Lock Button'
+  conf 0.80  gerrard_fresh set 32: description: got 'Wiring Diagrams Interlock with D147B.', key 'Wiring Diagrams'
+  conf 0.90  hospital_fresh set 016: catalog_number: got 'CON - LENGTH AS REQUIRED - FROM LOCK TO EPT [BULLETIN 023, 251218]', key 'CON - LENGTH AS REQUIRED - FROM LOCK TO EPT'
+  conf 0.90  door_company_fresh set C201Z: catalog_number: got 'L9092TEU 17L RX CON 12/24 VDC (FAIL SECURE)', key 'L9092TEU 17L RX CON 12/24 VDC'

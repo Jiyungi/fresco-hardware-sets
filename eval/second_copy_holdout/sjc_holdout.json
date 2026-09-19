@@ -1,0 +1,18 @@
+{"source_pdf": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf", "all_set_numbers": [], "labeler_notes": "E04: the row '1 Ea. Door Position Switch MC-4 (Or as Req) --- SDC' is struck out on the page image (line through text) and excluded; the bold replacement row 'Door Position Switch By Division 28' is kept. 'High Risk' printed on the 'Each Opening to Receive:' line (model-number column) is not part of the title line, so it is left out of description. Finish/Manf '---' -> null. Units 'Ea.'/'Set' -> 'EA'/'SET'. E07: live heading 'HW E07 Not Used'; the old E07 heading and its whole list are struck out, so one not_used entry with no components.",
+ "sets": [
+  {"set_number": "E04", "pages": [736], "description": "Exterior Single - Institution Lockset/Ligature Resistant - Surface Closer", "not_used": false,
+   "components": [
+    {"qty": 1, "unit": "SET", "description": "Continuous Hinge", "catalog_number": "AC500 HT SEC", "finish": "630", "mfr": "ABH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Ligature Res. Mortise Lock-Institution", "catalog_number": "MRX-A-30", "finish": "630", "mfr": "TOW", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "Cylinder", "catalog_number": "Per project", "finish": "630", "mfr": "TBD", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "OH Surface Closer-Hold Open @180°", "catalog_number": "4210T/4510T TBTRX mount public side", "finish": "689", "mfr": "LCN", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Door Stop", "catalog_number": "Per Specification", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Overhead Rain Drip", "catalog_number": "16A (As Req) SEC", "finish": "628", "mfr": "NGP", "notes": null},
+    {"qty": 2, "unit": "EA", "description": "Door Sweep", "catalog_number": "C627 SEC", "finish": "628", "mfr": "NGP", "notes": null},
+    {"qty": 1, "unit": "SET", "description": "Weatherstrip", "catalog_number": "700Nx700EN SEC", "finish": "719", "mfr": "NGP", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Threshold", "catalog_number": "To Suit Sill Condition", "finish": "719", "mfr": "PEM", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "Door Position Switch", "catalog_number": "By Division 28", "finish": null, "mfr": null, "notes": null}
+   ]},
+  {"set_number": "E07", "pages": [738], "description": null, "not_used": true,
+   "components": []}
+ ]}

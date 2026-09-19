@@ -1,0 +1,144 @@
+{
+ "source_pdf": "National Doors and Hardware/15e2b8ac-FS17_Specs_V1.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Titles are only 'Hardware Group No. NN' (description null); the line under the title lists door numbers. Set-level notes printed after the last row of set 03 excluded. Cut-sheet and electrified icons ignored.",
+ "sets": [
+  {
+   "set_number": "03",
+   "pages": [
+    407
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 4,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5 NRP",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "POWER TRANSFER",
+     "catalog_number": "EPT10 CON",
+     "finish": "689",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ELEC FIRE EXIT HARDWARE",
+     "catalog_number": "RX-QEL-WS-9927-L-F-06 24 VDC",
+     "finish": "626",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "RIM CYLINDER",
+     "catalog_number": "20-057 ICX",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH",
+     "finish": "689",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "188SBK PSA",
+     "finish": "BK",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "THRESHOLD",
+     "catalog_number": "566A-223",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WIRE HARNESS",
+     "catalog_number": "CON-12",
+     "finish": null,
+     "mfr": "SCH",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "08",
+   "pages": [
+    409
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4.5",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ENTRANCE LOCK",
+     "catalog_number": "ND53PD RHO",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "KICK PLATE",
+     "catalog_number": "8400 10\" X 2\" LDW B-CS",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS406/407CCV",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "488SBR PSA",
+     "finish": "BR",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "source_pdf": "Lyons Township HS/Project Manual (1).pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Set 05 title reads 'Hardware Group No. 05 - Not Used' with no table: not_used true, description null. 'For use on Door #(s)' lines excluded.",
+ "sets": [
+  {
+   "set_number": "04",
+   "pages": [
+    285
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP REG",
+     "finish": "691",
+     "mfr": "LCN",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "05",
+   "pages": [
+    285
+   ],
+   "description": null,
+   "not_used": true,
+   "components": []
+  },
+  {
+   "set_number": "06",
+   "pages": [
+    286
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+     "catalog_number": "ND78BD TLR IS-CRS",
+     "finish": "612",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "SFIC CORE",
+     "catalog_number": "C607",
+     "finish": "606",
+     "mfr": "FAL",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP SCUSH",
+     "finish": "691",
+     "mfr": "LCN",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

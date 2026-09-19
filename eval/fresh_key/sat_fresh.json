@@ -1,0 +1,325 @@
+{
+  "source_pdf": "SAT TDP/2025.12.19 - SAT TDP - Project Manual.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Hinge rows: the separate parenthesised line '(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)' under the short catalog number is put in notes (parentheses kept as printed); catalog_number is only the first line. Wrapped non-parenthesised catalog lines (e.g. 'STOREROOM FUNCTION', 'BRKT, SPCR & PLATE AS REQ') are joined into catalog_number. Parenthetical text that starts on the catalog line itself (488S PSA H & J (USE SILENCERS ...)) stays in catalog_number. CY700C: bullet operational notes after the last row excluded.",
+  "sets": [
+    {
+      "set_number": "200S1",
+      "pages": [
+        720
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 6,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "AUTO FLUSH BOLT",
+          "catalog_number": "FB31P/FB41P AS REQ",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DUST PROOF STRIKE",
+          "catalog_number": "DP2",
+          "finish": "626",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MORTISE LOCK",
+          "catalog_number": "64-8204 FEJ 26D STOREROOM FUNCTION",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "LFIC PERMANENT CORE",
+          "catalog_number": "MATCH EXISTING KEY SYSTEM",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "COORDINATOR",
+          "catalog_number": "COR X FL X MB X HW PREPS",
+          "finish": "628",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100S SERIES X SIZE & MOUNTING AS REQ",
+          "finish": "630",
+          "mfr": "GLY",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488S PSA H & J (USE SILENCERS @ NON-RATED DOORS)",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "MEETING STILE",
+          "catalog_number": "8193AA (2 PCS - 1 SET) (OMIT @ NON-RATED DOORS)",
+          "finish": "AA",
+          "mfr": "ZER",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "CY700C",
+      "pages": [
+        792
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 6,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "EXIT DEVICE",
+          "catalog_number": "LD-43-53-55-TB-LC-8674 ETJ 106 26D/32D LENGTH & HEIGHT AS REQ",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CYLINDER",
+          "catalog_number": "AS REQUIRED",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "LFIC PERMANENT CORE",
+          "catalog_number": "MATCH EXISTING KEY SYSTEM",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH X TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 1\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SILENCER",
+          "catalog_number": "SR64",
+          "finish": "GRY",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "WIRE HARNESS (IN DOOR)",
+          "catalog_number": "ASSA ABLOY ELECTROLYNX TYPE & LENGTH AS REQ",
+          "finish": null,
+          "mfr": "MCK",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "WIRE HARNESS (TO POWER SUPPLY)",
+          "catalog_number": "QC-C006 - CONNECTION LEADS",
+          "finish": null,
+          "mfr": "MCK",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CREDENTIAL READER",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "UNK",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "DOOR POSITION SWITCH",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "E201TW",
+      "pages": [
+        803
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 4,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MORTISE LOCK",
+          "catalog_number": "72-8204 FEJ 26D STOREROOM FUNCTION",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "XT INTELLIGENT KEY SYSTEM CORE",
+          "catalog_number": "MATCH FACILITY SYSTEM AS REQUIRED",
+          "finish": "626",
+          "mfr": "MED",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488S PSA H & J (USE SILENCERS @ NON-RATED DOORS)",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

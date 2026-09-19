@@ -1,0 +1,270 @@
+{
+  "source_pdf": "Village of Oswego New Public Works Facility  _Copy_/SPECIFICATIONS VOLUME 1.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Door-number lines (E120A E121B / E137C E139D) and 'PROVIDE EACH ... WITH THE FOLLOWING:' are not descriptions (null). Group 18: the no-qty 'DIAGRAMS / PROVIDE FACTORY POINT TO POINT WIRING DIAGRAMS / B/O' row is included (qty/unit null); the paragraph 'MULTI-TECH READER, POWER SUPPLY, WIRING ...' and the OPERATIONAL DESCRIPTION are set-level notes (excluded). Multitech reader catalog lines '- EXISTING READER TO BE / RELOCATED' are kept in catalog_number (no Note: label). Group 48: the 'NOTE: FURNISH ADDITIONAL HINGES AS REQUIRED FOR DOORS 7'6\" AND OVER' row is a set-level NOTE row (excluded).",
+  "sets": [
+    {
+      "set_number": "18",
+      "pages": [
+        427
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 6,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING DRS",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CONST LATCHING BOLT - AS REQUIRED",
+          "catalog_number": "FB52/FB62",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "STOREROOM LOCK",
+          "catalog_number": "L9080T.03.626.A.626.03.626.A.626 10-072 7/8\" LIP",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "FSIC RIM CYLINDER",
+          "catalog_number": "20-057 ICX W/CONST. CORE",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ELECTRIC STRIKE - FAIL SECURE VOLTAGE AS REQUIRED - PAIR DOORS",
+          "catalog_number": "6223 FSE CON 12/16/24/28 VAC/VDC",
+          "finish": "630",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "COORDINATOR",
+          "catalog_number": "COR X FL X MB - AS REQUIRED",
+          "finish": "711",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "REG/ PA SURFACE CLOSER - AS REQUIRED",
+          "catalog_number": "4040XP REG TBSRT/ 4040XP EDA TBSRT - AS REQUIRED",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MOUNTING PLATE - AS REQUIRED",
+          "catalog_number": "4040XP-18/18G/18TJ/18PA TBSRT - PROVIDE ON INACTIVE LEAF",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "ARMOR PLATE",
+          "catalog_number": "8400 34\" X AS REQ B-CS TKTX",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "DOOR SWEEP",
+          "catalog_number": "39A",
+          "finish": "A",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "HD THRESHOLD",
+          "catalog_number": "655A-V3-226",
+          "finish": "A",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS - IN DOOR",
+          "catalog_number": "CON - LENGTH AS REQUIRED - FROM LOCK TO EPT",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "WIRE HARNESS CONNECTOR - IN FRAME",
+          "catalog_number": "CON - 6W - FROM CON TO POWER SUPPLY",
+          "finish": null,
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MULTITECH READER - FURNISHED, INSTALLED, COMMISSIONED BY DIV 28",
+          "catalog_number": "MT15B 5VDC - 28VDC - AS REQUIRED - EXISTING READER TO BE RELOCATED",
+          "finish": "BLK",
+          "mfr": "SCE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR CONTACT - BY DIVISION 28",
+          "catalog_number": "679-05 WD/HM - AS REQUIRED",
+          "finish": "BLK",
+          "mfr": "SCE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CREDENTIAL POWER SUPPLY - AS REQUIRED",
+          "catalog_number": "BY DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        },
+        {
+          "qty": null,
+          "unit": null,
+          "description": "DIAGRAMS",
+          "catalog_number": "PROVIDE FACTORY POINT TO POINT WIRING DIAGRAMS",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "48",
+      "pages": [
+        438
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1HW 4.5 X 4.5 - NRP AT OUTSWINGING DRS",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "PASSAGE SET",
+          "catalog_number": "L9010.03.626.A.626.03.626.A.626",
+          "finish": "626",
+          "mfr": "SCH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH STOP",
+          "catalog_number": "100S",
+          "finish": "630",
+          "mfr": "GLY",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "REG/ PA SURFACE CLOSER - AS REQUIRED",
+          "catalog_number": "4040XP REG TBSRT/ 4040XP EDA TBSRT - AS REQUIRED",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "ARMOR PLATE",
+          "catalog_number": "8400 34\" X AS REQ B-CS TKTX",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING SET",
+          "catalog_number": "188SBK PSA",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR SWEEP",
+          "catalog_number": "39A",
+          "finish": "A",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "HD THRESHOLD",
+          "catalog_number": "655A-V3-226",
+          "finish": "A",
+          "mfr": "ZER",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+set_number,set_description,not_used,doors,set_pages,set_confidence,qty,unit,description,catalog_number,mfr,finish,notes,mfr_name,finish_name,electrified,component_page,component_bbox,low_confidence_fields
+1.0,,False,"101a, 101b",563,0.89,2,,Door Bottom Rail,DRT per Elevation,GS,BSP,,,Black suede powder coat,,563,"[74.3, 245.6, 473.8, 256.7]",
+1.0,,False,"101a, 101b",563,0.89,2,,Door Top Rail,DRT per Elevation,GS,BSP,,,Black suede powder coat,,563,"[74.3, 260.1, 473.8, 271.2]",
+1.0,,False,"101a, 101b",563,0.89,2,,Bottom Pivot,PV-FM-300END,GS,US32D,,,Satin stainless,,563,"[74.3, 274.6, 473.8, 285.7]",
+1.0,,False,"101a, 101b",563,0.89,1,,Exit Device,PDU8000-3 Code 01,GS,BSP,,,Black suede powder coat,,563,"[74.3, 289.1, 473.8, 300.2]",
+1.0,,False,"101a, 101b",563,0.89,1,,Exit Device,PDU8000-3,GS,BSP,,,Black suede powder coat,,563,"[74.3, 303.6, 473.8, 314.7]",
+1.0,,False,"101a, 101b",563,0.89,1,,Mortise Cylinder,CR1080 CT6B,RU,BSP,,Corbin Russwin,Black suede powder coat,,563,"[74.3, 318.2, 473.7, 329.3]",
+1.0,,False,"101a, 101b",563,0.89,1,,Interchangeable Core,CR8000,RU,BSP,,Corbin Russwin,Black suede powder coat,,563,"[74.3, 332.6, 473.7, 343.7]",
+1.0,,False,"101a, 101b",563,0.89,2,,Concealed Closer,OHC-609-90NHO,GS,,,,,,563,"[74.3, 347.1, 473.8, 358.2]",
+1.0,,False,"101a, 101b",563,0.89,1,,Threshold,271A or Per Sill Detail,PE,,,Pemko,,,563,"[74.3, 361.6, 472.6, 372.7]",
+1.0,,False,"101a, 101b",563,0.89,1,,Strike,MSK-DBL,RO,BSP,,Rockwood,Black suede powder coat,,563,"[74.3, 376.1, 474.3, 387.2]",

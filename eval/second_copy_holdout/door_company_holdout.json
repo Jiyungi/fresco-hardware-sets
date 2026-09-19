@@ -1,0 +1,17 @@
+{"source_pdf": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf", "all_set_numbers": [], "labeler_notes": "Set number printed as 'PART 119 - HARDWARE GROUP NO. CY201C'; junk 'PART 119 - ' ignored. The last three rows (qty 1, no unit) have their text only in the CATALOG NUMBER column (x-position matches catalog column), so description null and the text is catalog_number. 'PART 121 - PROVIDE (3) HINGES...' and OPERATION block excluded as set-level notes.",
+ "sets": [
+  {"set_number": "CY201C", "pages": [410], "description": null, "not_used": false,
+   "components": [
+    {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1HW 4.5 X 4.5 NRP", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "EU MORTISE LOCK", "catalog_number": "L9092TEU 17L CON 12/24 VDC", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "PERMANENT CORE", "catalog_number": "COORDINATE WITH OWNER", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP SCUSH", "finish": "689", "mfr": "LCN", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 10\" X 2\" LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "488SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "WIRE HARNESS (DOOR)", "catalog_number": "CON-LENGTH AS REQ", "finish": null, "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": null, "description": null, "catalog_number": "ACCESS CONTROL READER(S) BY DIV 28", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": null, "description": null, "catalog_number": "DOOR POSITION SWITCH BY DIV 28", "finish": null, "mfr": null, "notes": null},
+    {"qty": 1, "unit": null, "description": null, "catalog_number": "POWER SUPPLY BY DIV 28", "finish": null, "mfr": null, "notes": null}
+   ]}
+ ]}

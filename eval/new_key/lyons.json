@@ -1,0 +1,62 @@
+{
+ "source_pdf": "Lyons Township HS/Project Manual (1).pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Group 16 printed as 'Hardware Group No. 16 - Not Used' (not_used, no components, description null). Group 19 'CLASSROOM SECURITY W/ INSIDE INDICATOR' description wraps onto two lines and was joined. Icons between columns ignored.",
+ "sets": [
+  {
+   "set_number": "16",
+   "pages": [
+    290
+   ],
+   "description": null,
+   "not_used": true,
+   "components": []
+  },
+  {
+   "set_number": "19",
+   "pages": [
+    291
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CLASSROOM SECURITY W/ INSIDE INDICATOR",
+     "catalog_number": "L9071BD 03A IS-LOC",
+     "finish": "612",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 2,
+     "unit": "EA",
+     "description": "SFIC CORE",
+     "catalog_number": "C607",
+     "finish": "606",
+     "mfr": "FAL",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP EDA",
+     "finish": "691",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS401/402CCV",
+     "finish": "612",
+     "mfr": "IVE",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

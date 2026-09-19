@@ -1,0 +1,24 @@
+{"source_pdf": "AMI _Copy_/c43c36d9-000_Full_Volume_ATC_Renovation_Bid_Specs_Volume_1__1_.pdf", "all_set_numbers": [], "labeler_notes": "Set 10: POWER SUPPLY row has qty 1 with no unit and catalog '(BY DIV. 28)'; operational description lines after the list excluded as set-level notes. ELEC CLASSROOM LOCK catalog wraps onto a second line 'DIV. 28)'.",
+ "sets": [
+  {"set_number": "05A", "pages": [402], "description": null, "not_used": false,
+   "components": [
+    {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "OFFICE/ENTRY LOCK", "catalog_number": "L9050T 17A", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "FSIC CORE", "catalog_number": "23-030 CKC EV29 T", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP", "finish": "689", "mfr": "LCN", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 8\" X 2\" LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "WALL STOP", "catalog_number": "WS406/407CCV", "finish": "626", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "488FSBK PSA", "finish": "BK", "mfr": "ZER", "notes": null}
+   ]},
+  {"set_number": "10", "pages": [406], "description": null, "not_used": false,
+   "components": [
+    {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5 NRP", "finish": "652", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "POWER TRANSFER", "catalog_number": "EPT10 CON", "finish": "689", "mfr": "VON", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "ELEC CLASSROOM LOCK", "catalog_number": "AD-300-MS-70-MT-SPA-J (BY DIV. 28)", "finish": "626", "mfr": "SCE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "FSIC CORE", "catalog_number": "23-030 CKC EV29 T", "finish": "626", "mfr": "SCH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP SCUSH", "finish": "689", "mfr": "LCN", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 8\" X 2\" LDW B-CS", "finish": "630", "mfr": "IVE", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "GASKETING", "catalog_number": "488FSBK PSA", "finish": "BK", "mfr": "ZER", "notes": null},
+    {"qty": 1, "unit": null, "description": "POWER SUPPLY", "catalog_number": "(BY DIV. 28)", "finish": null, "mfr": null, "notes": null}
+   ]}
+ ]}

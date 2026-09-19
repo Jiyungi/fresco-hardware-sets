@@ -1,0 +1,126 @@
+{
+ "source_pdf": "JC Ryan 2/087100 - Door Hardware-6.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Book has qty+description / catalog / manufacturer columns; no unit or finish column (null). Set descriptions taken from 'Description:' lines (en dash kept). 16.0 hinge row has no quantity (null) and the Silencers row has no manufacturer.",
+ "sets": [
+  {
+   "set_number": "EX-3.0",
+   "pages": [
+    26
+   ],
+   "description": "Single Opening – Exterior Stair Fan",
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Continuous Hinge",
+     "catalog_number": "FMHD1",
+     "finish": null,
+     "mfr": "Pemko",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Storeroom Lock",
+     "catalog_number": "8204 LNL",
+     "finish": null,
+     "mfr": "Sargent",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Surface Closer",
+     "catalog_number": "UNI-7500",
+     "finish": null,
+     "mfr": "Norton",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Perimeter Gasket",
+     "catalog_number": "290 x 2891APK",
+     "finish": null,
+     "mfr": "Pemko",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Gasketing",
+     "catalog_number": "S88BL",
+     "finish": null,
+     "mfr": "Pemko",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Door Shoe",
+     "catalog_number": "234AV",
+     "finish": null,
+     "mfr": "Pemko",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Threshold",
+     "catalog_number": "2005AT",
+     "finish": null,
+     "mfr": "Pemko",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "16.0",
+   "pages": [
+    41
+   ],
+   "description": "Single Opening – Temporary Opening",
+   "not_used": false,
+   "components": [
+    {
+     "qty": null,
+     "unit": null,
+     "description": "Hinge, Full Mortise",
+     "catalog_number": "TA2714",
+     "finish": null,
+     "mfr": "McKinney",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Classroom Lock",
+     "catalog_number": "8237 LNMI",
+     "finish": null,
+     "mfr": "Sargent",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": null,
+     "description": "Surface Closer",
+     "catalog_number": "CPS-1601",
+     "finish": null,
+     "mfr": "Norton",
+     "notes": null
+    },
+    {
+     "qty": 3,
+     "unit": null,
+     "description": "Silencers",
+     "catalog_number": "SR64/ SR65",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

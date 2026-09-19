@@ -1,0 +1,261 @@
+{
+ "source_pdf": "Shubie Center/e2231795-IFT_Specs.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "No column headers printed; columns read as QTY | UNIT | DESCRIPTION | CATALOG | FINISH | MFR. Titles carry no set name, so description null. Door lines and 'Provide each SGL door(s)...' excluded; operational text after each list ('DOORS ARE ALWAYS ... / MODE OF OPERATION / ...') excluded as set-level notes. Set 03 DOOR PULL catalog printed with a right double quotation mark (U+201D): '8190HD 10”', kept as printed. Blank finish -> null. No struck-out text on pp.174-175.",
+ "sets": [
+  {
+   "set_number": "01",
+   "pages": [
+    174
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CONT. HINGE",
+     "catalog_number": "112XY",
+     "finish": "711",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "PANIC HARDWARE",
+     "catalog_number": "33A-NL-OP-388",
+     "finish": "315",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "RIM CYLINDER",
+     "catalog_number": "80-329",
+     "finish": "622",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ELECTRIC STRIKE",
+     "catalog_number": "6300 FSE",
+     "finish": "630",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "LONG DOOR PULL",
+     "catalog_number": "9264 48\" 20\" O",
+     "finish": "BLK",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "OH STOP",
+     "catalog_number": "100S",
+     "finish": "BLK",
+     "mfr": "GLY",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA-R",
+     "description": "AUTO OPERATOR",
+     "catalog_number": "9542",
+     "finish": "ANCL",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 4,
+     "unit": "EA-R",
+     "description": "ACTUATOR, TOUCH",
+     "catalog_number": "8310-818",
+     "finish": "630",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "8192A x door width",
+     "finish": null,
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "THRESHOLD",
+     "catalog_number": "545A x door width",
+     "finish": null,
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR SEALANT",
+     "catalog_number": "GASKETING BY DR SUPPLIER",
+     "finish": null,
+     "mfr": "UNK",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WIRE HARNESS",
+     "catalog_number": "CON. TO SUIT",
+     "finish": null,
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "CREDENTIAL",
+     "catalog_number": "BY OTHERS",
+     "finish": null,
+     "mfr": "UNK",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "READER/CONTROLL",
+     "catalog_number": "BY OTHERS",
+     "finish": null,
+     "mfr": "UNK",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR CONTACT",
+     "catalog_number": "679-05 TO SUIT DR MATERIAL",
+     "finish": "WHT",
+     "mfr": "SCE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "POWER SUPPLY",
+     "catalog_number": "PS904 900-4RL 120/240 VAC",
+     "finish": "LGR",
+     "mfr": "SCE",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "03",
+   "pages": [
+    175
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1 4.5 X 4 NRP",
+     "finish": "622",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "FIRE EXIT HARDWARE",
+     "catalog_number": "98-NL-OP-F 110MD",
+     "finish": "315",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "RIM CYLINDER",
+     "catalog_number": "80-329",
+     "finish": "622",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "ELECTRIC STRIKE",
+     "catalog_number": "6300 FSE",
+     "finish": "630",
+     "mfr": "VON",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR PULL",
+     "catalog_number": "8190HD 10”",
+     "finish": "BLK",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "OH STOP",
+     "catalog_number": "90S",
+     "finish": "BLK",
+     "mfr": "GLY",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "SURFACE CLOSER",
+     "catalog_number": "4040XP LONG",
+     "finish": "622",
+     "mfr": "LCN",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "GASKETING",
+     "catalog_number": "312A-S x door width x (2) door",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "DOOR SWEEP",
+     "catalog_number": "8192AA x door width",
+     "finish": "AA",
+     "mfr": "ZER",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "THRESHOLD",
+     "catalog_number": "545A x door width",
+     "finish": "A",
+     "mfr": "ZER",
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

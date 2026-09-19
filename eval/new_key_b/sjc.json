@@ -1,0 +1,244 @@
+{
+  "source_pdf": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Qty 'As Req' -> qty null, unit null. Finish/Manf '---' -> null. HW 29 'Low Risk' printed on the 'Each Opening to Receive:' line is not part of the description. HW E05: struck-out row '2 Ea. Door Position Switch MC-4 (Or as Req) --- SDC' excluded (strike confirmed on image and by vector line through the row). No strikes in HW 29 or HW G02. Note: blocks excluded.",
+  "sets": [
+    {
+      "set_number": "29",
+      "pages": [
+        724
+      ],
+      "description": "Interior Single - Classroom Lockset - Surface Closer - Butt Hinges",
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": null,
+          "description": "Hinge-HT",
+          "catalog_number": "CB51 HT",
+          "finish": "630",
+          "mfr": "PBB",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cyl. Lock-Classrm",
+          "catalog_number": "CDC-84-S",
+          "finish": "626",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "626",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH Surface Closer",
+          "catalog_number": "4040XP/4040XP EDA",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "Per Specification",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Gasketing",
+          "catalog_number": "5050",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "E05",
+      "pages": [
+        737
+      ],
+      "description": "Exterior Pair - Exit Device/Storeroom Lever - Surface Closer/Stop-Arm",
+      "not_used": false,
+      "components": [
+        {
+          "qty": null,
+          "unit": null,
+          "description": "Hinge",
+          "catalog_number": "4C51 NRP",
+          "finish": "630",
+          "mfr": "PBB",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Removable Mullion",
+          "catalog_number": "MUL",
+          "finish": "628",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Rim Device-EO",
+          "catalog_number": "ED1100/EF1100-EO",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Rim Device-LNL",
+          "catalog_number": "ED1100/EF1100 x ED309R-D",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "626",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "OH Surface Closer-SCUSH",
+          "catalog_number": "4040XP SCUSH",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Overhead Rain Drip",
+          "catalog_number": "16A (As Req)",
+          "finish": "628",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Mullion Seal",
+          "catalog_number": "5100",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Door Sweep",
+          "catalog_number": "C627",
+          "finish": "628",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Weatherstrip",
+          "catalog_number": "700Nx700EN",
+          "finish": "719",
+          "mfr": "NGP",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Threshold",
+          "catalog_number": "To Suit Sill Condition",
+          "finish": "719",
+          "mfr": "PEM",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "Door Position Switch",
+          "catalog_number": "By Division 28",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "G02",
+      "pages": [
+        748
+      ],
+      "description": "Exterior Pair Gates - Exit Device/Storeroom Lever - Cane Bolt - Gate Pivots/Closers",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": "SET",
+          "description": "Spring Hinge/Closer",
+          "catalog_number": "Mammoth-HD",
+          "finish": "TBD",
+          "mfr": "LOC",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Exit Device-LNL",
+          "catalog_number": "40W-09DN",
+          "finish": "TBD",
+          "mfr": "DET",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder to Suit Device",
+          "catalog_number": "Per Specification",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cane Bolt",
+          "catalog_number": "53-2528",
+          "finish": "TBD",
+          "mfr": "STA",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Padlock for cane bolt",
+          "catalog_number": "Per Specification",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

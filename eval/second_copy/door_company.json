@@ -1,0 +1,117 @@
+{
+ "source_pdf": "The Door Company _Copy_/Vantage TX-22 Div 01, 08.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Titles are 'PART 6 - HARDWARE GROUP NO. 103' and 'PART 10 - HARDWARE GROUP NO. 103A'; the 'PART n - ' prefix is junk numbering. 'PART 8/12 - PROVIDE (3) HINGES ...' paragraphs are set-level notes and excluded. Last row of 103A has qty 1 EA, blank description, catalog 'GASKETING BY DOOR/FRAME MANUFACTURER', no finish/mfr.",
+ "sets": [
+  {
+   "set_number": "103",
+   "pages": [
+    389
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1HW 4.5 X 4.5",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "OFFICE/ENTRY LOCK",
+     "catalog_number": "L9050T 17L 09-544",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "PERMANENT CORE",
+     "catalog_number": "COORDINATE WITH OWNER",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS406/407CVX",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "SILENCER",
+     "catalog_number": "SR64",
+     "finish": "GRY",
+     "mfr": "IVE",
+     "notes": null
+    }
+   ]
+  },
+  {
+   "set_number": "103A",
+   "pages": [
+    389
+   ],
+   "description": null,
+   "not_used": false,
+   "components": [
+    {
+     "qty": 3,
+     "unit": "EA",
+     "description": "HINGE",
+     "catalog_number": "5BB1HW 4.5 X 4.5",
+     "finish": "652",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "OFFICE/ENTRY LOCK",
+     "catalog_number": "L9050T 17L 09-544",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "PERMANENT CORE",
+     "catalog_number": "COORDINATE WITH OWNER",
+     "finish": "626",
+     "mfr": "SCH",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": "WALL STOP",
+     "catalog_number": "WS406/407CVX",
+     "finish": "630",
+     "mfr": "IVE",
+     "notes": null
+    },
+    {
+     "qty": 1,
+     "unit": "EA",
+     "description": null,
+     "catalog_number": "GASKETING BY DOOR/FRAME MANUFACTURER",
+     "finish": null,
+     "mfr": null,
+     "notes": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{"source_pdf": "Lyons Township HS/Project Manual (1).pdf", "all_set_numbers": [],
+ "labeler_notes": "Set 26 has a single printed row (SPRING CUSH ARM) and ends on p.292; p.293 begins with Hardware Group No. 27. Set 27 hinge catalog number wraps: '5BB1 4.5 X 4.5 (NRP AT' / 'OUTSWING LOCKING DOORS)' joined in the catalog column (the parenthetical starts on the first line, so it is a wrap, not a separate remark line). Icons between catalog and finish columns ignored. Each group number appears once in the manual.",
+ "sets": [
+  {"set_number": "26", "pages": [292], "description": null, "not_used": false, "components": [
+   {"qty": 1, "unit": "EA", "description": "SPRING CUSH ARM", "catalog_number": "4040XP-3077SCNS", "finish": "691", "mfr": "LCN", "notes": null}
+  ]},
+  {"set_number": "27", "pages": [293], "description": null, "not_used": false, "components": [
+   {"qty": 3, "unit": "EA", "description": "HINGE", "catalog_number": "5BB1 4.5 X 4.5 (NRP AT OUTSWING LOCKING DOORS)", "finish": "639", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "STOREROOM LOCK", "catalog_number": "L9080BD 03A", "finish": "612", "mfr": "SCH", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "SFIC CORE", "catalog_number": "C607", "finish": "606", "mfr": "FAL", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "SURFACE CLOSER", "catalog_number": "4040XP EDA", "finish": "691", "mfr": "LCN", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "KICK PLATE", "catalog_number": "8400 10\" X 2\" LDW B-CS", "finish": "612", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "WALL STOP", "catalog_number": "WS401/402CCV", "finish": "612", "mfr": "IVE", "notes": null},
+   {"qty": 1, "unit": "EA", "description": "GASKETING SET", "catalog_number": "188SBK PSA", "finish": "BK", "mfr": "ZER", "notes": null}
+  ]}
+ ]}

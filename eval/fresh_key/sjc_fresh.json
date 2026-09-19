@@ -1,0 +1,135 @@
+{
+  "source_pdf": "SJC Well Behavioral/89671ede-20260218_SJC_BeWell_Bldg_B_85__DESIGN_UPDATE_-_SPECIFICATIONS.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "'Each Opening to Receive: <risk level>' lines excluded from descriptions. HW 07B: the '1 Ea. OH Concealed Closer 2031 BUMP 689 LCN' row is struck out (visible line through it on p.714) and is excluded; the 'Note: NYS OMH Standards ...' line after the table is a set-level note (excluded). HW 10A is only 'Moved to Exterior Set HW E12' -> not_used true, description null, no components. Units 'Ea.'->EA, 'Set'->SET.",
+  "sets": [
+    {
+      "set_number": "03",
+      "pages": [
+        711
+      ],
+      "description": "Interior Single - Storeroom Lock/Ligature Resistant - Surface Closer/Track-Arm - Cont Hng",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Continuous Hinge",
+          "catalog_number": "AC500 HT SEC",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Ligature Res. Cyl. Lock-Storerm",
+          "catalog_number": "CRX-A-86",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "630",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "OH Surface Closer - Track Arm",
+          "catalog_number": "4040XPT TROX",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "07B",
+      "pages": [
+        714
+      ],
+      "description": "Interior Single - Institutional Privacy/Occ Ind - Ligature Resistant - OHCC - Cont Hinge",
+      "not_used": false,
+      "components": [
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Self Closing Continuous Hinge",
+          "catalog_number": "A507SC HT",
+          "finish": "628",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Lig Res Mortise Lock-Strm Priv w/ID",
+          "catalog_number": "MRX-A-15-O (Storerm Prvy W/ID ORD)",
+          "finish": "630",
+          "mfr": "TOW",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Cylinder",
+          "catalog_number": "Per project",
+          "finish": "630",
+          "mfr": "TBD",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "Door Stop",
+          "catalog_number": "1841",
+          "finish": "630",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "Gasketing",
+          "catalog_number": "ANTI-LIG 5050",
+          "finish": "BLK",
+          "mfr": "NGP",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "10A",
+      "pages": [
+        715
+      ],
+      "description": null,
+      "not_used": true,
+      "components": []
+    }
+  ]
+}

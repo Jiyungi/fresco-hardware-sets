@@ -1,0 +1,37 @@
+{"source_pdf": "Livelle Mulholland - Life Plan Community/2025-12-12_Livelle_Bid_Set_Project_Manual_Vol1_rev1.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "No unit column printed; unit null throughout. Set-level 'Notes:' lines excluded. Orange lightning icons next to MFR column ignored. No struck-out text on pp. 662, 677, 681.",
+ "sets": [
+  {"set_number": "65.0", "pages": [662], "description": "IT / Elec Room (WDL)", "not_used": false,
+   "components": [
+    {"qty": 3, "unit": null, "description": "Hinge, Full Mortise", "catalog_number": "TA2714 NRP", "finish": "US15", "mfr": "MK", "notes": null},
+    {"qty": 1, "unit": null, "description": "Access Control Cyl Lock", "catalog_number": "70 IN100-10XG77-BIPS B LMW", "finish": "US15", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Small Format Inter Core", "catalog_number": "7300B CKC GMK", "finish": "US15", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Surface Closer", "catalog_number": "351 P9", "finish": "EN", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Wall Stop", "catalog_number": "430-RKW", "finish": "US15", "mfr": "RO", "notes": null},
+    {"qty": 1, "unit": null, "description": "Gasketing", "catalog_number": "S88BL", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Door Bottom", "catalog_number": "420APKL @ HM / 434APKL@ WD", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Threshold", "catalog_number": "270A MSES25 or Per Detail", "finish": null, "mfr": "PE", "notes": null}
+   ]},
+  {"set_number": "100.0", "pages": [677], "description": "Exterior Deck Storefront Door (WDL)", "not_used": false,
+   "components": [
+    {"qty": 1, "unit": null, "description": "Pivot Set", "catalog_number": "195", "finish": "622", "mfr": "RF", "notes": null},
+    {"qty": 2, "unit": null, "description": "Intermediate Pivot", "catalog_number": "M19", "finish": "622", "mfr": "RF", "notes": null},
+    {"qty": 1, "unit": null, "description": "Access Control Mort Lock", "catalog_number": "IN100-82277-BIPS LNMW LC", "finish": "BSP", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Mortise Cylinder", "catalog_number": "72 43 verify cam", "finish": "BSP", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Small Format Inter Core", "catalog_number": "7300B CKC GMK", "finish": "US4", "mfr": "SA", "notes": null},
+    {"qty": 1, "unit": null, "description": "Concealed Closer", "catalog_number": "PH91NDCP 105 Stop Block", "finish": "BSP", "mfr": "RF", "notes": null},
+    {"qty": 1, "unit": null, "description": "Sweep", "catalog_number": "18062BSPNB", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Threshold", "catalog_number": "2727A MSES25SS or Per Detail", "finish": null, "mfr": "PE", "notes": null}
+   ]},
+  {"set_number": "107.0", "pages": [681], "description": "Dining Room Door Pair (HO)", "not_used": false,
+   "components": [
+    {"qty": 8, "unit": null, "description": "Hinge, Full Mortise, Hvy Wt", "catalog_number": "T4A3786", "finish": "US15", "mfr": "MK", "notes": null},
+    {"qty": 2, "unit": null, "description": "Push Bar", "catalog_number": "RM4012 Mtg-Type 12XHD 33\"", "finish": "US32D", "mfr": "RO", "notes": null},
+    {"qty": 2, "unit": null, "description": "Pull", "catalog_number": "RM4010MP-72 Mtg-Type 12XHD", "finish": "US32D", "mfr": "RO", "notes": null},
+    {"qty": 2, "unit": null, "description": "Surface Closer", "catalog_number": "351 H", "finish": "EN", "mfr": "SA", "notes": null},
+    {"qty": 2, "unit": null, "description": "Wall Stop", "catalog_number": "430-RKW", "finish": "US15", "mfr": "RO", "notes": null},
+    {"qty": 1, "unit": null, "description": "Gasketing", "catalog_number": "S88BL", "finish": null, "mfr": "PE", "notes": null},
+    {"qty": 1, "unit": null, "description": "Astragal Edge Seal", "catalog_number": "S772C", "finish": null, "mfr": "PE", "notes": null}
+   ]}
+ ]}

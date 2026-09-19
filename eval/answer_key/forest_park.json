@@ -1,0 +1,65 @@
+{
+  "source_pdf": "Forest Park School/Project Manual (1).pdf",
+  "all_set_numbers": [
+    "1"
+  ],
+  "labeler_notes": "Set title printed 'Set #1' -> '1'. No description line (only 'Doors: 256a, 2p57a', excluded) -> description null. Quantities printed as decimals ('3.0', '1.0') -> integers; no unit printed. Columns: qty / description / catalog / finish / mfr. Set runs from p.262 (2 rows) to p.263 (3 rows) and ends at END OF SECTION. No struck-out text (no vector drawings on either page). Only one hardware set exists in the whole 344-page manual (section 087100 3.07 'HARDWARE SETS:').",
+  "sets": [
+    {
+      "set_number": "1",
+      "pages": [
+        262,
+        263
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Hinge",
+          "catalog_number": "FBB179 NRP 4.5X4.5",
+          "finish": "26D",
+          "mfr": "BES",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Lock-Storeroom",
+          "catalog_number": "45H-0D-15H LESS CYLINDER",
+          "finish": "626",
+          "mfr": "BES",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder",
+          "catalog_number": "CR1000-XXX-CAM-7 59D1 (TIE TO SYSTEM)",
+          "finish": "626",
+          "mfr": "C-R",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Surface Overhead Stop",
+          "catalog_number": "4420 SERIES",
+          "finish": "US32D",
+          "mfr": "ABH",
+          "notes": null
+        },
+        {
+          "qty": 3,
+          "unit": null,
+          "description": "Silencers",
+          "catalog_number": "500",
+          "finish": "Gray",
+          "mfr": "BRN",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+| confidence | values | wrong | share wrong |
+|---|---|---|---|
+| needs checking (< 0.7) | 10 | 0 | 0.0% |
+| medium (0.7-0.9) | 116 | 0 | 0.0% |
+| high (>= 0.9) | 1529 | 1 | 0.1% |
+
+wrong values: 1; of these, marked 'needs checking': 0
+values marked 'needs checking': 10 of 1655 (0.6%)
+rows missed entirely: 1; extra rows: 0
+  conf 0.90  door_company set C200CZ: catalog_number: got 'L9092TEU 17L RX CON 12/24 VDC (FAIL SECURE)', key 'L9092TEU 17L RX CON 12/24 VDC'

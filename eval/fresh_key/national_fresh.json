@@ -1,0 +1,15 @@
+{"source_pdf": "National Doors and Hardware/15e2b8ac-FS17_Specs_V1.pdf",
+ "all_set_numbers": [],
+ "labeler_notes": "Neither title line carries a set name, so description is null. Door-number lines and 'Provide each ... with the following:' excluded. Set 13 BOTTOM FLOOR GUIDE row has no MFR printed (mfr null). Set 15 catalog printed 'BY  GATE MFG' (double space in text layer) collapsed to 'BY GATE MFG'; its FINISH and MFR are blank (only an electrified icon, ignored). Cut-sheet icons ignored. No struck-out text on pp.411-412.",
+ "sets": [
+  {"set_number": "13", "pages": [411], "description": null, "not_used": false,
+   "components": [
+    {"qty": 1, "unit": "EA", "description": "BARN DOOR HARDWARE KIT", "catalog_number": "2610F96S SOFT CLOSE", "finish": "626", "mfr": "JOH", "notes": null},
+    {"qty": 1, "unit": "EA", "description": "BOTTOM FLOOR GUIDE", "catalog_number": "C-GUIDE SLDING BARN DOOR FLOOR GUIDE", "finish": "630", "mfr": null, "notes": null},
+    {"qty": 1, "unit": "EA", "description": "DOOR PULL", "catalog_number": "AP411G 12 CTC", "finish": "630", "mfr": "TRI", "notes": null}
+   ]},
+  {"set_number": "15", "pages": [412], "description": null, "not_used": false,
+   "components": [
+    {"qty": 1, "unit": "EA", "description": "ALL HARDWARE", "catalog_number": "BY GATE MFG", "finish": null, "mfr": null, "notes": null}
+   ]}
+ ]}

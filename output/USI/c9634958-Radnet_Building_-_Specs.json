@@ -1,0 +1,346 @@
+{
+  "source_file": "USI/c9634958-Radnet_Building_-_Specs.pdf",
+  "page_count": 1460,
+  "sets": [
+    {
+      "set_number": "1.0",
+      "description": null,
+      "not_used": false,
+      "doors": [
+        "101a",
+        "101b"
+      ],
+      "set_notes": null,
+      "location": [
+        {
+          "page": 563,
+          "bbox": [
+            74.3,
+            202.1,
+            474.3,
+            387.2
+          ]
+        }
+      ],
+      "components": [
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Door Bottom Rail",
+          "catalog_number": "DRT per Elevation",
+          "mfr": "GS",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": null,
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                245.6,
+                473.8,
+                256.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.73,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Door Top Rail",
+          "catalog_number": "DRT per Elevation",
+          "mfr": "GS",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": null,
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                260.1,
+                473.8,
+                271.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.73,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Bottom Pivot",
+          "catalog_number": "PV-FM-300END",
+          "mfr": "GS",
+          "finish": "US32D",
+          "notes": null,
+          "mfr_name": null,
+          "finish_name": "Satin stainless",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                274.6,
+                473.8,
+                285.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.73,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Exit Device",
+          "catalog_number": "PDU8000-3 Code 01",
+          "mfr": "GS",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": null,
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                289.1,
+                473.8,
+                300.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.73,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Exit Device",
+          "catalog_number": "PDU8000-3",
+          "mfr": "GS",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": null,
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                303.6,
+                473.8,
+                314.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.73,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Mortise Cylinder",
+          "catalog_number": "CR1080 CT6B",
+          "mfr": "RU",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": "Corbin Russwin",
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                318.2,
+                473.7,
+                329.3
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.85,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Interchangeable Core",
+          "catalog_number": "CR8000",
+          "mfr": "RU",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": "Corbin Russwin",
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                332.6,
+                473.7,
+                343.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.85,
+            "finish": 0.85
+          }
+        },
+        {
+          "qty": 2,
+          "unit": null,
+          "description": "Concealed Closer",
+          "catalog_number": "OHC-609-90NHO",
+          "mfr": "GS",
+          "finish": null,
+          "notes": null,
+          "mfr_name": null,
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                347.1,
+                473.8,
+                358.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.73,
+            "finish": 0.77
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Threshold",
+          "catalog_number": "271A or Per Sill Detail",
+          "mfr": "PE",
+          "finish": null,
+          "notes": null,
+          "mfr_name": "Pemko",
+          "finish_name": null,
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                361.6,
+                472.6,
+                372.7
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.77,
+            "finish": 0.77
+          }
+        },
+        {
+          "qty": 1,
+          "unit": null,
+          "description": "Strike",
+          "catalog_number": "MSK-DBL",
+          "mfr": "RO",
+          "finish": "BSP",
+          "notes": null,
+          "mfr_name": "Rockwood",
+          "finish_name": "Black suede powder coat",
+          "electrified": null,
+          "catalog_codes": {},
+          "location": [
+            {
+              "page": 563,
+              "bbox": [
+                74.3,
+                376.1,
+                474.3,
+                387.2
+              ]
+            }
+          ],
+          "confidence": {
+            "qty": 0.97,
+            "description": 0.95,
+            "catalog_number": 0.95,
+            "mfr": 0.85,
+            "finish": 0.85
+          }
+        }
+      ],
+      "confidence": 0.89,
+      "warnings": []
+    }
+  ],
+  "code_tables": {},
+  "layout_notes": [
+    "hardware pages: 563",
+    "columns learned from rows: description@84, catalog@249, finish@418, mfr@459"
+  ]
+}

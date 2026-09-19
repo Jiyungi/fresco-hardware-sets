@@ -1,0 +1,307 @@
+{
+  "source_pdf": "SAT TDP/2025.12.19 - SAT TDP - Project Manual.pdf",
+  "all_set_numbers": [],
+  "labeler_notes": "Separate parenthesised remark lines under a one-line catalog number (hinge '(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)', rain drip '(OMIT @ COVERED OPENINGS)') put in notes with parentheses kept. 804AL MS DEADBOLT '(BACKSET AS REQ)' kept in catalog_number because the catalog number is long and wraps (line break may be a plain wrap). Non-parenthesised continuation lines ('STOREROOM FUNCTION', 'FAIL SECURE') joined into catalog_number. Set-level dash notes and DESCRIPTION OF OPERATION blocks excluded. 804AL is distinct from 804AIL printed above it on p.738.",
+  "sets": [
+    {
+      "set_number": "804AL",
+      "pages": [
+        738
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CONT. HINGE",
+          "catalog_number": "112XY",
+          "finish": "628",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MS DEADBOLT",
+          "catalog_number": "MS1850S SERIES X 4015 X 4016 X 4085 X 4089 (INDICATOR) (BACKSET AS REQ)",
+          "finish": "628",
+          "mfr": "ADA",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "CYLINDER",
+          "catalog_number": "AS REQUIRED",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "LFIC PERMANENT CORE",
+          "catalog_number": "MATCH EXISTING KEY SYSTEM",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "PUSH/PULL BAR",
+          "catalog_number": "9190-NO-10\"",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH X TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "RAIN DRIP",
+          "catalog_number": "142AA DW + 4\"",
+          "finish": "AA",
+          "mfr": "ZER",
+          "notes": "(OMIT @ COVERED OPENINGS)"
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "SEAL",
+          "catalog_number": "PERIMETER SEAL BY FRAME MFR",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "SET",
+          "description": "ASTRAGAL",
+          "catalog_number": "MEETING STILE SEAL BY DOOR MFR",
+          "finish": null,
+          "mfr": null,
+          "notes": null
+        },
+        {
+          "qty": 2,
+          "unit": "EA",
+          "description": "DOOR SWEEP",
+          "catalog_number": "8198AA",
+          "finish": "AA",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "THRESHOLD",
+          "catalog_number": "65A",
+          "finish": "A",
+          "mfr": "ZER",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "E201C",
+      "pages": [
+        802
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "MORTISE LOCK",
+          "catalog_number": "72-8204 FEJ 26D STOREROOM FUNCTION",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "XT INTELLIGENT KEY SYSTEM CORE",
+          "catalog_number": "MATCH FACILITY SYSTEM AS REQUIRED",
+          "finish": "626",
+          "mfr": "MED",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP SCUSH X TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488S PSA H & J (USE SILENCERS @ NON-RATED DOORS)",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        }
+      ]
+    },
+    {
+      "set_number": "FC201",
+      "pages": [
+        813
+      ],
+      "description": null,
+      "not_used": false,
+      "components": [
+        {
+          "qty": 3,
+          "unit": "EA",
+          "description": "HINGE",
+          "catalog_number": "5BB1 4.5 X 4.5",
+          "finish": "652",
+          "mfr": "IVE",
+          "notes": "(PROVIDE NRP @ OUTSWING, LOCKABLE DOORS)"
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER TRANSFER",
+          "catalog_number": "EPT10 CON",
+          "finish": "689",
+          "mfr": "VON",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "EU MORTISE LOCK",
+          "catalog_number": "LX-RX-64-8271 LE2J 26D FAIL SECURE",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "LFIC PERMANENT CORE",
+          "catalog_number": "MATCH EXISTING KEY SYSTEM",
+          "finish": "626",
+          "mfr": "SAR",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP RW/PA TBWMS X MTG BRKT, SPCR & PLATE AS REQ",
+          "finish": "689",
+          "mfr": "LCN",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "KICK PLATE",
+          "catalog_number": "8400 10\" X 2\" LDW B-CS",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WALL STOP",
+          "catalog_number": "WS406/407CCV",
+          "finish": "630",
+          "mfr": "IVE",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "GASKETING",
+          "catalog_number": "488S PSA H & J (USE SILENCERS @ NON-RATED DOORS)",
+          "finish": "BK",
+          "mfr": "ZER",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS (IN DOOR)",
+          "catalog_number": "ASSA ABLOY ELECTROLYNX TYPE & LENGTH AS REQ",
+          "finish": null,
+          "mfr": "MCK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "WIRE HARNESS (TO POWER SUPPLY)",
+          "catalog_number": "QC-C006 - CONNECTION LEADS",
+          "finish": null,
+          "mfr": "MCK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "CREDENTIAL READER",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "UNK",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "DOOR POSITION SWITCH",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        },
+        {
+          "qty": 1,
+          "unit": "EA",
+          "description": "POWER SUPPLY",
+          "catalog_number": "AS SPECIFIED IN DIVISION 28",
+          "finish": null,
+          "mfr": "B/O",
+          "notes": null
+        }
+      ]
+    }
+  ]
+}
